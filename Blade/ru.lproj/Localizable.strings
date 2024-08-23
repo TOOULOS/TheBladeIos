@@ -1,0 +1,196 @@
+/* 
+  Localizable.strings
+  Blade
+
+  Created by cqlsys on 13/12/22.
+  
+*/
+
+"Paid Online" = "Оплачено онлайн";
+"Paid at Salon" = "Оплачено в парикмахерской";
+"Rate" = "Поставить оценку";
+"Customer Name" = "Имя клиента";
+"Completed" = "Завершен";
+"Cancelled" = "Отменено";
+"Cancel" = "Отмена";
+"Complete" = "Завершить";
+"Accepted" = "принято";
+"Reject" = "Отклонить";
+"Accept" = "Принять";
+"Pending" = "В ожидании";
+"card ending with" = "карта, оканчивающаяся на";
+"No appointments available" = "Нет доступные записей ";
+"Remove Manual Booking" = "Удалить ручное бронирование";
+"Slot is not available for this booking" = "Слот недоступен для бронирования.";
+"Save Manual Booking" = "Сохранить ручное бронирование";
+"Weekly" = "За неделю";
+"Monthly" = "Ежемесячно";
+"Yearly" = "ежегодно";
+"Jan" = "Ianv";
+"Feb" = "Fevr";
+"Mar" = "Mart";
+"Apr" = "Apr";
+"May" = "Mai";
+"Jun" = "Iiun'";
+"Jul" = "Iiul'";
+"Aug" = "Avg";
+"Sep" = "Sent";
+"Oct" = "Okt";
+"Nov" = "Noiabr'";
+"Dec" = "Dek";
+"Profile" = "Профиль";
+"Wallet" = "Кошелек";
+"Salon Hours" = "Часы работы парикмахерской";
+"My Stylist" = "Мои парикмахеры";
+"Change Password" = "Изменить пароль";
+"Privacy Policy" = "Политика конфиденциальности";
+"About Us" = "О приложении";
+"Delete Account" = "Удалить профиль";
+"Contact Us" = "Напишите нам";
+"Are you sure, you want to logout?" = "Ты уверен?";
+"Are you sure, you want to delete this account?" = "Вы уверены, что хотите удалить свою учетную запись из приложения Blade?";
+"Withdraw" = "снять деньги";
+"Conncet Stripe to withdraw" = "Conncet Stripe снять";
+"Enter amount to withdraw." = "Укажите сумму для снятия";
+"Requried entered amount to withdraw should be greater than €1." = "Требуемая введенная сумма для вывода должна быть больше €1.";
+"Booking start date/time is" = "Дата/время начала бронирования";
+". Before booking date and time you cann't complete this." = ". До даты и времени бронирования вы не можете завершить бронирование.";
+"No data found" = "Нет данных";
+"Post your review for" = "Опубликовать ваш отзыв для";
+"Add your review" = "Добавьте свой отзыв";
+"Please enter name" = "Укажите имя";
+"Please enter phone number" = "Укажите номер телефона";
+"Please enter location" = "Укажите адрес";
+"Please enter description" = "Введите описание";
+"Update Salon Timings" = "Обновление часов работы магазина";
+"Closed" = "Закрыто";
+"Please enter monday timing" = "введите время понедельника";
+"Please enter tuesday timing" = "введите время вторника";
+"Please enter wednesday timing" = "введите время среды";
+"Please enter thursday timing" = "введите время четверга";
+"Please enter friday timing" = "введите время пятницы";
+"Please enter saturday timing" = "введите субботнее время";
+"Please enter sunday timing" = "введите время воскресенья";
+"Minutes" = "минуты";
+"10 minutes" = "10 минуты";
+"20 minutes" = "20 минуты";
+"30 minutes" = "30 минуты";
+"40 minutes" = "40 минуты";
+"50 minutes" = "50 минуты";
+"60 minutes" = "60 минуты";
+"70 minutes" = "70 минуты";
+"80 minutes" = "80 минуты";
+"90 minutes" = "90 минуты";
+"100 minutes" = "100 минуты";
+"110 minutes" = "110 минуты";
+"120 minutes" = "120 минуты";
+"130 minutes" = "130 минуты";
+"140 minutes" = "140 минуты";
+"150 minutes" = "150 минуты";
+"160 minutes" = "160 минуты";
+"170 minutes" = "170 минуты";
+"180 minutes" = "180 минуты";
+"Edit Salon Services" = "Редактировать услуги магазина";
+"Please enter service name" = "Добавить название услуги";
+"Please enter price" = "введите цену";
+"Please select time" = "выберите время";
+"Please select image" = "выбрать изображение";
+"Please enter saloon name" = "Введите название парикмахерской";
+"Please enter email" = "Укажите адрес электронной почты";
+"Please enter valid email address" = "Укажите действительный адрес электронной почты";
+"Please select saloon service" = "Добавить услуги парикмахерской";
+"Please enter valid phone number" = "Укажите номер телефона";
+"Please enter bio" = "введите биографию";
+"Please select any service" = "выбрать любую услугу";
+"Sunday" = "Воскресенье";
+"Monday" = "Понедельник";
+"Tuesday" = "Вторник";
+"Wednesday" = "Среда";
+"Thursday" = "Четверг";
+"Friday" = "Пятница";
+"Saturday" = "Суббота";
+"Please enter accurate date" = "Введите действительные рабочие часы";
+"Reschedule" = "Перенести";
+"Cancelled by you" = "Отменено вами";
+"Cancelled by salon" = "Отменено салоном";
+"Cancelled by stylist" = "Отменено мастером";
+"Rate & Review" = "Поставить оценку и написать отзыв";
+"Reviewd" = "рейтинг";
+"About" = "О приложении";
+"Contact" = "Контакты";
+"customer rating" = "Отзывы клиентов";
+"Select Service" = "Выберите услуги";
+"Please select service first" = "Выберите услуги";
+"Please select slot" = "выберите слот";
+"Stylist Name" = "Имя парикмахера";
+"Salon Owner Name" = "Имя владельца магазина";
+"You have" = "У вас";
+"balance in your wallet. You can use €5 in one online paid booking only when you have balance" = "на счет вашего кошелька. Вы можете использовать сумму в размере 5 евро для оплаты одного посещения при наличии не менее 5 евро на счете кошелька.";
+"Are you sure you want to delete this card" = "Are you sure you want to delete this card";
+"Please enter card" = "Добавить данные карты";
+"Please enter valid card" = "Укажите действительный номер";
+"Please enter expiry date" = "Недействительный срок действия карты";
+"Please enter cvv" = "Введите правильный CVV";
+"Services" = "Услуги";
+"Service" = "Услуги";
+"Gallery" = "Галерея";
+"Reviews" = "Отзывы";
+"Rewards" = "Вознаграждение";
+"My Reviews" = "Мои отзывы";
+"Term of use" = "Условия использования";
+"Please enter password" = "Укажите пароль";
+"Please select location" = "Укажите адрес";
+"Terms & Conditions" = "условия и положения";
+"Please enter old password" = "Укажите старый пароль";
+"Please enter new password" = "Укажите новый пароль";
+"Please enter confirm password" = "Укажите подтверждение пароля";
+"New and confirm password not match" = "Ошибка подтверждения пароля";
+"Change Language" = "Изменить язык";
+"Rate & Review Blade App" = "Оцените и просмотрите приложение Blade";
+"All Barbers Earnings" = "Все доходы парикмахеров";
+"Shop Owner Earnings" = "Доход владельца магазина";
+"Duration" = "продолжительность";
+"Ok" = "Хорошо";
+"Hi" = "Привет";
+"Are you sure, you want to cancel your booking?" = "Вы уверены, что хотите отменить бронирование?";
+"Barbers" = "Парикмахеры";
+"Booking sent" = "Бронирование отправлено";
+"Are you sure you want to cancel your booking?\nYour appointment is in less than 24hrs.\n\nIf you wish to cancel your appointment you will receive 50% of your payment back.\n( Do you wish to cancel your appointment or reschedule?)" = "Вы уверены, что хотите отменить вашу запись?\nВремя начала вашей записи наступит менее чем через 24 часа.\n\nПри отмене, вы получите 50% от оплаченной стоимости.\n(Вы уверены, что хотите отменить или перенести вашу запись?)";
+
+"Are you sure you want to cancel your booking?\nYour appointment is in less than 12hrs.\n\nIf you wish to cancel your appointment you will not receive a refund.\n\n( Do you wish to cancel your appointment or reschedule?)" = "Вы уверены, что хотите отменить вашу запись?\nВремя начала вашей записи наступит менее чем через 12 часа.\n\nПри отмене, вы не сможете претендовать на возврат оплаченной стоимости.\n(Вы уверены, что хотите отменить или перенести вашу запись?)";
+"Booking Completed" = "Бронирование завершено";
+"Booking accepted" = "Бронирование принято";
+
+"Add barber" = "Добавить парикмахера";
+
+
+"TEST" = "Деньги, которые вы получаете через TheBladeApp, будут автоматически переведены на ваш банковский счет, подключенный к STRIPE.\n\nВаши средства Stripe будут доступны на вашем банковском счете в течение 7-14 дней со дня получения платежей.\n\nBlade App и Stripe используют высокозащищенный протокол и шифрование для защиты всех транзакций.\n\nПо любым вопросам свяжитесь с нами Support@thebladeapp.com";
+
+"Transactions History" = "История транзакций";
+
+"Amount" = "Количество";
+"Status : Available" = "Статус: доступен";
+"Completed On" = "Завершенный";
+"Status : Pending" = "Статус: ожидание";
+"Available On" = "Доступен на";
+
+"Withdrawal History" = "История вывода";
+"Withdraw Created on" = "Вывод Создано на";
+
+
+"Change wallet card" = "Сменить карту кошелька";
+"Break" = "Перерыв";
+"Manual Booking" = "Подтвердить вручную";
+"Block Off Time" = "Блокировать время отключения";
+"Remove Block Off Time" = "Удалить время блокировки";
+
+"Notification permission was previously denied, go to settings & privacy to re-enable" = "Разрешение на уведомление ранее было отклонено. Чтобы снова включить его, перейдите в настройки и конфиденциальность.";
+
+"Please complete signup process to make your shop visible." = "Пожалуйста, завершите процесс регистрации, чтобы сделать ваш магазин видимым.";
+"Location Address" = "Адрес местоположения";
+"Employees will receive  their login details and they must login as clients." = "Ваши сотрудники получат данные для входа в приложение по электронной почте. Пожалуйста, попросите их проверить свою электронную почту, чтобы получить данные для входа.";
+"No notifications are available currently for you."=  "Aucune notification n'est disponible actuellement pour vous.";
+
+"Link copied successfully." = "Ссылка успешно скопирована.";
+"Sticker downloaded successfully." = "Наклейка успешно загружена.";
+"Please enable the E-mail." = "Пожалуйста, включите электронную почту.";

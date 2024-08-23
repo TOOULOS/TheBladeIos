@@ -1,0 +1,6 @@
+framework module Pods_Blade {
+  umbrella header "Pods-Blade-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,198 @@
+/*
+  Localizable.strings
+  Blade
+
+  Created by cqlsys on 13/12/22.
+  
+*/
+
+"Paid Online" = "Πληρώθηκε online";
+"Paid at Salon" = "Πληρώθηκε στο Κουρείο";
+"Rate" = "Βαθμολογήστε";
+"Customer Name" = "Όνομα πελάτη";
+"Completed" = "Ολοκληρώθηκε";
+"Cancelled" = "Ακυρώθηκε";
+"Cancel" = "Ακύρωση";
+"Complete" = "Ολοκληρώθηκε";
+"Accepted" = "δεκτός";
+"Reject" = "Απόρριψη";
+"Accept" = "Αποδέχομαι";
+"Pending" = "εκκρεμής";
+"card ending with" = "κάρτα που τελειώνει με";
+"No appointments available" = "Δεν υπάρχουν διαθέσιμα ραντεβού";
+"Remove Manual Booking" = "Κατάργηση χειροκίνητης κράτησης";
+"Slot is not available for this booking" = "Η θυρίδα δεν είναι διαθέσιμη για κράτηση.";
+"Save Manual Booking" = "Αποθήκευση χειροκίνητης κράτησης";
+"Weekly" = "Εβδομαδιαία";
+"Monthly" = "Μηνιαίο";
+"Yearly" = "Ετήσια";
+"Jan" = "Ιαν";
+"Feb" = "Φεβ";
+"Mar" = "Μάρ";
+"Apr" = "Απρ";
+"May" = "Μάι";
+"Jun" = "Ιούν";
+"Jul" = "Ιούλ";
+"Aug" = "Αύγ";
+"Sep" = "Σεπ";
+"Oct" = "Οκτ";
+"Nov" = "Νοέ";
+"Dec" = "Δεκ";
+"Profile" = "Προφίλ";
+"Wallet" = "Πορτοφόλι";
+"Salon Hours" = "Ώρες Λειτουργίας Κουρείου";
+"My Stylist" = "Οι κουρείς μου";
+"Change Password" = "Αλλαγή Κωδικού Πρόσβασης";
+"Privacy Policy" = "Πολιτική Απορρήτου";
+"About Us" = "Σχετικά με εμάς";
+"Delete Account" = "Διαγραφή Προφίλ";
+"Contact Us" = "Επικοινωνία";
+"Are you sure, you want to logout?" = "Είσαι σίγουρος?";
+"Are you sure, you want to delete this account?" = "Είστε βέβαιοι ότι θα διαγράψετε τον λογαριασμό σας από την εφαρμογή Blade;";
+"Withdraw" = "Ανάληψη χρημάτων";
+"Conncet Stripe to withdraw" = "Conncet Stripe για απόσυρση";
+"Enter amount to withdraw." = "Πληκτρολογήστε το ποσό για ανάληψη";
+"Requried entered amount to withdraw should be greater than €1." = "Το απαιτούμενο ποσό για ανάληψη πρέπει να είναι μεγαλύτερο από 1 €.";
+"Booking start date/time is" = "Η ημερομηνία/ώρα έναρξης της κράτησης είναι";
+". Before booking date and time you cann't complete this." = ". Πριν την ημερομηνία και ώρα κράτησης, δεν μπορείτε να ολοκληρώσετε την κράτηση.";
+"No data found" = "Δεν υπάρχουν διαθέσιμα δεδομένα";
+"Post your review for" = "Δημοσιεύστε την αξιολόγησή σας για";
+"Add your review" = "Προσθήκη αξιολόγησης";
+"Please enter name" = "Συμπληρώστε το Ονοματεπώνυμό σας";
+"Please enter phone number" = "Εισάγετε Αριθμό Τηλεφώνου";
+"Please enter location" = "Εισαγωγή διεύθυνσης";
+"Please enter description" = "Εισαγάγετε Περιγραφή";
+"Update Salon Timings" = "Ενημέρωση ωραρίου καταστήματος";
+"Closed" = "Κλειστό";
+"Please enter monday timing" = "Εισαγάγετε την ώρα της Δευτέρας";
+"Please enter tuesday timing" = "Εισαγάγετε την ώρα της Τρίτης";
+"Please enter wednesday timing" = "Εισαγάγετε την ώρα της Τετάρτης";
+"Please enter thursday timing" = "Εισαγάγετε την ώρα της Πέμπτης";
+"Please enter friday timing" = "Εισαγάγετε την ώρα της Παρασκευής";
+"Please enter saturday timing" = "Εισαγάγετε την ώρα του Σαββάτου";
+"Please enter sunday timing" = "Εισαγάγετε την ώρα της Κυριακής";
+"Minutes" = "λεπτά";
+"10 minutes" = "10 λεπτά";
+"20 minutes" = "20 λεπτά";
+"30 minutes" = "30 λεπτά";
+"40 minutes" = "40 λεπτά";
+"50 minutes" = "50 λεπτά";
+"60 minutes" = "60 λεπτά";
+"70 minutes" = "70 λεπτά";
+"80 minutes" = "80 λεπτά";
+"90 minutes" = "90 λεπτά";
+"100 minutes" = "100 λεπτά";
+"110 minutes" = "110 λεπτά";
+"120 minutes" = "120 λεπτά";
+"130 minutes" = "130 λεπτά";
+"140 minutes" = "140 λεπτά";
+"150 minutes" = "150 λεπτά";
+"160 minutes" = "160 λεπτά";
+"170 minutes" = "170 λεπτά";
+"180 minutes" = "180 λεπτά";
+"Edit Salon Services" = "Επεξεργασία υπηρεσιών καταστήματος";
+"Please enter service name" = "Προσθήκη ονόματος υπηρεσίας";
+"Please enter price" = "εισάγετε την τιμή";
+"Please select time" = "Επιλέξτε ώρα";
+"Please select image" = "Προσθήκη εικόνας";
+"Please enter saloon name" = "Εισαγάγετε το όνομα του κουρέα";
+"Please enter email" = "Εισάγετε Email";
+"Please enter valid email address" = "Εισάγετε έγκυρο email";
+"Please select saloon service" = "Επιλέξτε υπηρεσίες.";
+"Please enter valid phone number" = "Εισάγετε έγκυρο αριθμό";
+"Please enter bio" = "εισάγετε βιο";
+"Please select any service" = "Επιλέξτε Υπηρεσία";
+"Sunday" = "Κυριακή";
+"Monday" = "Δευτέρα";
+"Tuesday" = "Τρίτη";
+"Wednesday" = "Τετάρτη";
+"Thursday" = "Πέμπτη";
+"Friday" = "Παρασκευή";
+"Saturday" = "Σάββατο";
+"Please enter accurate date" = "Εισαγάγετε έγκυρες ώρες εργασίας";
+"Reschedule" = "Επαναπρογραμματισμός";
+"Cancelled by you" = "Ακυρώθηκε από εσάς";
+"Cancelled by salon" = "Ακυρώθηκε από το Κατάστημα";
+"Cancelled by stylist" = "Ακυρώθηκε από τον Κουρέα";
+"Rate & Review" = "Βαθμολογία και Αξιολόγηση";
+"Reviewd" = "Αξιολογήθηκε";
+"About" = "Σχετικά";
+"Contact" = "Επικοινωνία";
+"customer rating" = "Αξιολογήσεις πελατών";
+"Select Service" = "Επιλέξτε Υπηρεσίες";
+"Please select service first" = "επιλέξτε πρώτα την υπηρεσία";
+"Please select slot" = "επιλέξτε υποδοχή";
+"Stylist Name" = "Όνομα κουρέα";
+"Salon Owner Name" = "Όνομα κουρείου";
+"You have" = "Έχετε";
+"balance in your wallet. You can use €5 in one online paid booking only when you have balance" = "υπόλοιπο στο πορτοφόλι σας. Μπορείτε να χρησιμοποιήσετε €5 για μία online πληρωμένη κράτηση μόνο όταν έχετε υπόλοιπο τουλάχιστον €5 στο πορτοφόλι σας.";
+"Are you sure you want to delete this card" = "Είσαι σίγουρος?";
+"Please enter card" = "Προσθήκη Νέας Κάρτας";
+"Please enter valid card" = "ΑΚΥΡΟ νουμερο κάρτας";
+"Please enter expiry date" = "Ημερομηνία Λήξης";
+"Please enter cvv" = "CVV";
+"Services" = "Υπηρεσίες";
+"Service" = "Υπηρεσίες";
+"Gallery" = "Συλλογή";
+"Reviews" = "Αξιολογήσεις";
+"Rewards" = "Επιβραβεύσεις ";
+"My Reviews" = "Οι Αξιολογήσεις μου";
+"Term of use" = "Όροι χρήσης";
+"Please enter password" = "Εισάγετε κωδικό πρόσβασης";
+"Please select location" = "Εισαγωγή διεύθυνσης";
+"Terms & Conditions" = "όροι και Προϋποθέσεις";
+"Please enter old password" = "Εισαγωγή παλιού κωδικού πρόσβασης";
+"Please enter new password" = "Εισαγωγή νέου κωδικού πρόσβασης";
+"Please enter confirm password" = "Επιβεβαίωση κωδικού πρόσβασης";
+"New and confirm password not match" = "Λανθασμένη Επιβεβαίωση Κωδικού Πρόσβασης";
+"Change Language" = "Αλλαξε γλώσσα";
+"Rate & Review Blade App" = "Βαθμολογήστε και αξιολογήστε την εφαρμογή Blade";
+"All Barbers Earnings" = "Όλα τα κέρδη κουρέων";
+"Shop Owner Earnings" = "Κέρδη ιδιοκτήτη καταστήματος";
+"Duration" = "Διάρκεια";
+"Ok" = "Εντάξει";
+"Hi" = "Γειά σου";
+"Are you sure, you want to cancel your booking?" = "Είστε βέβαιοι ότι θέλετε να ακυρώσετε την κράτησή σας;";
+"Barbers" = "Κουρείς";
+"Booking sent" = "Η κράτηση εστάλη";
+"Are you sure you want to cancel your booking?\nYour appointment is in less than 24hrs.\n\nIf you wish to cancel your appointment you will receive 50% of your payment back.\n( Do you wish to cancel your appointment or reschedule?)" = "Είστε σίγουροι ότι θέλετε να ακυρώσετε την κράτησή σας; \nΤο ραντεβού σας είναι σε λιγότερο από 24 ώρες.\n\n\nΕάν θέλετε να ακυρώσετε το ραντεβού σας, θα λάβετε πίσω το 50% της πληρωμής σας.\n( Θέλετε να ακυρώσετε το ραντεβού σας ή να το επαναπρογραμματίσετε;)";
+
+"Are you sure you want to cancel your booking?\nYour appointment is in less than 12hrs.\n\nIf you wish to cancel your appointment you will not receive a refund.\n\n( Do you wish to cancel your appointment or reschedule?)" = "Είστε σίγουροι ότι θέλετε να ακυρώσετε την κράτησή σας; \n\nΤο ραντεβού σας είναι σε λιγότερο από 12 ώρες.\n\nΕάν επιθυμείτε να ακυρώσετε το ραντεβού σας δεν θα λάβετε επιστροφή χρημάτων.\n\n(Θέλετε να ακυρώσετε το ραντεβού σας ή να το επαναπρογραμματίσετε;)";
+"Booking Completed" = "Η κράτηση ολοκληρώθηκε";
+"Booking accepted" = "Δεκτή η κράτηση";
+"Add barber" = "Προσθέστε κουρέα";
+"Earnings" = "κέρδη";
+
+
+"TEST" = "Τα χρήματα που λαμβάνετε μέσω της εφαρμογής TheBladeApp θα μεταφερθούν αυτόματα στον τραπεζικό λογαριασμό σας που είναι συνδεδεμένος στο STRIPE.\n\nΤα χρήματα σας θα είναι διαθέσιμα στον τραπεζικό σας λογαριασμό εντός 7-14 ημερών από την ημέρα λήψης των πληρωμών.\n\nΤο Blade App και το Stripe χρησιμοποιεί πρωτόκολλα υψηλής ασφάλειας και κρυπτογράφησης για την προστασία όλων των συναλλαγών σας.\n\nΓια οποιαδήποτε απορία επικοινωνήστε μαζί μας Support@thebladeapp.com";
+
+
+"Transactions History" = "Ιστορικό Συναλλαγών";
+
+"Amount" = "Ποσό";
+"Status : Available" = "Κατάσταση: Διαθέσιμο";
+"Completed On" = "Oλοκληρώθηκε στις";
+"Status : Pending" = "Κατάσταση: Εκκρεμής";
+"Available On" = "Διαθέσιμο στις";
+
+"Withdrawal History" = "Ιστορικό απόσυρσης";
+"Withdraw Created on" = "Ανάληψη Δημιουργήθηκε στις";
+
+
+"Change wallet card" = "Αλλαγή κάρτας πορτοφολιού";
+"Break" = "Διάλειμμα";
+"Manual Booking" = "Επιβεβαίωση χειροκίνητης";
+"Block Off Time" = "Αποκλεισμός χρόνου";
+"Remove Block Off Time" = "Αφαιρώ Αποκλεισμός χρόνου";
+
+"Notification permission was previously denied, go to settings & privacy to re-enable" = "Η άδεια ειδοποίησης είχε απορριφθεί στο παρελθόν, μεταβείτε στις ρυθμίσεις και το απόρρητο για να την ενεργοποιήσετε ξανά";
+
+
+"Please complete signup process to make your shop visible." = "Ολοκληρώστε τη διαδικασία εγγραφής για να κάνετε το κατάστημά σας ορατό.";
+"Location Address" = "Διεύθυνση τοποθεσίας";
+"Employees will receive  their login details and they must login as clients." = "Οι υπάλληλοί σας θα λάβουν τα στοιχεία σύνδεσής τους μέσω email για πρόσβαση στην εφαρμογή. Ζητήστε τους να ελέγξουν το email τους για να λάβουν τα στοιχεία σύνδεσης.";
+"No notifications are available currently for you."=  "Δεν υπάρχουν διαθέσιμες ειδοποιήσεις αυτήν τη στιγμή για εσάς.";
+
+"Link copied successfully." = "Ο σύνδεσμος αντιγράφηκε με επιτυχία.";
+"Sticker downloaded successfully." = "Η λήψη του αυτοκόλλητου έγινε με επιτυχία.";
+"Please enable the E-mail." = "Παρακαλώ ενεργοποιήστε το E-mail.";

@@ -1,0 +1,497 @@
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "0fi-aT-DnU"; */
+"0fi-aT-DnU.text" = "E-Mail";
+
+/* Class = "UITextField"; placeholder = "10:00 am - 8:00 pm"; ObjectID = "1Io-N5-hd2"; */
+"1Io-N5-hd2.placeholder" = "00:00 - 00:00";
+
+/* Class = "UIButton"; normalTitle = "Update"; ObjectID = "1aY-lg-Xd5"; */
+"1aY-lg-Xd5.normalTitle" = "Aktualisieren";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "2hK-xn-Y62"; */
+"2hK-xn-Y62.text" = "E-Mail";
+
+/* Class = "UILabel"; text = "Saturday"; ObjectID = "2sZ-HV-l0g"; */
+"2sZ-HV-l0g.text" = "Samstag";
+
+/* Class = "UIButton"; normalTitle = "Get Started"; ObjectID = "3Rl-oO-Peb"; */
+"3Rl-oO-Peb.normalTitle" = "Anfangen";
+
+/* Class = "UILabel"; text = "Add Service Service"; ObjectID = "3d3-2c-dAm"; */
+"3d3-2c-dAm.text" = "Friseurladen Services hinzufügen";
+
+/* Class = "UILabel"; text = "Already a user?"; ObjectID = "4At-HL-K7y"; */
+"4At-HL-K7y.text" = "Bereits ein Benutzer?";
+
+/* Class = "UITextField"; placeholder = "Enter Number"; ObjectID = "4IT-fC-Kcw"; */
+"4IT-fC-Kcw.placeholder" = "Telefonnummer eingeben";
+
+/* Class = "UITextField"; text = "+91"; ObjectID = "4IT-fC-Kcw"; */
+"4IT-fC-Kcw.text" = "+91";
+
+/* Class = "UITextField"; placeholder = "10:00 am - 8:00 pm"; ObjectID = "5d7-ey-DJL"; */
+"5d7-ey-DJL.placeholder" = "00:00 - 00:00";
+
+/* Class = "UILabel"; text = "Let’s Get Started"; ObjectID = "6CW-MM-54m"; */
+"6CW-MM-54m.text" = "Melden Sie sich an, um fortzufahren";
+
+/* Class = "UILabel"; text = "Monday"; ObjectID = "6cn-zv-1oM"; */
+"6cn-zv-1oM.text" = "Montag";
+
+/* Class = "UILabel"; text = "Select End Time"; ObjectID = "6gp-Pz-GU2"; */
+"6gp-Pz-GU2.text" = "Endzeit wählen";
+
+/* Class = "UILabel"; text = "Thursday"; ObjectID = "7AU-gl-bGb"; */
+"7AU-gl-bGb.text" = "Donnerstag";
+
+/* Class = "UITextField"; placeholder = "Enter name"; ObjectID = "7sD-zr-P83"; */
+"7sD-zr-P83.placeholder" = "Vollständigen Namen eingeben";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "8PC-wM-fob"; */
+"8PC-wM-fob.normalTitle" = "Einreichen";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "8Sp-kp-ggc"; */
+"8Sp-kp-ggc.normalTitle" = "Anmeldung";
+
+/* Class = "UITextField"; placeholder = "Enter name"; ObjectID = "8k0-Th-366"; */
+"8k0-Th-366.placeholder" = "Vollständigen Namen eingeben";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "8qE-GY-wkK"; */
+"8qE-GY-wkK.text" = "Name";
+
+/* Class = "UITextField"; placeholder = "Select Service"; ObjectID = "9Zb-af-gLG"; */
+"9Zb-af-gLG.placeholder" = "Dienstleistungen auswählen";
+
+/* Class = "UILabel"; text = "Forgot Password"; ObjectID = "9bV-Br-M39"; */
+"9bV-Br-M39.text" = "Passwort vergessen";
+
+/* Class = "UILabel"; text = "New Password"; ObjectID = "9cD-CW-8DE"; */
+"9cD-CW-8DE.text" = "Neues Passwort";
+
+/* Class = "UITextField"; placeholder = "Enter Number"; ObjectID = "9dG-gU-guY"; */
+"9dG-gU-guY.placeholder" = "Telefonnummer eingeben";
+
+/* Class = "UITextField"; text = "+91"; ObjectID = "9dG-gU-guY"; */
+"9dG-gU-guY.text" = "+91";
+
+/* Class = "UILabel"; text = "Working"; ObjectID = "ANi-XJ-j0P"; */
+"ANi-XJ-j0P.text" = "Arbeiten";
+
+/* Class = "UITextField"; placeholder = "Enter Email"; ObjectID = "ARJ-cC-SHU"; */
+"ARJ-cC-SHU.placeholder" = "E-Mail eingeben";
+
+/* Class = "UITextField"; placeholder = "10:00 am - 8:00 pm"; ObjectID = "AbT-xT-B2r"; */
+"AbT-xT-B2r.placeholder" = "00:00 - 00:00";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "AeX-Wc-94I"; */
+"AeX-Wc-94I.normalTitle" = "Einreichen";
+
+/* Class = "UITextField"; placeholder = "Enter email"; ObjectID = "BTF-HO-AaV"; */
+"BTF-HO-AaV.placeholder" = "E-Mail eingeben";
+
+/* Class = "UILabel"; text = "Let’s Get Started"; ObjectID = "ESS-6Z-yV4"; */
+"ESS-6Z-yV4.text" = "Los geht's";
+
+/* Class = "UILabel"; text = "Add Name"; ObjectID = "Ec6-YQ-b3C"; */
+"Ec6-YQ-b3C.text" = "Name hinzufügen";
+
+/* Class = "UILabel"; text = "Add Salon Timings"; ObjectID = "FWb-OF-FQC"; */
+"FWb-OF-FQC.text" = "Barbershop-Stunden hinzufügen";
+
+/* Class = "UILabel"; text = "Time"; ObjectID = "FgF-vD-0He"; */
+"FgF-vD-0He.text" = "Uhrzeit";
+"22c-8p-Pwr.text" = "Uhrzeit";
+"pOc-Jy-kY3.text" = "Uhrzeit";
+"41d-jQ-cGX.text" = "Uhrzeit";
+"Nbe-2x-2WP.text" = "Uhrzeit";
+
+/* Class = "UITextField"; placeholder = "Enter Email"; ObjectID = "Fmu-Pf-5hK"; */
+"Fmu-Pf-5hK.placeholder" = "E-Mail eingeben";
+
+/* Class = "UITextField"; placeholder = "Enter Number"; ObjectID = "GPQ-iD-v5q"; */
+"GPQ-iD-v5q.placeholder" = "Telefonnummer eingeben";
+
+/* Class = "UILabel"; text = "Find a Barber shop near you"; ObjectID = "GVE-Gn-SCe"; */
+"GVE-Gn-SCe.text" = "Finden Sie einen Barbershop in Ihrer Nähe";
+
+/* Class = "UILabel"; text = "Select Services"; ObjectID = "He9-qi-aPh"; */
+"He9-qi-aPh.text" = "Dienstleistungen auswählen";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "HiJ-rB-Gyr"; */
+"HiJ-rB-Gyr.normalTitle" = "Nächste";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "I9g-eF-EmP"; */
+"I9g-eF-EmP.text" = "Kennwort";
+
+/* Class = "UILabel"; text = "Phone"; ObjectID = "IEu-LX-ywu"; */
+"IEu-LX-ywu.text" = "Telefon";
+
+/* Class = "UILabel"; text = "Add Salon Services"; ObjectID = "Iq2-AV-eLa"; */
+"Iq2-AV-eLa.text" = "Friseurladen Services hinzufügen";
+
+/* Class = "UILabel"; text = "Select Services"; ObjectID = "J0K-P8-k0C"; */
+"J0K-P8-k0C.text" = "Dienstleistungen auswählen";
+
+/* Class = "UILabel"; text = "Change Password"; ObjectID = "JMj-5T-SHb"; */
+"JMj-5T-SHb.text" = "Passwort ändern";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "JXp-vj-WIj"; */
+"JXp-vj-WIj.text" = "Standort";
+
+/* Class = "UILabel"; text = "Select Start  Time"; ObjectID = "JnU-eJ-pqJ"; */
+"JnU-eJ-pqJ.text" = "Startzeit wählen";
+
+/* Class = "UITextField"; placeholder = "10:00 am - 8:00 pm"; ObjectID = "JvT-eG-7Is"; */
+"JvT-eG-7Is.placeholder" = "00:00 - 00:00";
+
+/* Class = "UITextField"; placeholder = "10:00 am - 8:00 pm"; ObjectID = "KPm-eQ-8ZD"; */
+"KPm-eQ-8ZD.placeholder" = "00:00 - 00:00";
+
+/* Class = "UILabel"; text = "Friday"; ObjectID = "L7S-EQ-7ce"; */
+"L7S-EQ-7ce.text" = "Freitag";
+
+/* Class = "UITextField"; placeholder = "Enter Number"; ObjectID = "LD6-IX-TYf"; */
+"LD6-IX-TYf.placeholder" = "Telefonnummer eingeben";
+
+/* Class = "UITextField"; placeholder = "10:00 am - 8:00 pm"; ObjectID = "LqS-hj-VCA"; */
+"LqS-hj-VCA.placeholder" = "00:00 - 00:00";
+
+/* Class = "UITextField"; placeholder = "Please enter name"; ObjectID = "MVQ-K7-Zrs"; */
+"MVQ-K7-Zrs.placeholder" = "Vollständigen Namen eingeben";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "Mml-IO-Hty"; */
+"Mml-IO-Hty.text" = "Name";
+
+/* Class = "UILabel"; text = "Add Salon Timings"; ObjectID = "MpJ-Nf-vmN"; */
+"MpJ-Nf-vmN.text" = "Barbershop-Stunden hinzufügen";
+
+/* Class = "UIButton"; normalTitle = "Add Service"; ObjectID = "NHE-BX-8CZ"; */
+"NHE-BX-8CZ.normalTitle" = "Dienst hinzufügen";
+
+/* Class = "UITextField"; placeholder = "10:00 am - 8:00 pm"; ObjectID = "OAU-v9-nOI"; */
+"OAU-v9-nOI.placeholder" = "00:00 - 00:00";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "OIE-pC-Y6F"; */
+"OIE-pC-Y6F.text" = "Standort";
+
+/* Class = "UILabel"; text = "Add your salon details"; ObjectID = "OQq-UU-w5Q"; */
+"OQq-UU-w5Q.text" = "Fügen Sie Ihre Barbershop-Details hinzu";
+
+/* Class = "UILabel"; text = "Add Salon Photo"; ObjectID = "Ozi-HH-MWW"; */
+"Ozi-HH-MWW.text" = "Barbershop-Foto hinzufügen";
+
+/* Class = "UILabel"; text = "5.0"; ObjectID = "Pwc-q2-HfD"; */
+"Pwc-q2-HfD.text" = "5.0";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "Q1U-9Z-b2e"; */
+"Q1U-9Z-b2e.normalTitle" = "Speichern";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "Ql2-EO-6uv"; */
+"Ql2-EO-6uv.normalTitle" = "Anmelden";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "RCo-We-7uG"; */
+"RCo-We-7uG.text" = "Standort";
+
+/* Class = "UITextField"; placeholder = "*****"; ObjectID = "RR3-ps-Hhi"; */
+"RR3-ps-Hhi.placeholder" = "*****";
+
+/* Class = "UIButton"; normalTitle = "Facebook"; ObjectID = "ReO-Li-Fiu"; */
+"ReO-Li-Fiu.normalTitle" = "Facebook";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "RfV-se-kGo"; */
+"RfV-se-kGo.normalTitle" = "Anmelden";
+
+/* Class = "UITextField"; placeholder = "Enter Number"; ObjectID = "Rfg-Cd-UBR"; */
+"Rfg-Cd-UBR.placeholder" = "Telefonnummer eingeben";
+
+/* Class = "UITextField"; text = "+91"; ObjectID = "Rfg-Cd-UBR"; */
+"Rfg-Cd-UBR.text" = "+91";
+
+/* Class = "UITextField"; placeholder = "Select Time"; ObjectID = "Rjq-sK-Eba"; */
+"Rjq-sK-Eba.placeholder" = "Uhrzeit wählen";
+
+/* Class = "UITextField"; placeholder = "Please enter location"; ObjectID = "Ro4-aq-xE5"; */
+"Ro4-aq-xE5.placeholder" = "standort eingeben";
+
+/* Class = "UITextField"; placeholder = "Enter email"; ObjectID = "SLI-Jx-M0A"; */
+"SLI-Jx-M0A.placeholder" = "E-Mail eingeben";
+
+/* Class = "UITextField"; placeholder = "Enter Number"; ObjectID = "SWo-xQ-6xv"; */
+"SWo-xQ-6xv.placeholder" = "Telefonnummer eingeben";
+
+/* Class = "UILabel"; text = "Phone"; ObjectID = "TIB-T0-tDK"; */
+"TIB-T0-tDK.text" = "Telefon";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "VHA-p8-PhO"; */
+"VHA-p8-PhO.text" = "E-Mail";
+
+/* Class = "UILabel"; text = "Phone"; ObjectID = "VkJ-vW-sGJ"; */
+"VkJ-vW-sGJ.text" = "Telefon";
+
+/* Class = "UILabel"; text = "Old Password"; ObjectID = "W0o-cf-u0y"; */
+"W0o-cf-u0y.text" = "Altes Passwort";
+
+/* Class = "UITextField"; placeholder = "*****"; ObjectID = "XHi-T0-hju"; */
+"XHi-T0-hju.placeholder" = "*****";
+
+/* Class = "UITextField"; placeholder = "******"; ObjectID = "XzR-WC-vVE"; */
+"XzR-WC-vVE.placeholder" = "******";
+
+/* Class = "UILabel"; text = "Explore services by creating account!"; ObjectID = "YIh-ig-ETw"; */
+"YIh-ig-ETw.text" = "Erkunden Sie unsere Dienstleistungen, indem Sie ein Konto erstellen!";
+
+/* Class = "UILabel"; text = "Monday"; ObjectID = "Zxz-4u-Qy4"; */
+"Zxz-4u-Qy4.text" = "Montag";
+
+/* Class = "UILabel"; text = "Tuesday"; ObjectID = "a8u-X4-ygy"; */
+"a8u-X4-ygy.text" = "Dienstag";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "b8H-R3-gfV"; */
+"b8H-R3-gfV.normalTitle" = "Anmeldung";
+
+/* Class = "UILabel"; text = "Phone"; ObjectID = "bZe-u1-gDd"; */
+"bZe-u1-gDd.text" = "Telefon";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "bnw-UT-R2D"; */
+"bnw-UT-R2D.normalTitle" = "Anmeldung";
+
+/* Class = "UITextField"; placeholder = "*****"; ObjectID = "bqC-x5-d91"; */
+"bqC-x5-d91.placeholder" = "*****";
+
+/* Class = "UILabel"; text = "Profile"; ObjectID = "c2D-HE-JQv"; */
+"c2D-HE-JQv.text" = "Profil";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "eJG-5w-Wtk"; */
+"eJG-5w-Wtk.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "fPN-LM-qNI"; */
+"fPN-LM-qNI.normalTitle" = "Einreichen";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "fUR-hv-CWl"; */
+"fUR-hv-CWl.text" = "E-Mail";
+
+/* Class = "UILabel"; text = "Add Salon Timings"; ObjectID = "feE-i3-Rmi"; */
+"feE-i3-Rmi.text" = "Barbershop-Stunden hinzufügen";
+
+/* Class = "UILabel"; text = "Welcome to Blade "; ObjectID = "g98-Ad-RwO"; */
+"g98-Ad-RwO.text" = "Willkommen bei Blade ";
+
+/* Class = "UILabel"; text = "Or login with"; ObjectID = "gSX-47-EnS"; */
+"gSX-47-EnS.text" = "Oder anmelden mit";
+
+/* Class = "UILabel"; text = "Active"; ObjectID = "hUE-cp-qol"; */
+"hUE-cp-qol.text" = "Aktiv";
+"dxW-g4-IhM.text" = "Aktiv";
+"pr4-1u-r2w.text" = "Aktiv";
+"0Iw-Zf-dYf.text" = "Aktiv";
+"mqi-rw-Ide.text" = "Aktiv";
+
+/* Class = "UITextField"; placeholder = "Enter name"; ObjectID = "hUf-R8-ogs"; */
+"hUf-R8-ogs.placeholder" = "Vollständigen Namen eingeben";
+
+/* Class = "UILabel"; text = "Welcome to Blade!"; ObjectID = "hqU-aU-g9r"; */
+"hqU-aU-g9r.text" = "Willkommen bei Blade!";
+
+/* Class = "UILabel"; text = "Bio"; ObjectID = "iXh-n3-GQo"; */
+"iXh-n3-GQo.text" = "Bio";
+
+/* Class = "UILabel"; text = "Update Stylist"; ObjectID = "jNm-dN-jBy"; */
+"jNm-dN-jBy.text" = "Update barber";
+
+/* Class = "UILabel"; text = "Є Price"; ObjectID = "jP4-AS-788"; */
+"jP4-AS-788.text" = "Є Preis";
+"MWC-I0-Fbd.text" = "Є Preis";
+"gJa-pw-GfI.text" = "Є Preis";
+"hCw-xM-t1h.text" = "Є Preis";
+"6Zm-AY-Uyn.text" = "Є Preis";
+
+/* Class = "UILabel"; text = "Wednesday"; ObjectID = "jql-dq-64m"; */
+"jql-dq-64m.text" = "Mittwoch";
+
+/* Class = "UIButton"; normalTitle = "  Shop Owner"; ObjectID = "kIV-zc-6sG"; */
+"kIV-zc-6sG.normalTitle" = "  Shop-Besitzer";
+
+/* Class = "UIButton"; selectedTitle = "  Shop Owner"; ObjectID = "kIV-zc-6sG"; */
+"kIV-zc-6sG.selectedTitle" = "  Shop-Besitzer";
+
+/* Class = "UILabel"; text = "Confirm Password"; ObjectID = "ka2-oS-TP3"; */
+"ka2-oS-TP3.text" = "Bestätigen Sie Ihr Passwort";
+
+/* Class = "UITextField"; placeholder = "Enter Number"; ObjectID = "lIb-ff-4rx"; */
+"lIb-ff-4rx.placeholder" = "Telefonnummer eingeben";
+
+/* Class = "UITextField"; text = "+91"; ObjectID = "lIb-ff-4rx"; */
+"lIb-ff-4rx.text" = "+91";
+
+/* Class = "UITextField"; placeholder = "Description"; ObjectID = "m7D-b2-nOq"; */
+"m7D-b2-nOq.placeholder" = "Beschreibung";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "mA8-QG-oSa"; */
+"mA8-QG-oSa.text" = "Beschreibung";
+
+/* Class = "UILabel"; text = "Let’s Get Started"; ObjectID = "mvP-y0-R0V"; */
+"mvP-y0-R0V.text" = "Los geht's";
+
+/* Class = "UILabel"; text = "Add Name"; ObjectID = "n8o-iJ-hJI"; */
+"n8o-iJ-hJI.text" = "Name hinzufügen";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "ncc-y7-aNC"; */
+"ncc-y7-aNC.normalTitle" = "Nächste";
+
+/* Class = "UILabel"; text = "Add Salon Timings"; ObjectID = "ojV-66-OsB"; */
+"ojV-66-OsB.text" = "Barbershop-Stunden hinzufügen";
+
+/* Class = "UILabel"; text = "New user?"; ObjectID = "pJN-BI-mRw"; */
+"pJN-BI-mRw.text" = "Neuer Benutzer?";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "pa6-8D-R87"; */
+"pa6-8D-R87.text" = "Kennwort";
+
+/* Class = "UIButton"; normalTitle = "  Customer"; ObjectID = "pgv-Lk-sh0"; */
+"pgv-Lk-sh0.normalTitle" = "  Kunde";
+
+/* Class = "UIButton"; selectedTitle = "  Customer"; ObjectID = "pgv-Lk-sh0"; */
+"pgv-Lk-sh0.selectedTitle" = "  Kunde";
+
+/* Class = "UITextField"; placeholder = "Price"; ObjectID = "rUO-SF-iga"; */
+"rUO-SF-iga.placeholder" = "Preis";
+
+/* Class = "UITextField"; placeholder = "Select Location"; ObjectID = "rw4-se-cLV"; */
+"rw4-se-cLV.placeholder" = "Ort auswählen";
+
+/* Class = "UITextField"; placeholder = "Add Service Name"; ObjectID = "s3u-HC-ol1"; */
+"s3u-HC-ol1.placeholder" = "Dienstname hinzufügen";
+
+/* Class = "UITextField"; placeholder = "Enter Email"; ObjectID = "sDE-fH-lk7"; */
+"sDE-fH-lk7.placeholder" = "E-Mail eingeben";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "sgV-8X-A7f"; */
+"sgV-8X-A7f.text" = "E-Mail";
+
+/* Class = "UILabel"; text = "Privacy"; ObjectID = "tpy-8T-roq"; */
+"tpy-8T-roq.text" = "Datenschutzrichtlinien";
+
+/* Class = "UILabel"; text = "Add Salon Timings"; ObjectID = "u97-bO-pDC"; */
+"u97-bO-pDC.text" = "Barbershop-Stunden hinzufügen";
+
+/* Class = "UIButton"; normalTitle = "Google"; ObjectID = "uKP-JQ-Yeh"; */
+"uKP-JQ-Yeh.normalTitle" = "Google";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "uho-c0-2nS"; */
+"uho-c0-2nS.text" = "Beschreibung";
+
+/* Class = "UITextField"; placeholder = "Select Location"; ObjectID = "wsA-UB-8BS"; */
+"wsA-UB-8BS.placeholder" = "Ort auswählen";
+
+/* Class = "UITextField"; placeholder = "Enter Number"; ObjectID = "x8Q-zI-yfz"; */
+"x8Q-zI-yfz.placeholder" = "Telefonnummer eingeben";
+
+/* Class = "UILabel"; text = "Add Service Name"; ObjectID = "ySB-aF-zk0"; */
+"ySB-aF-zk0.text" = "Dienstname hinzufügen";
+"IVG-AK-04d.text" = "Dienstname hinzufügen";
+"3G8-fv-A4h.text" = "Dienstname hinzufügen";
+"1Si-w0-wuS.text" = "Dienstname hinzufügen";
+"6Cd-PC-3Pg.text" = "Dienstname hinzufügen";
+
+/* Class = "UITextField"; placeholder = "*****"; ObjectID = "ztu-Ny-RT0"; */
+"ztu-Ny-RT0.placeholder" = "*****";
+
+/* Class = "UILabel"; text = "Sunday"; ObjectID = "zwG-aw-Hpe"; */
+"zwG-aw-Hpe.text" = "Sonntag";
+
+
+/* Class = "UILabel"; text = "Sunday"; ObjectID = "zwG-aw-Hpe"; */
+"9b4-km-qtc.text" = "Verfügbarer Wallet-Betrag";
+
+/* Class = "UILabel"; text = "Sunday"; ObjectID = "zwG-aw-Hpe"; */
+"V9W-O7-ROp.text" = "Verfügbare Prämienpunkte";
+
+/* Class = "UILabel"; text = "Sunday"; ObjectID = "zwG-aw-Hpe"; */
+"J0m-Sr-NF0.text" = "Belohnung";
+
+/* Class = "UIButton"; normalTitle = "Update"; ObjectID = "1aY-lg-Xd5"; */
+"lpT-mi-hR6.normalTitle" = "Konvertieren Sie Punkte in Wallet Money";
+
+"03b-72-Rv7.text" = "Name des Friseursalons";
+
+/* Class = "UIButton"; normalTitle = "I Accept Terms & Conditions"; ObjectID = "NHE-BX-8CZ"; */
+"KeD-BJ-RaH.normalTitle" = "Ich akzeptiere die Allgemeinen Geschäftsbedingungen";
+
+"CbD-dm-sQx.normalTitle" = "Passwort vergessen?";
+
+
+"lOA-7b-Udp.placeholder" = "Dienstnamen hinzufügen";
+"KTD-nI-e82.placeholder" = "Dienstnamen hinzufügen";
+"8g8-Hd-Sod.placeholder" = "Dienstnamen hinzufügen";
+"ekm-1b-ov1.placeholder" = "Dienstnamen hinzufügen";
+
+
+"aIj-5H-lie.placeholder" = "Preis";
+"YOX-6S-M1c.placeholder" = "Preis";
+"zfX-uv-YdH.placeholder" = "Preis";
+"taj-R6-wAU.placeholder" = "Preis";
+
+"Gu3-Ts-wtH.placeholder" = "Zeit auswählen";
+"q1b-hy-dq3.placeholder" = "Zeit auswählen";
+"QS3-z9-3Y7.placeholder" = "Zeit auswählen";
+"JwB-QB-zLB.placeholder" = "Zeit auswählen";
+
+"9Jz-JO-9ld.normalTitle" = "mehr hinzufügen";
+"M3s-Su-aLV.text" = "Verfügbarer Wallet-Betrag";
+"JNT-IW-kfs.text" = "Sprache auswählen";
+
+
+"bbl-UY-1fP.text" = "Rewards in Geldbörse umwandeln";
+"LpM-PO-v8E.text" = "Verfügbare Rewards-Punkte";
+"GiW-FF-nDA.text" = "Um Rewards-Punkte in Geldbörsen umzuwandeln, müssen Sie mindestens 100 Rewards-Punkte in Ihrer Geldbörse verfügbar haben.";
+"ide-oA-fru.normalTitle" = "Abbrechen";
+"lX5-75-hpm.normalTitle" = "Umrechnen";
+"N90-dl-kEk.placeholder" = "Prämienwert zum Umrechnen eingeben";
+
+
+"YzQ-Xg-sm6.normalTitle" = "Zurückweisen";
+
+"LJN-Cg-zq5.normalTitle" = "AKTIVIEREN SIE DIE 30-TÄGIGE KOSTENLOSE TESTVERSION";
+"5bm-em-ccw.text" = "Aktivieren Sie Ihre 30-tägige kostenlose Testversion von Blade\nohne Angabe Ihrer Kreditkartendaten";
+
+"dz4-Cb-fe5.text" = "Ti faremo sapere al termine della tua prova gratuita.";
+
+
+"Jel-N6-QhL.text" = "Pause 1";
+"TZa-M4-lhR.text" = "Pause 2";
+
+"ITA-m8-VLY.text" = "Pause 1";
+"ICk-zJ-hee.text" = "Pause 2";
+
+"nT5-hY-9sN.text" = "Pause 1";
+"xAc-0R-0Nd.text" = "Pause 2";
+
+"k0w-QR-c2a.text" = "Pause 1";
+"vdH-7A-g3d.text" = "Pause 2";
+
+"sA4-m4-IMo.text" = "Pause 1";
+"AvH-XG-zgu.text" = "Pause 2";
+
+"hHu-MA-HXl.text" = "Pause 1";
+"Z5D-mf-bK3.text" = "Pause 2";
+
+"TC9-D4-Rss.text" = "Pause 1";
+"CQl-oC-HsJ.text" = "Pause 2";
+
+"rgO-Y6-E3s.text" = "Registrieren Sie sich als";
+
+"ZmN-FZ-bco.normalTitle" = "Barbier";
+"WjH-Ks-saN.normalTitle" = "Cliente";
+
+
+"2rL-8k-4nl.normalTitle" = "  Alles anwenden";
+
+
+"IhK-MU-M3z.text" = "Fügen Sie diesen Link in Ihren sozialen Medien hinzu und laden Sie Ihre Kunden ein, die App herunterzuladen und mit Ihnen zu buchen.";
+"7XV-JL-nXw.text" = "Kopieren";
+"EL4-Fz-foO.text" = "Laden Sie unseren QR-Code herunter,
+oder fordern Sie einen kostenlosen QR-Sticker an";
+
+"FvG-RF-EMh.normalTitle" = "Herunterladen";
+"wKA-FU-mhJ.normalTitle" = "Aufkleber";
+"xB5-9q-c9z.normalTitle" = "weitermachen";

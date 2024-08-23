@@ -1,0 +1,1526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "113DD621-3281-4910-8A9C-FCDCF15D130B"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.IDETestFailureBreakpoint">
+         <BreakpointContent
+            uuid = "A95AA254-1542-4C85-BDC7-D86D0CD1D568"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            breakpointStackSelectionBehavior = "1">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            uuid = "947FB42D-BA21-4669-8650-46BA2FA6985B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            breakpointStackSelectionBehavior = "1"
+            scope = "1"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5C568EC7-91C2-4B25-8DE5-D3BDA8D11531"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Blade/ViewController/Saloon/AddSaloonTimingVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1189"
+            endingLineNumber = "1189"
+            landmarkName = "onClickDate(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F823356F-DB3C-4660-8B41-C02BB04633AE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Blade/ViewController/Saloon/AddSaloonTImePopupVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "111"
+            endingLineNumber = "111"
+            landmarkName = "onClickSave(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ADB682E0-7653-418D-8636-9E8255C2565E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Blade/ViewController/Saloon/AddSaloonTimingVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "795"
+            endingLineNumber = "795"
+            landmarkName = "onClickNext(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "ADB682E0-7653-418D-8636-9E8255C2565E - f6d996b825565ba6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Blade.AddSaloonTimingVC.onClickNext(__C.UIButton) -&gt; ()"
+                  moduleName = "Blade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cqlsys/Desktop/Blade/Blade/ViewController/Saloon/AddSaloonTimingVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "741"
+                  endingLineNumber = "741"
+                  offsetFromSymbolStart = "215047">
+               </Location>
+               <Location
+                  uuid = "ADB682E0-7653-418D-8636-9E8255C2565E - bba84c167d2768d6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Any&gt;) -&gt; () in Blade.AddSaloonTimingVC.onClickNext(__C.UIButton) -&gt; ()"
+                  moduleName = "Blade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cqlsys/Desktop/Blade/Blade/ViewController/Saloon/AddSaloonTimingVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "742"
+                  endingLineNumber = "742"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "ADB682E0-7653-418D-8636-9E8255C2565E - f6d996b825565ba6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Blade.AddSaloonTimingVC.onClickNext(__C.UIButton) -&gt; ()"
+                  moduleName = "Blade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cqlsys/Desktop/Blade/Blade/ViewController/Saloon/AddSaloonTimingVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "741"
+                  endingLineNumber = "741"
+                  offsetFromSymbolStart = "216584">
+               </Location>
+               <Location
+                  uuid = "ADB682E0-7653-418D-8636-9E8255C2565E - f6d996b825565ba6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Blade.AddSaloonTimingVC.onClickNext(__C.UIButton) -&gt; ()"
+                  moduleName = "Blade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cqlsys/Desktop/Blade/Blade/ViewController/Saloon/AddSaloonTimingVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "741"
+                  endingLineNumber = "741"
+                  offsetFromSymbolStart = "246656">
+               </Location>
+               <Location
+                  uuid = "ADB682E0-7653-418D-8636-9E8255C2565E - bba84c167d2768d6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Any&gt;) -&gt; () in Blade.AddSaloonTimingVC.onClickNext(__C.UIButton) -&gt; ()"
+                  moduleName = "Blade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cqlsys/Desktop/Blade/Blade/ViewController/Saloon/AddSaloonTimingVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "742"
+                  endingLineNumber = "742"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "ADB682E0-7653-418D-8636-9E8255C2565E - f6d996b825565e44"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Blade.AddSaloonTimingVC.onClickNext(__C.UIButton) -&gt; ()"
+                  moduleName = "Blade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cqlsys/Desktop/Blade/Blade/ViewController/Saloon/AddSaloonTimingVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "771"
+                  endingLineNumber = "771"
+                  offsetFromSymbolStart = "216584">
+               </Location>
+               <Location
+                  uuid = "ADB682E0-7653-418D-8636-9E8255C2565E - bba84c167d276cf4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Any&gt;) -&gt; () in Blade.AddSaloonTimingVC.onClickNext(__C.UIButton) -&gt; ()"
+                  moduleName = "Blade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cqlsys/Desktop/Blade/Blade/ViewController/Saloon/AddSaloonTimingVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "772"
+                  endingLineNumber = "772"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "ADB682E0-7653-418D-8636-9E8255C2565E - f6d996b825565fa5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Blade.AddSaloonTimingVC.onClickNext(__C.UIButton) -&gt; ()"
+                  moduleName = "Blade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cqlsys/Desktop/Blade/Blade/ViewController/Saloon/AddSaloonTimingVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "772"
+                  endingLineNumber = "772"
+                  offsetFromSymbolStart = "216584">
+               </Location>
+               <Location
+                  uuid = "ADB682E0-7653-418D-8636-9E8255C2565E - bba84c167d276cd7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Any&gt;) -&gt; () in Blade.AddSaloonTimingVC.onClickNext(__C.UIButton) -&gt; ()"
+                  moduleName = "Blade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cqlsys/Desktop/Blade/Blade/ViewController/Saloon/AddSaloonTimingVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "773"
+                  endingLineNumber = "773"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "ADB682E0-7653-418D-8636-9E8255C2565E - bba84c167d276c70"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Any&gt;) -&gt; () in Blade.AddSaloonTimingVC.onClickNext(__C.UIButton) -&gt; ()"
+                  moduleName = "Blade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cqlsys/Desktop/Blade/Blade/ViewController/Saloon/AddSaloonTimingVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "776"
+                  endingLineNumber = "776"
+                  offsetFromSymbolStart = "839">
+               </Location>
+               <Location
+                  uuid = "ADB682E0-7653-418D-8636-9E8255C2565E - f6d996b825565d5c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Blade.AddSaloonTimingVC.onClickNext(__C.UIButton) -&gt; ()"
+                  moduleName = "Blade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cqlsys/Desktop/Blade/Blade/ViewController/Saloon/AddSaloonTimingVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "795"
+                  endingLineNumber = "795"
+                  offsetFromSymbolStart = "212370">
+               </Location>
+               <Location
+                  uuid = "ADB682E0-7653-418D-8636-9E8255C2565E - bba84c167d2791ec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Any&gt;) -&gt; () in Blade.AddSaloonTimingVC.onClickNext(__C.UIButton) -&gt; ()"
+                  moduleName = "Blade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cqlsys/Desktop/Blade/Blade/ViewController/Saloon/AddSaloonTimingVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "796"
+                  endingLineNumber = "796"
+                  offsetFromSymbolStart = "116">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "90434CF9-FF0B-477F-A323-B83AEAA7315F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Blade/ViewController/Saloon/AddSaloonTimingVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "788"
+            endingLineNumber = "788"
+            landmarkName = "onClickNext(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "74F6B056-9B75-4F0D-AF79-349755BCDB76"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Blade/CustomClass/Common/Authantication/LoginSignup+API.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "211"
+            endingLineNumber = "211"
+            landmarkName = "parameters"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9AEAA1DA-730E-40A4-B7B9-0DAEDBC31426"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Blade/ViewController/Customer/Home/BookSlotVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "592"
+            endingLineNumber = "592"
+            landmarkName = "collectionView(_:didSelectItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B79CB7EF-BD57-4EA2-B71C-598B8D92199B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Blade/ViewController/Customer/Home/BookSlotVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "590"
+            endingLineNumber = "590"
+            landmarkName = "collectionView(_:didSelectItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "28150314-35EB-4FED-A364-611B6A12760B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Blade/ViewController/Customer/Profile/RescheduleVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "198"
+            endingLineNumber = "198"
+            landmarkName = "collectionView(_:cellForItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AA541ECD-0302-4E8D-8233-D364E8F85E51"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Blade/ViewController/Saloon/Home/AddManualBookingVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "265"
+            endingLineNumber = "265"
+            landmarkName = "collectionView(_:didSelectItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B02A54A3-5A3A-4EE1-AEC4-30190C12075C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Blade/ViewController/Saloon/Home/AddManualBookingVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "284"
+            endingLineNumber = "284"
+            landmarkName = "collectionView(_:didSelectItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CC8A02DF-A446-4EA4-8264-56B6B3E33653"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Blade/ViewController/Customer/Home/BookSlotVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "549"
+            endingLineNumber = "549"
+            landmarkName = "collectionView(_:didSelectItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AA32879D-6AE5-4CAA-80C9-B7F15002BF17"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Blade/ViewController/Customer/Profile/RescheduleVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "237"
+            endingLineNumber = "237"
+            landmarkName = "collectionView(_:didSelectItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "46971F8D-CE88-4A8A-922C-12F5B38599F7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Blade/ViewController/Customer/Home/BookSlotVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "571"
+            endingLineNumber = "571"
+            landmarkName = "collectionView(_:didSelectItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E3C98A95-8F8A-417F-BD36-E2CA012295FA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Blade/ViewController/Customer/Home/BookSlotVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "557"
+            endingLineNumber = "557"
+            landmarkName = "collectionView(_:didSelectItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AFBB8C93-20DB-488F-9D8D-B82EFDBA62C9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Blade/ViewController/Saloon/Home/SaloonHomeVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "298"
+            endingLineNumber = "298"
+            landmarkName = "onClickReschedule(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "46FBAC62-F75E-4E2C-93F5-A87CCB471A3C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Blade/ViewController/Saloon/BarberCalendar/BarberCalendarVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "138"
+            endingLineNumber = "138"
+            landmarkName = "onClickReschedule(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "46FBAC62-F75E-4E2C-93F5-A87CCB471A3C - b0e4ade722de7a62"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Blade.BarberCalendarVC.onClickReschedule(Blade.CustomButton) -&gt; ()"
+                  moduleName = "Blade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cqlsys/Desktop/Blade/Blade/ViewController/Saloon/BarberCalendar/BarberCalendarVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "138"
+                  endingLineNumber = "138"
+                  offsetFromSymbolStart = "580">
+               </Location>
+               <Location
+                  uuid = "46FBAC62-F75E-4E2C-93F5-A87CCB471A3C - b0e4ade722de7a62"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Blade.BarberCalendarVC.onClickReschedule(Blade.CustomButton) -&gt; ()"
+                  moduleName = "Blade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cqlsys/Desktop/Blade/Blade/ViewController/Saloon/BarberCalendar/BarberCalendarVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "138"
+                  endingLineNumber = "138"
+                  offsetFromSymbolStart = "816">
+               </Location>
+               <Location
+                  uuid = "46FBAC62-F75E-4E2C-93F5-A87CCB471A3C - b0e4ade722de7a62"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Blade.BarberCalendarVC.onClickReschedule(Blade.CustomButton) -&gt; ()"
+                  moduleName = "Blade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cqlsys/Desktop/Blade/Blade/ViewController/Saloon/BarberCalendar/BarberCalendarVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "138"
+                  endingLineNumber = "138"
+                  offsetFromSymbolStart = "630">
+               </Location>
+               <Location
+                  uuid = "46FBAC62-F75E-4E2C-93F5-A87CCB471A3C - b0e4ade722de7a62"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Blade.BarberCalendarVC.onClickReschedule(Blade.CustomButton) -&gt; ()"
+                  moduleName = "Blade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cqlsys/Desktop/Blade/Blade/ViewController/Saloon/BarberCalendar/BarberCalendarVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "138"
+                  endingLineNumber = "138"
+                  offsetFromSymbolStart = "678">
+               </Location>
+               <Location
+                  uuid = "46FBAC62-F75E-4E2C-93F5-A87CCB471A3C - b0e4ade722de7a62"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Blade.BarberCalendarVC.onClickReschedule(Blade.CustomButton) -&gt; ()"
+                  moduleName = "Blade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cqlsys/Desktop/Blade/Blade/ViewController/Saloon/BarberCalendar/BarberCalendarVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "138"
+                  endingLineNumber = "138"
+                  offsetFromSymbolStart = "629">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3FC5B936-1E5F-461C-B95B-630721F43429"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Blade/ViewController/Saloon/BarberCalendar/BarberCalendarVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "180"
+            endingLineNumber = "180"
+            landmarkName = "onClickReschedule(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3FC5B936-1E5F-461C-B95B-630721F43429 - b0e4ade722de70f4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Blade.BarberCalendarVC.onClickReschedule(Blade.CustomButton) -&gt; ()"
+                  moduleName = "Blade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cqlsys/Desktop/Blade/Blade/ViewController/Saloon/BarberCalendar/BarberCalendarVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "180"
+                  endingLineNumber = "180"
+                  offsetFromSymbolStart = "11439">
+               </Location>
+               <Location
+                  uuid = "3FC5B936-1E5F-461C-B95B-630721F43429 - b0e4ade722de70f4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Blade.BarberCalendarVC.onClickReschedule(Blade.CustomButton) -&gt; ()"
+                  moduleName = "Blade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cqlsys/Desktop/Blade/Blade/ViewController/Saloon/BarberCalendar/BarberCalendarVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "180"
+                  endingLineNumber = "180"
+                  offsetFromSymbolStart = "11331">
+               </Location>
+               <Location
+                  uuid = "3FC5B936-1E5F-461C-B95B-630721F43429 - b0e4ade722de70f4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Blade.BarberCalendarVC.onClickReschedule(Blade.CustomButton) -&gt; ()"
+                  moduleName = "Blade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cqlsys/Desktop/Blade/Blade/ViewController/Saloon/BarberCalendar/BarberCalendarVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "180"
+                  endingLineNumber = "180"
+                  offsetFromSymbolStart = "11300">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "226E2091-2400-47DA-9B49-4C86A8758322"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Blade/ViewController/Saloon/BarberCalendar/BarberCalendarVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "144"
+            endingLineNumber = "144"
+            landmarkName = "onClickReschedule(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "226E2091-2400-47DA-9B49-4C86A8758322 - b0e4ade722de7da8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Blade.BarberCalendarVC.onClickReschedule(Blade.CustomButton) -&gt; ()"
+                  moduleName = "Blade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cqlsys/Desktop/Blade/Blade/ViewController/Saloon/BarberCalendar/BarberCalendarVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "144"
+                  endingLineNumber = "144"
+                  offsetFromSymbolStart = "7197">
+               </Location>
+               <Location
+                  uuid = "226E2091-2400-47DA-9B49-4C86A8758322 - b0e4ade722de7da8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Blade.BarberCalendarVC.onClickReschedule(Blade.CustomButton) -&gt; ()"
+                  moduleName = "Blade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cqlsys/Desktop/Blade/Blade/ViewController/Saloon/BarberCalendar/BarberCalendarVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "144"
+                  endingLineNumber = "144"
+                  offsetFromSymbolStart = "7342">
+               </Location>
+               <Location
+                  uuid = "226E2091-2400-47DA-9B49-4C86A8758322 - b0e4ade722de7da8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Blade.BarberCalendarVC.onClickReschedule(Blade.CustomButton) -&gt; ()"
+                  moduleName = "Blade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cqlsys/Desktop/Blade/Blade/ViewController/Saloon/BarberCalendar/BarberCalendarVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "144"
+                  endingLineNumber = "144"
+                  offsetFromSymbolStart = "7223">
+               </Location>
+               <Location
+                  uuid = "226E2091-2400-47DA-9B49-4C86A8758322 - b0e4ade722de7da8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Blade.BarberCalendarVC.onClickReschedule(Blade.CustomButton) -&gt; ()"
+                  moduleName = "Blade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cqlsys/Desktop/Blade/Blade/ViewController/Saloon/BarberCalendar/BarberCalendarVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "144"
+                  endingLineNumber = "144"
+                  offsetFromSymbolStart = "7174">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A2D62EA3-5670-4827-9B0F-9A9E8436888A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Blade/ViewController/Saloon/Home/SaloonHomeVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "306"
+            endingLineNumber = "306"
+            landmarkName = "onClickReschedule(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "56BAC868-831F-491E-91CA-7FBBEDBD4E35"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Blade/ViewController/Saloon/Home/SaloonHomeVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "337"
+            endingLineNumber = "337"
+            landmarkName = "onClickReschedule(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "402F95E8-76D3-4A3E-B892-FAFA54DD59BC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Blade/ViewController/UserModule/EditProfileVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "setUpData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "402F95E8-76D3-4A3E-B892-FAFA54DD59BC - dd4f65a5dd18d72"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Blade.EditProfileVC.setUpData() -&gt; ()"
+                  moduleName = "Blade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cqlsys/Desktop/Blade/Blade/ViewController/UserModule/EditProfileVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "5046">
+               </Location>
+               <Location
+                  uuid = "402F95E8-76D3-4A3E-B892-FAFA54DD59BC - dd4f65a5dd18d72"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Blade.EditProfileVC.setUpData() -&gt; ()"
+                  moduleName = "Blade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cqlsys/Desktop/Blade/Blade/ViewController/UserModule/EditProfileVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "4665">
+               </Location>
+               <Location
+                  uuid = "402F95E8-76D3-4A3E-B892-FAFA54DD59BC - dd4f65a5dd18d72"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Blade.EditProfileVC.setUpData() -&gt; ()"
+                  moduleName = "Blade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cqlsys/Desktop/Blade/Blade/ViewController/UserModule/EditProfileVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "4617">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "32A33A96-9178-4534-9877-4AAF76ABC312"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Blade/ViewController/Customer/Home/SaloonDetail/SaloonAboutVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "855"
+            endingLineNumber = "855"
+            landmarkName = "onClickLocation(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "32A33A96-9178-4534-9877-4AAF76ABC312 - d2b2d954c842136f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[2] = Value Promoted from Box&gt; of closure #1 (Swift.Optional&lt;Swift.Array&lt;__C.CLPlacemark&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Blade.SaloonAboutVC.onClickLocation(__C.UIButton) -&gt; ()"
+                  moduleName = "Blade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cqlsys/Desktop/Blade/Blade/ViewController/Customer/Home/SaloonDetail/SaloonAboutVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "855"
+                  endingLineNumber = "855"
+                  offsetFromSymbolStart = "320">
+               </Location>
+               <Location
+                  uuid = "32A33A96-9178-4534-9877-4AAF76ABC312 - d2b2d954c842136f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[2] = Value Promoted from Box&gt; of closure #1 (Swift.Optional&lt;Swift.Array&lt;__C.CLPlacemark&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Blade.SaloonAboutVC.onClickLocation(__C.UIButton) -&gt; ()"
+                  moduleName = "Blade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cqlsys/Desktop/Blade/Blade/ViewController/Customer/Home/SaloonDetail/SaloonAboutVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "855"
+                  endingLineNumber = "855"
+                  offsetFromSymbolStart = "352">
+               </Location>
+               <Location
+                  uuid = "32A33A96-9178-4534-9877-4AAF76ABC312 - d2b2d954c842136f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[2] = Value Promoted from Box&gt; of closure #1 (Swift.Optional&lt;Swift.Array&lt;__C.CLPlacemark&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Blade.SaloonAboutVC.onClickLocation(__C.UIButton) -&gt; ()"
+                  moduleName = "Blade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cqlsys/Desktop/Blade/Blade/ViewController/Customer/Home/SaloonDetail/SaloonAboutVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "855"
+                  endingLineNumber = "855"
+                  offsetFromSymbolStart = "282">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4C160D2F-DBAD-4145-BB5E-FB9DEB19D402"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Blade/ViewController/Customer/Home/SaloonDetail/SaloonAboutVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "872"
+            endingLineNumber = "872"
+            landmarkName = "onClickLocation(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E1F9618E-CA7F-4D30-8F5F-BCC2D48EF382"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Blade/ViewController/Customer/Home/SaloonDetail/SaloonAboutVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "870"
+            endingLineNumber = "870"
+            landmarkName = "onClickLocation(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C0296126-39FB-4EFE-8ACC-A7FACEEBB7B2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Blade/ViewController/Customer/Home/SaloonDetail/SaloonAboutVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "100"
+            endingLineNumber = "100"
+            landmarkName = "setupData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F297CFB4-BE27-46EB-A686-ACC9021555EE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Blade/ViewController/Customer/Home/SaloonDetail/SaloonAboutVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "599"
+            endingLineNumber = "599"
+            landmarkName = "setupData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F4BD7D74-F14A-4411-A7CF-2E35DF85DB9B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Blade/ViewController/Saloon/AddSaloonDetailVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
+            landmarkName = "getImageData(data:image:tag:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F4BD7D74-F14A-4411-A7CF-2E35DF85DB9B - 4f5d117b6c98d606"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Blade.AddSaloonDetailVC.getImageData(data: Foundation.Data, image: __C.UIImage, tag: Swift.Int) -&gt; ()"
+                  moduleName = "Blade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cqlsys/Desktop/Blade/Blade/ViewController/Saloon/AddSaloonDetailVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "678">
+               </Location>
+               <Location
+                  uuid = "F4BD7D74-F14A-4411-A7CF-2E35DF85DB9B - 4f5d117b6c98d606"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Blade.AddSaloonDetailVC.getImageData(data: Foundation.Data, image: __C.UIImage, tag: Swift.Int) -&gt; ()"
+                  moduleName = "Blade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cqlsys/Desktop/Blade/Blade/ViewController/Saloon/AddSaloonDetailVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "628">
+               </Location>
+               <Location
+                  uuid = "F4BD7D74-F14A-4411-A7CF-2E35DF85DB9B - 4f5d117b6c98d667"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Blade.AddSaloonDetailVC.getImageData(data: Foundation.Data, image: __C.UIImage, tag: Swift.Int) -&gt; ()"
+                  moduleName = "Blade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cqlsys/Desktop/Blade/Blade/ViewController/Saloon/AddSaloonDetailVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "678">
+               </Location>
+               <Location
+                  uuid = "F4BD7D74-F14A-4411-A7CF-2E35DF85DB9B - 4f5d117b6c98d667"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Blade.AddSaloonDetailVC.getImageData(data: Foundation.Data, image: __C.UIImage, tag: Swift.Int) -&gt; ()"
+                  moduleName = "Blade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cqlsys/Desktop/Blade/Blade/ViewController/Saloon/AddSaloonDetailVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "672">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "283A3791-E654-4772-9B4D-3E62AE322B2D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Blade/ViewController/Saloon/AddSaloonDetailVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "91"
+            endingLineNumber = "91"
+            landmarkName = "getImageData(data:image:tag:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B32A4867-8FBF-49A7-8B85-E6590FC7B93F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Blade/ViewController/Saloon/AddSaloonDetailVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "89"
+            endingLineNumber = "89"
+            landmarkName = "getImageData(data:image:tag:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B32A4867-8FBF-49A7-8B85-E6590FC7B93F - ca977b251cb8d828"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.UIImage&gt;) -&gt; () in Blade.AddSaloonDetailVC.getImageData(data: Foundation.Data, image: __C.UIImage, tag: Swift.Int) -&gt; ()"
+                  moduleName = "Blade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cqlsys/Desktop/Blade/Blade/ViewController/Saloon/AddSaloonDetailVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "3559">
+               </Location>
+               <Location
+                  uuid = "B32A4867-8FBF-49A7-8B85-E6590FC7B93F - ca977b251cb8d809"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.UIImage&gt;) -&gt; () in Blade.AddSaloonDetailVC.getImageData(data: Foundation.Data, image: __C.UIImage, tag: Swift.Int) -&gt; ()"
+                  moduleName = "Blade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cqlsys/Desktop/Blade/Blade/ViewController/Saloon/AddSaloonDetailVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "3552">
+               </Location>
+               <Location
+                  uuid = "B32A4867-8FBF-49A7-8B85-E6590FC7B93F - ed23a110350ab7ef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in Blade.AddSaloonDetailVC.getImageData(data: Foundation.Data, image: __C.UIImage, tag: Swift.Int) -&gt; ()"
+                  moduleName = "Blade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cqlsys/Desktop/Blade/Blade/ViewController/Saloon/AddSaloonDetailVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "90"
+                  endingLineNumber = "90"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "B32A4867-8FBF-49A7-8B85-E6590FC7B93F - ca977b251cb8d86a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.UIImage&gt;) -&gt; () in Blade.AddSaloonDetailVC.getImageData(data: Foundation.Data, image: __C.UIImage, tag: Swift.Int) -&gt; ()"
+                  moduleName = "Blade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cqlsys/Desktop/Blade/Blade/ViewController/Saloon/AddSaloonDetailVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "90"
+                  endingLineNumber = "90"
+                  offsetFromSymbolStart = "3552">
+               </Location>
+               <Location
+                  uuid = "B32A4867-8FBF-49A7-8B85-E6590FC7B93F - ed23a110350ab7ce"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in Blade.AddSaloonDetailVC.getImageData(data: Foundation.Data, image: __C.UIImage, tag: Swift.Int) -&gt; ()"
+                  moduleName = "Blade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cqlsys/Desktop/Blade/Blade/ViewController/Saloon/AddSaloonDetailVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "B32A4867-8FBF-49A7-8B85-E6590FC7B93F - ca977b251cb8d86a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.UIImage&gt;) -&gt; () in Blade.AddSaloonDetailVC.getImageData(data: Foundation.Data, image: __C.UIImage, tag: Swift.Int) -&gt; ()"
+                  moduleName = "Blade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cqlsys/Desktop/Blade/Blade/ViewController/Saloon/AddSaloonDetailVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "90"
+                  endingLineNumber = "90"
+                  offsetFromSymbolStart = "3456">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FC646813-43C8-4799-98FA-7EEB66296FE6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Blade/ViewController/Customer/Home/CustomerSaloonDetailVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BC6689C6-0F3C-4F92-9DD8-96469DAC406F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Blade/ViewController/Customer/Home/CustomerSaloonDetailVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0DA05E60-2D6D-451D-ACE6-037BA8C6AB2E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Blade/ViewController/Customer/Home/CustomerSaloonDetailVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F43618B1-A94C-4E84-974D-267FCEF32676"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Blade/ViewController/Saloon/Home/SaloonHomeVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "112"
+            endingLineNumber = "112"
+            landmarkName = "reloadTableView(notification:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8B84E610-0F1B-4E1C-9359-C42D849758B0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Blade/ViewController/Saloon/Home/SaloonHomeVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "90"
+            endingLineNumber = "90"
+            landmarkName = "needsUpdate()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "20C158AF-BE04-41DF-A4F1-AFB9618C1050"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Blade/ViewController/Saloon/AddSaloonTimingVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "818"
+            endingLineNumber = "818"
+            landmarkName = "onClickDate(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "653A3DD2-B270-4F4D-863D-EAE629035947"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Blade/ViewController/Saloon/AddSaloonTimingVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1052"
+            endingLineNumber = "1052"
+            landmarkName = "onClickDate(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "653A3DD2-B270-4F4D-863D-EAE629035947 - 1203d500673d5a8b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.String, Swift.String, Swift.Int, Swift.Bool) -&gt; () in Blade.AddSaloonTimingVC.onClickDate(__C.UIButton) -&gt; ()"
+                  moduleName = "Blade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cqlsys/Desktop/Blade/Blade/ViewController/Saloon/AddSaloonTimingVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1052"
+                  endingLineNumber = "1052"
+                  offsetFromSymbolStart = "2995">
+               </Location>
+               <Location
+                  uuid = "653A3DD2-B270-4F4D-863D-EAE629035947 - 6292dd81ff53f2a5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (Swift.Optional&lt;Any&gt;) -&gt; () in closure #2 (Swift.String, Swift.String, Swift.Int, Swift.Bool) -&gt; () in Blade.AddSaloonTimingVC.onClickDate(__C.UIButton) -&gt; ()"
+                  moduleName = "Blade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cqlsys/Desktop/Blade/Blade/ViewController/Saloon/AddSaloonTimingVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1053"
+                  endingLineNumber = "1053"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B5E0E070-E353-495C-AF8E-089871E128D2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Blade/ViewController/Saloon/AddSaloonTimingVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1063"
+            endingLineNumber = "1063"
+            landmarkName = "onClickDate(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B5E0E070-E353-495C-AF8E-089871E128D2 - 1203d500673d5916"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.String, Swift.String, Swift.Int, Swift.Bool) -&gt; () in Blade.AddSaloonTimingVC.onClickDate(__C.UIButton) -&gt; ()"
+                  moduleName = "Blade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cqlsys/Desktop/Blade/Blade/ViewController/Saloon/AddSaloonTimingVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1063"
+                  endingLineNumber = "1063"
+                  offsetFromSymbolStart = "7127">
+               </Location>
+               <Location
+                  uuid = "B5E0E070-E353-495C-AF8E-089871E128D2 - 5f7cac04bd38a13c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #5 (Swift.Optional&lt;Any&gt;) -&gt; () in closure #2 (Swift.String, Swift.String, Swift.Int, Swift.Bool) -&gt; () in Blade.AddSaloonTimingVC.onClickDate(__C.UIButton) -&gt; ()"
+                  moduleName = "Blade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cqlsys/Desktop/Blade/Blade/ViewController/Saloon/AddSaloonTimingVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1064"
+                  endingLineNumber = "1064"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0123115A-B34B-404B-806B-3F0267016399"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Blade/ViewController/Saloon/AddSaloonTimingVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1041"
+            endingLineNumber = "1041"
+            landmarkName = "onClickDate(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0123115A-B34B-404B-806B-3F0267016399 - 1203d500673d643c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.String, Swift.String, Swift.Int, Swift.Bool) -&gt; () in Blade.AddSaloonTimingVC.onClickDate(__C.UIButton) -&gt; ()"
+                  moduleName = "Blade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cqlsys/Desktop/Blade/Blade/ViewController/Saloon/AddSaloonTimingVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1041"
+                  endingLineNumber = "1041"
+                  offsetFromSymbolStart = "1129">
+               </Location>
+               <Location
+                  uuid = "0123115A-B34B-404B-806B-3F0267016399 - 762b0d7d314a7c52"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Any&gt;) -&gt; () in closure #2 (Swift.String, Swift.String, Swift.Int, Swift.Bool) -&gt; () in Blade.AddSaloonTimingVC.onClickDate(__C.UIButton) -&gt; ()"
+                  moduleName = "Blade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cqlsys/Desktop/Blade/Blade/ViewController/Saloon/AddSaloonTimingVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1042"
+                  endingLineNumber = "1042"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DCC1768B-E736-4E10-90A0-3A53BEACDD14"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Blade/ViewController/Saloon/AddSaloonTimingVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1154"
+            endingLineNumber = "1154"
+            landmarkName = "onClickDate(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DCC1768B-E736-4E10-90A0-3A53BEACDD14 - 1203d500673d55ad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.String, Swift.String, Swift.Int, Swift.Bool) -&gt; () in Blade.AddSaloonTimingVC.onClickDate(__C.UIButton) -&gt; ()"
+                  moduleName = "Blade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cqlsys/Desktop/Blade/Blade/ViewController/Saloon/AddSaloonTimingVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1154"
+                  endingLineNumber = "1154"
+                  offsetFromSymbolStart = "42607">
+               </Location>
+               <Location
+                  uuid = "DCC1768B-E736-4E10-90A0-3A53BEACDD14 - 4be67c8f7b065dfb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #7 (Swift.Optional&lt;Any&gt;) -&gt; () in closure #2 (Swift.String, Swift.String, Swift.Int, Swift.Bool) -&gt; () in Blade.AddSaloonTimingVC.onClickDate(__C.UIButton) -&gt; ()"
+                  moduleName = "Blade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cqlsys/Desktop/Blade/Blade/ViewController/Saloon/AddSaloonTimingVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1155"
+                  endingLineNumber = "1155"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "189EDA9A-FAD9-4F1E-903C-0B14F17A4FAB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Blade/ViewController/Saloon/AddSaloonTimingVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1165"
+            endingLineNumber = "1165"
+            landmarkName = "onClickDate(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "189EDA9A-FAD9-4F1E-903C-0B14F17A4FAB - 1203d500673d5438"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.String, Swift.String, Swift.Int, Swift.Bool) -&gt; () in Blade.AddSaloonTimingVC.onClickDate(__C.UIButton) -&gt; ()"
+                  moduleName = "Blade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cqlsys/Desktop/Blade/Blade/ViewController/Saloon/AddSaloonTimingVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1165"
+                  endingLineNumber = "1165"
+                  offsetFromSymbolStart = "44354">
+               </Location>
+               <Location
+                  uuid = "189EDA9A-FAD9-4F1E-903C-0B14F17A4FAB - 2441cf1239ef0c5e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #9 (Swift.Optional&lt;Any&gt;) -&gt; () in closure #2 (Swift.String, Swift.String, Swift.Int, Swift.Bool) -&gt; () in Blade.AddSaloonTimingVC.onClickDate(__C.UIButton) -&gt; ()"
+                  moduleName = "Blade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cqlsys/Desktop/Blade/Blade/ViewController/Saloon/AddSaloonTimingVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1166"
+                  endingLineNumber = "1166"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3B477B58-A17D-434E-94BE-8613FC92B1DC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Blade/ViewController/Saloon/AddSaloonTimingVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1176"
+            endingLineNumber = "1176"
+            landmarkName = "onClickDate(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3B477B58-A17D-434E-94BE-8613FC92B1DC - 1203d500673d4a87"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.String, Swift.String, Swift.Int, Swift.Bool) -&gt; () in Blade.AddSaloonTimingVC.onClickDate(__C.UIButton) -&gt; ()"
+                  moduleName = "Blade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cqlsys/Desktop/Blade/Blade/ViewController/Saloon/AddSaloonTimingVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1176"
+                  endingLineNumber = "1176"
+                  offsetFromSymbolStart = "46080">
+               </Location>
+               <Location
+                  uuid = "3B477B58-A17D-434E-94BE-8613FC92B1DC - 292e3b9b63c730a2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #11 (Swift.Optional&lt;Any&gt;) -&gt; () in closure #2 (Swift.String, Swift.String, Swift.Int, Swift.Bool) -&gt; () in Blade.AddSaloonTimingVC.onClickDate(__C.UIButton) -&gt; ()"
+                  moduleName = "Blade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cqlsys/Desktop/Blade/Blade/ViewController/Saloon/AddSaloonTimingVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1177"
+                  endingLineNumber = "1177"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BE61B6BC-4205-42C4-8C69-2E0F54C990C7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Blade/CustomClass/Common/Authantication/LoginSignup+API.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "246"
+            endingLineNumber = "246"
+            landmarkName = "parameters"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4CE977A7-160D-4BB4-A8CE-B8FA21D818EE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Blade/ViewController/Saloon/BarberCalendar/BarberManualBookingVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "240"
+            endingLineNumber = "240"
+            landmarkName = "collectionView(_:didSelectItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

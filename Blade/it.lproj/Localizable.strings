@@ -1,0 +1,199 @@
+/*
+  Localizable.strings
+  Blade
+
+  Created by cqlsys on 13/12/22.
+  
+*/
+
+"Paid Online" = "Pagato online";
+"Paid at Salon" = "Paga dal barbiere";
+"Rate" = "Valutazione";
+"Customer Name" = "Nome del cliente";
+"Completed" = "Completato";
+"Cancelled" = "Annullamento";
+"Cancel" = "Annullamento";
+"Complete" = "Completa";
+"Accepted" = "Accettato";
+"Reject" = "Rifiutare";
+"Accept" = "Accettare";
+"Pending" = "In attesa di";
+"card ending with" = "carta che termina con";
+"No appointments available" = "Nessun appuntamento disponibile";
+"Remove Manual Booking" = "Rimuovi la prenotazione manuale";
+"Slot is not available for this booking" = "Lo slot non è disponibile per la prenotazione.";
+"Save Manual Booking" = "Salva prenotazione manuale";
+"Weekly" = "Settimanale";
+"Monthly" = "Mensile";
+"Yearly" = "Annuale";
+"Jan" = "Genn";
+"Feb" = "Febbr";
+"Mar" = "Mar";
+"Apr" = "Apr";
+"May" = "Magg";
+"Jun" = "Giugno";
+"Jul" = "Luglio";
+"Aug" = "Ag";
+"Sep" = "Sett";
+"Oct" = "Ott";
+"Nov" = "Nov";
+"Dec" = "Dic";
+"Profile" = "Profilo";
+"Wallet" = "Portafoglio";
+"Salon Hours" = "Orari del barbiere";
+"My Stylist" = "I miei barbieri";
+"Change Password" = "Cambia password";
+"Privacy Policy" = "Informativa sulla privacy";
+"About Us" = "Informazioni su di noi";
+"Delete Account" = "Elimina profilo";
+"Contact Us" = "Contattateci";
+"Are you sure, you want to logout?" = "Sei sicuro?";
+"Are you sure, you want to delete this account?" = "Sei sicuro di eliminare il tuo account dall'app Blade?";
+"Withdraw" = "Prelevare denaro";
+"Conncet Stripe to withdraw" = "Conncet Stripe di ritirarsi";
+"Enter amount to withdraw." = "Inserite l'importo da prelevare";
+"Requried entered amount to withdraw should be greater than €1." = "L'importo da prelevare richiesto deve essere superiore a 1€.";
+"Booking start date/time is" = "La data/ora di inizio della prenotazione è";
+". Before booking date and time you cann't complete this." = ". Prima della data e dell'ora della prenotazione non è possibile completare la prenotazione.";
+"No data found" = "Nessun record trovato";
+"Post your review for" = "Pubblica il tuo commento per";
+"Add your review" = "Aggiungi recensioni";
+"Please enter name" = "Aggiungi nome";
+"Please enter phone number" = "Inserire il numero di telefono";
+"Please enter location" = "Inserire l'indirizzo";
+"Please enter description" = "Immettere Descrizione";
+"Update Salon Timings" = "Aggiorna l'orario del negozio";
+"Closed" = "non orario di lavoro";
+"Please enter monday timing" = "inserire l'ora del lunedì";
+"Please enter tuesday timing" = "inserire l'orario di martedì";
+"Please enter wednesday timing" = "inserisci i tempi di mercoledì";
+"Please enter thursday timing" = "inserisci i tempi di giovedì";
+"Please enter friday timing" = "inserire l'orario del venerdì";
+"Please enter saturday timing" = "inserire l'orario del sabato";
+"Please enter sunday timing" = "inserire l'orario della domenica";
+"Minutes" = "minuti";
+"10 minutes" = "10 minuti";
+"20 minutes" = "20 minuti";
+"30 minutes" = "30 minuti";
+"40 minutes" = "40 minuti";
+"50 minutes" = "50 minuti";
+"60 minutes" = "60 minuti";
+"70 minutes" = "70 minuti";
+"80 minutes" = "80 minuti";
+"90 minutes" = "90 minuti";
+"100 minutes" = "100 minuti";
+"110 minutes" = "110 minuti";
+"120 minutes" = "120 minuti";
+"130 minutes" = "130 minuti";
+"140 minutes" = "140 minuti";
+"150 minutes" = "150 minuti";
+"160 minutes" = "160 minuti";
+"170 minutes" = "170 minuti";
+"180 minutes" = "180 minuti";
+"Edit Salon Services" = "Modifica servizi";
+"Please enter service name" = "Aggiungi il nome del servizio";
+"Please enter price" = "Inserire il prezzo";
+"Please select time" = "selezionare l'ora";
+"Please select image" = "Aggiungi immagine";
+"Please enter saloon name" = "Nome del barbiere";
+"Please enter email" = "Inserire l'e-mail";
+"Please enter valid email address" = "Inserisci un'e-mail valida";
+"Please select saloon service" = "Seleziona Servizio";
+"Please enter valid phone number" = "Inserire un numero valido";
+"Please enter bio" = "entra in biografia";
+"Please select any service" = "Si prega di selezionare i servizi.";
+"Sunday" = "Domenica";
+"Monday" = "Lunedì";
+"Tuesday" = "Martedì";
+"Wednesday" = "Mercoledì";
+"Thursday" = "Giovedì";
+"Friday" = "Venerdì";
+"Saturday" = "sabato";
+"Please enter accurate date" = "Inserisci un orario di lavoro valido";
+"Reschedule" = "Riprogrammare";
+"Cancelled by you" = "Annullato da voi";
+"Cancelled by salon" = "Annullato dal negozio";
+"Cancelled by stylist" = "Annullato dal barbiere";
+"Rate & Review" = "Valutazione e revisione";
+"Reviewd" = "Rivisto";
+"About" = "Informazioni su";
+"Contact" = "Contatto";
+"customer rating" = "Recensioni dei clienti";
+"Select Service" = "Seleziona i servizi";
+"Please select service first" = "selezionare prima il servizio";
+"Please select slot" = "seleziona slot";
+"Stylist Name" = "nome del barbiere";
+"Salon Owner Name" = "Nome del proprietario del negozio";
+"You have" = "Avete";
+"balance in your wallet. You can use €5 in one online paid booking only when you have balance" = "saldo nel portafoglio. È possibile utilizzare 5 € in una prenotazione online a pagamento solo se si dispone di un saldo minimo di 5 € nel portafoglio.";
+"Are you sure you want to delete this card" = "Sei sicuro?";
+"Please enter card" = "Aggiungi una nuova carta";
+"Please enter valid card" = "Inserire un numero valido";
+"Please enter expiry date" = "Data di scadenza";
+"Please enter cvv" = "Please enter cvv";
+"Services" = "Servizi";
+"Service" = "Servizi";
+"Gallery" = "Galleria";
+"Reviews" = "Recensioni";
+"Rewards" = "Ricompense";
+"My Reviews" = "Le mie recensioni";
+"Term of use" = "Termini di utilizzo";
+"Please enter password" = "Inserire la password";
+"Please select location" = "Inserire l'indirizzo";
+"Terms & Conditions" = "Termini & Condizioni";
+"Please enter old password" = "Inserisci la vecchia password";
+"Please enter new password" = "Inserisci la nuova password";
+"Please enter confirm password" = "Conferma la password";
+"New and confirm password not match" = "Conferma password errata";
+"Change Language" = "Cambia lingua";
+"Rate & Review Blade App" = "Valuta e recensisci l'app Blade";
+"All Barbers Earnings" = "Tutti i guadagni barbieri";
+"Shop Owner Earnings" = "Guadagni del proprietario del negozio";
+"Duration" = "Durata";
+"Ok" = "Ok";
+"Hi" = "Ciao";
+"Are you sure, you want to cancel your booking?" = "Sei sicuro di voler cancellare la tua prenotazione?";
+"Barbers" = "Barbieri";
+"Booking sent" = "Prenotazione inviata";
+"Are you sure you want to cancel your booking?\nYour appointment is in less than 24hrs.\n\nIf you wish to cancel your appointment you will receive 50% of your payment back.\n( Do you wish to cancel your appointment or reschedule?)" = "Sei sicuro di voler cancellare la tua prenotazione? Il tuo appuntamento è tra meno di 24 ore. Se vuoi cancellare il tuo appuntamento ti verrà restituito il 50% del tuo pagamento.";
+
+"Are you sure you want to cancel your booking?\nYour appointment is in less than 12hrs.\n\nIf you wish to cancel your appointment you will not receive a refund.\n\n( Do you wish to cancel your appointment or reschedule?)" = "Sei sicuro di voler cancellare la tua prenotazione? Il tuo appuntamento è tra meno di 12 ore. Se vuoi cancellare il tuo appuntamento non riceverai un rimborso.";
+"Booking Completed" = "Prenotazione completata";
+"Booking accepted" = "Prenotazione accettata";
+"Please select terms" = "Please select terms";
+
+"Add barber" = "Aggiungi barbiere";
+"Earnings" = "Guadagni";
+
+
+"TEST" = "Il denaro che ricevi tramite TheBladeApp verrà trasferito automaticamente sul tuo conto bancario connesso a STRIPE.\n\nI tuoi fondi Stripe saranno disponibili sul tuo conto bancario entro 7-14 giorni dal giorno in cui sono stati ricevuti i pagamenti.\n\nBlade App and Stripe utilizza un protocollo e una crittografia altamente protetti per salvaguardare tutte le transazioni.\n\nPer qualsiasi domanda contattaci Support@thebladeapp.com";
+
+
+"Transactions History" = "Historique des transactions";
+
+"Amount" = "Quantità";
+"Status : Available" = "Stato: disponibile";
+"Completed On" = "Vervollständigt am";
+"Status : Pending" = "Stato: In Attesa";
+"Available On" = "Disponibile su";
+
+"Withdrawal History" = "Cronologia dei prelievi";
+"Withdraw Created on" = "Prelievo Creato il";
+
+
+"Change wallet card" = "Cambia la carta del portafoglio";
+"Break" = "Pausa";
+"Manual Booking" = "Prenotazione manuale";
+"Block Off Time" = "Blocca l'orario di spegnimento";
+"Remove Block Off Time" = "Rimuovi il tempo di blocco";
+
+"Notification permission was previously denied, go to settings & privacy to re-enable" = "L'autorizzazione alle notifiche è stata precedentemente negata, vai su Impostazioni e privacy per riattivarla";
+
+"Please complete signup process to make your shop visible." = "Completa la procedura di registrazione per rendere visibile il tuo negozio.";
+"Location Address" = "Indirizzo della posizione";
+"Employees will receive  their login details and they must login as clients." = "I tuoi dipendenti riceveranno i dettagli di accesso tramite e-mail per accedere all'app. Chiedi loro di controllare la loro posta elettronica per ricevere i dettagli di accesso.";
+"No notifications are available currently for you."=  "Al momento non sono disponibili notifiche per te.";
+
+"Link copied successfully." = "Collegamento copiato con successo.";
+"Sticker downloaded successfully." = "Adesivo scaricato correttamente.";
+"Please enable the E-mail." = "Si prega di abilitare l'e-mail.";

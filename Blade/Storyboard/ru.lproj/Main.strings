@@ -1,0 +1,486 @@
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "0fi-aT-DnU"; */
+"0fi-aT-DnU.text" = "Эл. почта";
+
+/* Class = "UITextField"; placeholder = "10:00 am - 8:00 pm"; ObjectID = "1Io-N5-hd2"; */
+"1Io-N5-hd2.placeholder" = "00:00 - 00:00";
+
+/* Class = "UIButton"; normalTitle = "Update"; ObjectID = "1aY-lg-Xd5"; */
+"1aY-lg-Xd5.normalTitle" = "Обновить";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "2hK-xn-Y62"; */
+"2hK-xn-Y62.text" = "Эл. почта";
+
+/* Class = "UILabel"; text = "Saturday"; ObjectID = "2sZ-HV-l0g"; */
+"2sZ-HV-l0g.text" = "Суббота";
+
+/* Class = "UIButton"; normalTitle = "Get Started"; ObjectID = "3Rl-oO-Peb"; */
+"3Rl-oO-Peb.normalTitle" = "Начать знакомство";
+
+/* Class = "UILabel"; text = "Add Service Service"; ObjectID = "3d3-2c-dAm"; */
+"3d3-2c-dAm.text" = "Выберите услуги";
+
+/* Class = "UILabel"; text = "Already a user?"; ObjectID = "4At-HL-K7y"; */
+"4At-HL-K7y.text" = "У меня есть учетная запись";
+
+/* Class = "UITextField"; placeholder = "Enter Number"; ObjectID = "4IT-fC-Kcw"; */
+"4IT-fC-Kcw.placeholder" = "Укажите номер телефона";
+
+/* Class = "UITextField"; text = "+91"; ObjectID = "4IT-fC-Kcw"; */
+"4IT-fC-Kcw.text" = "+91";
+
+/* Class = "UITextField"; placeholder = "10:00 am - 8:00 pm"; ObjectID = "5d7-ey-DJL"; */
+"5d7-ey-DJL.placeholder" = "00:00 - 00:00";
+
+/* Class = "UILabel"; text = "Let’s Get Started"; ObjectID = "6CW-MM-54m"; */
+"6CW-MM-54m.text" = "Войдите, чтобы продолжить";
+
+/* Class = "UILabel"; text = "Monday"; ObjectID = "6cn-zv-1oM"; */
+"6cn-zv-1oM.text" = "Понедельник";
+
+/* Class = "UILabel"; text = "Select End Time"; ObjectID = "6gp-Pz-GU2"; */
+"6gp-Pz-GU2.text" = "Выберите время окончания";
+
+/* Class = "UILabel"; text = "Thursday"; ObjectID = "7AU-gl-bGb"; */
+"7AU-gl-bGb.text" = "Четверг";
+
+/* Class = "UITextField"; placeholder = "Enter name"; ObjectID = "7sD-zr-P83"; */
+"7sD-zr-P83.placeholder" = "Укажите имя";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "8PC-wM-fob"; */
+"8PC-wM-fob.normalTitle" = "Отправить";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "8Sp-kp-ggc"; */
+"8Sp-kp-ggc.normalTitle" = "Войти";
+
+/* Class = "UITextField"; placeholder = "Enter name"; ObjectID = "8k0-Th-366"; */
+"8k0-Th-366.placeholder" = "Укажите имя";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "8qE-GY-wkK"; */
+"8qE-GY-wkK.text" = "Название";
+
+/* Class = "UITextField"; placeholder = "Select Service"; ObjectID = "9Zb-af-gLG"; */
+"9Zb-af-gLG.placeholder" = "Выберите услугу";
+
+/* Class = "UILabel"; text = "Forgot Password"; ObjectID = "9bV-Br-M39"; */
+"9bV-Br-M39.text" = "Забыли пароль";
+
+/* Class = "UILabel"; text = "New Password"; ObjectID = "9cD-CW-8DE"; */
+"9cD-CW-8DE.text" = "Новый пароль";
+
+/* Class = "UITextField"; placeholder = "Enter Number"; ObjectID = "9dG-gU-guY"; */
+"9dG-gU-guY.placeholder" = "Укажите номер телефона";
+
+/* Class = "UITextField"; text = "+91"; ObjectID = "9dG-gU-guY"; */
+"9dG-gU-guY.text" = "+91";
+
+/* Class = "UILabel"; text = "Working"; ObjectID = "ANi-XJ-j0P"; */
+"ANi-XJ-j0P.text" = "Работает";
+
+/* Class = "UITextField"; placeholder = "Enter Email"; ObjectID = "ARJ-cC-SHU"; */
+"ARJ-cC-SHU.placeholder" = "Укажите адрес электронной почты";
+
+/* Class = "UITextField"; placeholder = "10:00 am - 8:00 pm"; ObjectID = "AbT-xT-B2r"; */
+"AbT-xT-B2r.placeholder" = "00:00 - 00:00";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "AeX-Wc-94I"; */
+"AeX-Wc-94I.normalTitle" = "Отправить";
+
+/* Class = "UITextField"; placeholder = "Enter email"; ObjectID = "BTF-HO-AaV"; */
+"BTF-HO-AaV.placeholder" = "Укажите адрес электронной почты";
+
+/* Class = "UILabel"; text = "Let’s Get Started"; ObjectID = "ESS-6Z-yV4"; */
+"ESS-6Z-yV4.text" = "Давайте приступим";
+
+/* Class = "UILabel"; text = "Add Name"; ObjectID = "Ec6-YQ-b3C"; */
+"Ec6-YQ-b3C.text" = "Добавить название";
+
+/* Class = "UILabel"; text = "Add Salon Timings"; ObjectID = "FWb-OF-FQC"; */
+"FWb-OF-FQC.text" = "Добавить часы работы парикмахерской";
+
+/* Class = "UILabel"; text = "Time"; ObjectID = "FgF-vD-0He"; */
+"FgF-vD-0He.text" = "Время";
+"22c-8p-Pwr.text" = "Время";
+"pOc-Jy-kY3.text" = "Время";
+"41d-jQ-cGX.text" = "Время";
+"Nbe-2x-2WP.text" = "Время";
+
+/* Class = "UITextField"; placeholder = "Enter Email"; ObjectID = "Fmu-Pf-5hK"; */
+"Fmu-Pf-5hK.placeholder" = "Укажите адрес электронной почты";
+
+/* Class = "UITextField"; placeholder = "Enter Number"; ObjectID = "GPQ-iD-v5q"; */
+"GPQ-iD-v5q.placeholder" = "Укажите номер телефона";
+
+/* Class = "UILabel"; text = "Find a Barber shop near you"; ObjectID = "GVE-Gn-SCe"; */
+"GVE-Gn-SCe.text" = "Найдите парикмахерскую или салон рядом с вами";
+
+/* Class = "UILabel"; text = "Select Services"; ObjectID = "He9-qi-aPh"; */
+"He9-qi-aPh.text" = "Выберите услугу";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "HiJ-rB-Gyr"; */
+"HiJ-rB-Gyr.normalTitle" = "Далее";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "I9g-eF-EmP"; */
+"I9g-eF-EmP.text" = "Пароль";
+
+/* Class = "UILabel"; text = "Phone"; ObjectID = "IEu-LX-ywu"; */
+"IEu-LX-ywu.text" = "Телефон";
+
+/* Class = "UILabel"; text = "Add Salon Services"; ObjectID = "Iq2-AV-eLa"; */
+"Iq2-AV-eLa.text" = "Добавить услуги парикмахерской";
+
+/* Class = "UILabel"; text = "Select Services"; ObjectID = "J0K-P8-k0C"; */
+"J0K-P8-k0C.text" = "Выберите услуги";
+
+/* Class = "UILabel"; text = "Change Password"; ObjectID = "JMj-5T-SHb"; */
+"JMj-5T-SHb.text" = "Изменить пароль";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "JXp-vj-WIj"; */
+"JXp-vj-WIj.text" = "Расположение";
+
+/* Class = "UILabel"; text = "Select Start  Time"; ObjectID = "JnU-eJ-pqJ"; */
+"JnU-eJ-pqJ.text" = "Выберите время начала";
+
+/* Class = "UITextField"; placeholder = "10:00 am - 8:00 pm"; ObjectID = "JvT-eG-7Is"; */
+"JvT-eG-7Is.placeholder" = "00:00 - 00:00";
+
+/* Class = "UITextField"; placeholder = "10:00 am - 8:00 pm"; ObjectID = "KPm-eQ-8ZD"; */
+"KPm-eQ-8ZD.placeholder" = "00:00 - 00:00";
+
+/* Class = "UILabel"; text = "Friday"; ObjectID = "L7S-EQ-7ce"; */
+"L7S-EQ-7ce.text" = "Пятница";
+
+/* Class = "UITextField"; placeholder = "Enter Number"; ObjectID = "LD6-IX-TYf"; */
+"LD6-IX-TYf.placeholder" = "Укажите номер телефона";
+
+/* Class = "UITextField"; placeholder = "10:00 am - 8:00 pm"; ObjectID = "LqS-hj-VCA"; */
+"LqS-hj-VCA.placeholder" = "00:00 - 00:00";
+
+/* Class = "UITextField"; placeholder = "Please enter name"; ObjectID = "MVQ-K7-Zrs"; */
+"MVQ-K7-Zrs.placeholder" = "Укажите имя";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "Mml-IO-Hty"; */
+"Mml-IO-Hty.text" = "Название";
+
+/* Class = "UILabel"; text = "Add Salon Timings"; ObjectID = "MpJ-Nf-vmN"; */
+"MpJ-Nf-vmN.text" = "Добавить часы работы парикмахерской";
+
+/* Class = "UIButton"; normalTitle = "Add Service"; ObjectID = "NHE-BX-8CZ"; */
+"NHE-BX-8CZ.normalTitle" = "Добавить услугу";
+
+/* Class = "UITextField"; placeholder = "10:00 am - 8:00 pm"; ObjectID = "OAU-v9-nOI"; */
+"OAU-v9-nOI.placeholder" = "00:00 - 00:00";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "OIE-pC-Y6F"; */
+"OIE-pC-Y6F.text" = "Расположение";
+
+/* Class = "UILabel"; text = "Add your salon details"; ObjectID = "OQq-UU-w5Q"; */
+"OQq-UU-w5Q.text" = "Добавьте данные вашей парикмахерской";
+
+/* Class = "UILabel"; text = "Add Salon Photo"; ObjectID = "Ozi-HH-MWW"; */
+"Ozi-HH-MWW.text" = "Добавить фото парикмахерской";
+
+/* Class = "UILabel"; text = "5.0"; ObjectID = "Pwc-q2-HfD"; */
+"Pwc-q2-HfD.text" = "5.0";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "Q1U-9Z-b2e"; */
+"Q1U-9Z-b2e.normalTitle" = "Сохранить";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "Ql2-EO-6uv"; */
+"Ql2-EO-6uv.normalTitle" = "Регистрация";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "RCo-We-7uG"; */
+"RCo-We-7uG.text" = "Расположение";
+
+/* Class = "UITextField"; placeholder = "*****"; ObjectID = "RR3-ps-Hhi"; */
+"RR3-ps-Hhi.placeholder" = "*****";
+
+/* Class = "UIButton"; normalTitle = "Facebook"; ObjectID = "ReO-Li-Fiu"; */
+"ReO-Li-Fiu.normalTitle" = "Facebook";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "RfV-se-kGo"; */
+"RfV-se-kGo.normalTitle" = "Регистрация";
+
+/* Class = "UITextField"; placeholder = "Enter Number"; ObjectID = "Rfg-Cd-UBR"; */
+"Rfg-Cd-UBR.placeholder" = "Укажите номер телефона";
+
+/* Class = "UITextField"; text = "+91"; ObjectID = "Rfg-Cd-UBR"; */
+"Rfg-Cd-UBR.text" = "+91";
+
+/* Class = "UITextField"; placeholder = "Select Time"; ObjectID = "Rjq-sK-Eba"; */
+"Rjq-sK-Eba.placeholder" = "Выберите время";
+
+/* Class = "UITextField"; placeholder = "Please enter location"; ObjectID = "Ro4-aq-xE5"; */
+"Ro4-aq-xE5.placeholder" = "Пожалуйста, введите местоположение";
+
+/* Class = "UITextField"; placeholder = "Enter email"; ObjectID = "SLI-Jx-M0A"; */
+"SLI-Jx-M0A.placeholder" = "Укажите адрес электронной почты";
+
+/* Class = "UITextField"; placeholder = "Enter Number"; ObjectID = "SWo-xQ-6xv"; */
+"SWo-xQ-6xv.placeholder" = "Укажите номер телефона";
+
+/* Class = "UILabel"; text = "Phone"; ObjectID = "TIB-T0-tDK"; */
+"TIB-T0-tDK.text" = "Телефон";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "VHA-p8-PhO"; */
+"VHA-p8-PhO.text" = "Эл. почта";
+
+/* Class = "UILabel"; text = "Phone"; ObjectID = "VkJ-vW-sGJ"; */
+"VkJ-vW-sGJ.text" = "Телефон";
+
+/* Class = "UILabel"; text = "Old Password"; ObjectID = "W0o-cf-u0y"; */
+"W0o-cf-u0y.text" = "Старый пароль";
+
+/* Class = "UITextField"; placeholder = "*****"; ObjectID = "XHi-T0-hju"; */
+"XHi-T0-hju.placeholder" = "*****";
+
+/* Class = "UITextField"; placeholder = "******"; ObjectID = "XzR-WC-vVE"; */
+"XzR-WC-vVE.placeholder" = "******";
+
+/* Class = "UILabel"; text = "Explore services by creating account!"; ObjectID = "YIh-ig-ETw"; */
+"YIh-ig-ETw.text" = "Создайте учетную запись, чтобы узнать об услугах!";
+
+/* Class = "UILabel"; text = "Monday"; ObjectID = "Zxz-4u-Qy4"; */
+"Zxz-4u-Qy4.text" = "Понедельник";
+
+/* Class = "UILabel"; text = "Tuesday"; ObjectID = "a8u-X4-ygy"; */
+"a8u-X4-ygy.text" = "Вторник";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "b8H-R3-gfV"; */
+"b8H-R3-gfV.normalTitle" = "Войти";
+
+/* Class = "UILabel"; text = "Phone"; ObjectID = "bZe-u1-gDd"; */
+"bZe-u1-gDd.text" = "Телефон";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "bnw-UT-R2D"; */
+"bnw-UT-R2D.normalTitle" = "Войти";
+
+/* Class = "UITextField"; placeholder = "*****"; ObjectID = "bqC-x5-d91"; */
+"bqC-x5-d91.placeholder" = "*****";
+
+/* Class = "UILabel"; text = "Profile"; ObjectID = "c2D-HE-JQv"; */
+"c2D-HE-JQv.text" = "Профиль";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "eJG-5w-Wtk"; */
+"eJG-5w-Wtk.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "fPN-LM-qNI"; */
+"fPN-LM-qNI.normalTitle" = "Отправить";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "fUR-hv-CWl"; */
+"fUR-hv-CWl.text" = "Эл. почта";
+
+/* Class = "UILabel"; text = "Add Salon Timings"; ObjectID = "feE-i3-Rmi"; */
+"feE-i3-Rmi.text" = "Добавить часы работы парикмахерской";
+
+/* Class = "UILabel"; text = "Welcome to Blade "; ObjectID = "g98-Ad-RwO"; */
+"g98-Ad-RwO.text" = "Добро пожаловать в Blade ";
+
+/* Class = "UILabel"; text = "Or login with"; ObjectID = "gSX-47-EnS"; */
+"gSX-47-EnS.text" = "Or login with";
+
+/* Class = "UILabel"; text = "Active"; ObjectID = "hUE-cp-qol"; */
+"hUE-cp-qol.text" = "Активно";
+"dxW-g4-IhM.text" = "Активно";
+"pr4-1u-r2w.text" = "Активно";
+"0Iw-Zf-dYf.text" = "Активно";
+"mqi-rw-Ide.text" = "Активно";
+
+/* Class = "UITextField"; placeholder = "Enter name"; ObjectID = "hUf-R8-ogs"; */
+"hUf-R8-ogs.placeholder" = "Укажите имя";
+
+/* Class = "UILabel"; text = "Welcome to Blade!"; ObjectID = "hqU-aU-g9r"; */
+"hqU-aU-g9r.text" = "Добро пожаловать в Blade!";
+
+/* Class = "UILabel"; text = "Bio"; ObjectID = "iXh-n3-GQo"; */
+"iXh-n3-GQo.text" = "О мастере";
+
+/* Class = "UILabel"; text = "Update Stylist"; ObjectID = "jNm-dN-jBy"; */
+"jNm-dN-jBy.text" = "Обновить парикмахера";
+
+/* Class = "UILabel"; text = "Є Price"; ObjectID = "jP4-AS-788"; */
+"jP4-AS-788.text" = "Є Цена";
+"MWC-I0-Fbd.text" = "Є Цена";
+"gJa-pw-GfI.text" = "Є Цена";
+"hCw-xM-t1h.text" = "Є Цена";
+"6Zm-AY-Uyn.text" = "Є Цена";
+
+/* Class = "UILabel"; text = "Wednesday"; ObjectID = "jql-dq-64m"; */
+"jql-dq-64m.text" = "Среда";
+
+/* Class = "UIButton"; normalTitle = "  Shop Owner"; ObjectID = "kIV-zc-6sG"; */
+"kIV-zc-6sG.normalTitle" = "  Владелец бизнеса";
+
+/* Class = "UIButton"; selectedTitle = "  Shop Owner"; ObjectID = "kIV-zc-6sG"; */
+"kIV-zc-6sG.selectedTitle" = "  Владелец бизнеса";
+
+/* Class = "UILabel"; text = "Confirm Password"; ObjectID = "ka2-oS-TP3"; */
+"ka2-oS-TP3.text" = "Подтверждение пароля";
+
+/* Class = "UITextField"; placeholder = "Enter Number"; ObjectID = "lIb-ff-4rx"; */
+"lIb-ff-4rx.placeholder" = "Укажите номер телефона";
+
+/* Class = "UITextField"; text = "+91"; ObjectID = "lIb-ff-4rx"; */
+"lIb-ff-4rx.text" = "+91";
+
+/* Class = "UITextField"; placeholder = "Description"; ObjectID = "m7D-b2-nOq"; */
+"m7D-b2-nOq.placeholder" = "Описание";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "mA8-QG-oSa"; */
+"mA8-QG-oSa.text" = "Описание";
+
+/* Class = "UILabel"; text = "Let’s Get Started"; ObjectID = "mvP-y0-R0V"; */
+"mvP-y0-R0V.text" = "Давайте приступим";
+
+/* Class = "UILabel"; text = "Add Name"; ObjectID = "n8o-iJ-hJI"; */
+"n8o-iJ-hJI.text" = "Добавить название";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "ncc-y7-aNC"; */
+"ncc-y7-aNC.normalTitle" = "Далее";
+
+/* Class = "UILabel"; text = "Add Salon Timings"; ObjectID = "ojV-66-OsB"; */
+"ojV-66-OsB.text" = "Добавить часы работы парикмахерской";
+
+/* Class = "UILabel"; text = "New user?"; ObjectID = "pJN-BI-mRw"; */
+"pJN-BI-mRw.text" = "Вы новый пользователь?";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "pa6-8D-R87"; */
+"pa6-8D-R87.text" = "Пароль";
+
+/* Class = "UIButton"; normalTitle = "  Customer"; ObjectID = "pgv-Lk-sh0"; */
+"pgv-Lk-sh0.normalTitle" = "  клиентов";
+
+/* Class = "UIButton"; selectedTitle = "  Customer"; ObjectID = "pgv-Lk-sh0"; */
+"pgv-Lk-sh0.selectedTitle" = "  клиентов";
+
+/* Class = "UITextField"; placeholder = "Price"; ObjectID = "rUO-SF-iga"; */
+"rUO-SF-iga.placeholder" = "Цена";
+
+/* Class = "UITextField"; placeholder = "Select Location"; ObjectID = "rw4-se-cLV"; */
+"rw4-se-cLV.placeholder" = "Расположение";
+
+/* Class = "UITextField"; placeholder = "Add Service Name"; ObjectID = "s3u-HC-ol1"; */
+"s3u-HC-ol1.placeholder" = "Добавить название услуги";
+
+/* Class = "UITextField"; placeholder = "Enter Email"; ObjectID = "sDE-fH-lk7"; */
+"sDE-fH-lk7.placeholder" = "Укажите адрес электронной почты";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "sgV-8X-A7f"; */
+"sgV-8X-A7f.text" = "Эл. почта";
+
+/* Class = "UILabel"; text = "Privacy"; ObjectID = "tpy-8T-roq"; */
+"tpy-8T-roq.text" = "Политика конфиденциальности";
+
+/* Class = "UILabel"; text = "Add Salon Timings"; ObjectID = "u97-bO-pDC"; */
+"u97-bO-pDC.text" = "Добавить часы работы парикмахерской";
+
+/* Class = "UIButton"; normalTitle = "Google"; ObjectID = "uKP-JQ-Yeh"; */
+"uKP-JQ-Yeh.normalTitle" = "Google";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "uho-c0-2nS"; */
+"uho-c0-2nS.text" = "Описание";
+
+/* Class = "UITextField"; placeholder = "Select Location"; ObjectID = "wsA-UB-8BS"; */
+"wsA-UB-8BS.placeholder" = "Расположение";
+
+/* Class = "UITextField"; placeholder = "Enter Number"; ObjectID = "x8Q-zI-yfz"; */
+"x8Q-zI-yfz.placeholder" = "Укажите номер телефона";
+
+/* Class = "UILabel"; text = "Add Service Name"; ObjectID = "ySB-aF-zk0"; */
+"ySB-aF-zk0.text" = "Добавить название услуги";
+"IVG-AK-04d.text" = "Добавить название услуги";
+"3G8-fv-A4h.text" = "Добавить название услуги";
+"1Si-w0-wuS.text" = "Добавить название услуги";
+"6Cd-PC-3Pg.text" = "Добавить название услуги";
+
+/* Class = "UITextField"; placeholder = "*****"; ObjectID = "ztu-Ny-RT0"; */
+"ztu-Ny-RT0.placeholder" = "*****";
+
+/* Class = "UILabel"; text = "Sunday"; ObjectID = "zwG-aw-Hpe"; */
+"zwG-aw-Hpe.text" = "Воскресенье";
+
+
+
+
+/* Class = "UILabel"; text = "Sunday"; ObjectID = "zwG-aw-Hpe"; */
+"9b4-km-qtc.text" = "Доступная сумма кошелька";
+
+/* Class = "UILabel"; text = "Sunday"; ObjectID = "zwG-aw-Hpe"; */
+"V9W-O7-ROp.text" = "Доступные бонусные баллы";
+
+/* Class = "UILabel"; text = "Sunday"; ObjectID = "zwG-aw-Hpe"; */
+"J0m-Sr-NF0.text" = "Награды";
+
+/* Class = "UIButton"; normalTitle = "Update"; ObjectID = "1aY-lg-Xd5"; */
+"lpT-mi-hR6.normalTitle" = "Конвертировать баллы в деньги кошелька";
+
+"03b-72-Rv7.text" = "Название парикмахерской";
+
+/* Class = "UIButton"; normalTitle = "I Accept Terms & Conditions"; ObjectID = "NHE-BX-8CZ"; */
+"KeD-BJ-RaH.normalTitle" = "Я принимаю Условия использования";
+
+"CbD-dm-sQx.normalTitle" = "Забыли пароль?";
+
+"M3s-Su-aLV.text" = "Доступная сумма кошелька";
+
+"bbl-UY-1fP.text" = "Конвертация вознаграждений на счет кошелька";
+
+"LpM-PO-v8E.text" = "Доступно бонусных баллов";
+
+"GiW-FF-nDA.text" = "Чтобы конвертировать бонусные баллы в деньги на счете вашего кошелька, вам нужно иметь не менее 100 бонусных баллов.";
+
+"N90-dl-kEk.placeholder" = "Введите количество баллов для конвертации";
+
+"ide-oA-fru.normalTitle" = "Отмена";
+
+"lX5-75-hpm.normalTitle" = "Конвертировать";
+
+"YzQ-Xg-sm6.normalTitle" = "Увольнять";
+
+"LJN-Cg-zq5.normalTitle" = "АКТИВИРУЙТЕ 30-ДНЕВНУЮ БЕСПЛАТНУЮ ПРОБНУЮ ПРОБНУЮ ВЕРСИЮ";
+
+"5bm-em-ccw.text" = "Активируйте 30-дневную бесплатную пробную версию Blade\nбез предоставления информации о вашей кредитной карте.";
+
+"dz4-Cb-fe5.text" = "Мы сообщим вам, когда закончится ваша бесплатная пробная версия.";
+
+
+
+"Jel-N6-QhL.text" = "Перерыв 1";
+"TZa-M4-lhR.text" = "Перерыв 2";
+
+"ITA-m8-VLY.text" = "Перерыв 1";
+"ICk-zJ-hee.text" = "Перерыв 2";
+
+"nT5-hY-9sN.text" = "Перерыв 1";
+"xAc-0R-0Nd.text" = "Перерыв 2";
+
+"k0w-QR-c2a.text" = "Перерыв 1";
+"vdH-7A-g3d.text" = "Перерыв 2";
+
+"sA4-m4-IMo.text" = "Перерыв 1";
+"AvH-XG-zgu.text" = "Перерыв 2";
+
+"hHu-MA-HXl.text" = "Перерыв 1";
+"Z5D-mf-bK3.text" = "Перерыв 2";
+
+"TC9-D4-Rss.text" = "Перерыв 1";
+"CQl-oC-HsJ.text" = "Перерыв 2";
+
+"rgO-Y6-E3s.text" = "Зарегистрируйтесь как";
+
+"ZmN-FZ-bco.normalTitle" = "парикмахер";
+"WjH-Ks-saN.normalTitle" = "Клиент";
+
+
+"2rL-8k-4nl.normalTitle" = "  Применить все";
+
+
+
+"IhK-MU-M3z.text" = "Добавьте эту ссылку в свои социальные сети и предложите своим клиентам загрузить приложение и начать бронирование вместе с вами.";
+"7XV-JL-nXw.text" = "Копировать";
+"EL4-Fz-foO.text" = "Загрузите наш QR-код,
+или запросите бесплатную QR-наклейку";
+
+"FvG-RF-EMh.normalTitle" = "Скачать";
+"wKA-FU-mhJ.normalTitle" = "наклейка";
+"xB5-9q-c9z.normalTitle" = "продолжать";

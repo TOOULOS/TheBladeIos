@@ -1,0 +1,479 @@
+
+/* Class = "UILabel"; text = "Friday"; ObjectID = "0pt-uP-FPF"; */
+"0pt-uP-FPF.text" = "Venerdì";
+
+/* Class = "UILabel"; text = "Customer Reviews"; ObjectID = "1SR-Gh-86S"; */
+"1SR-Gh-86S.text" = "Recensioni dei clienti";
+
+/* Class = "UILabel"; text = "Customer Reviews"; ObjectID = "2FH-Ml-Y9I"; */
+"2FH-Ml-Y9I.text" = "Recensioni dei clienti";
+
+/* Class = "UILabel"; text = "Haircut & Beard"; ObjectID = "2Jk-Mb-ktY"; */
+"2Jk-Mb-ktY.text" = "Haircut & Beard";
+
+/* Class = "UILabel"; text = "Curly Top Salon Curly Top SalonCurly Top SalonCurly Top SalonCurly Top Salon"; ObjectID = "2R6-3c-bqY"; */
+"2R6-3c-bqY.text" = "Curly Top Salon Curly Top SalonCurly Top SalonCurly Top SalonCurly Top Salon";
+
+/* Class = "UILabel"; text = "Curly Top Salon"; ObjectID = "316-my-Njy"; */
+"316-my-Njy.text" = "Curly Top Salon";
+
+/* Class = "UIButton"; normalTitle = "Add Stylist"; ObjectID = "3Ba-oF-KCT"; */
+"3Ba-oF-KCT.normalTitle" = "Aggiungi barbiere";
+
+/* Class = "UIButton"; normalTitle = "Pay at Salon"; ObjectID = "3bD-OT-FsE"; */
+"3bD-OT-FsE.normalTitle" = "Paga dal barbiere";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "4Qz-RI-yRv"; */
+"4Qz-RI-yRv.normalTitle" = "Annullamento";
+
+/* Class = "UIButton"; normalTitle = "Logout"; ObjectID = "4xK-Fs-qn5"; */
+"4xK-Fs-qn5.normalTitle" = "Disconnettersi";
+
+/* Class = "UITextField"; placeholder = "***"; ObjectID = "4zd-cv-IJl"; */
+"4zd-cv-IJl.placeholder" = "***";
+
+/* Class = "UIButton"; normalTitle = "Sent/ Upcoming"; ObjectID = "59c-mW-OdD"; */
+"59c-mW-OdD.normalTitle" = "Inviati / Prossimi";
+
+/* Class = "UILabel"; text = "30 min"; ObjectID = "5Hy-7S-OsK"; */
+"5Hy-7S-OsK.text" = "30 min";
+
+/* Class = "UIButton"; normalTitle = "  Men"; ObjectID = "5M9-hg-0SB"; */
+"5M9-hg-0SB.normalTitle" = "  Men";
+
+/* Class = "UIButton"; selectedTitle = "  Men"; ObjectID = "5M9-hg-0SB"; */
+"5M9-hg-0SB.selectedTitle" = "  Men";
+
+/* Class = "UILabel"; text = "Book Shop Owner"; ObjectID = "5yQ-NY-Ily"; */
+"5yQ-NY-Ily.text" = "Prenota Proprietario del negozio di barbiere";
+
+/* Class = "UITextField"; placeholder = "MM/YY"; ObjectID = "6YG-tj-9TJ"; */
+"6YG-tj-9TJ.placeholder" = "MM/YYYY";
+
+/* Class = "UILabel"; text = "Time"; ObjectID = "6eO-oz-9Tg"; */
+"6eO-oz-9Tg.text" = "Ora";
+
+/* Class = "UIButton"; normalTitle = "  Set Default Card"; ObjectID = "6tZ-vC-Dc4"; */
+"6tZ-vC-Dc4.normalTitle" = " Imposta carta predefinita";
+
+/* Class = "UIButton"; selectedTitle = "  Set Default Card"; ObjectID = "6tZ-vC-Dc4"; */
+"6tZ-vC-Dc4.selectedTitle" = " Imposta carta predefinita";
+
+/* Class = "UILabel"; text = "5.0"; ObjectID = "6w3-Xb-p4W"; */
+"6w3-Xb-p4W.text" = "5.0";
+
+/* Class = "UILabel"; text = "Curly Top Salon"; ObjectID = "75V-vL-yEc"; */
+"75V-vL-yEc.text" = "Curly Top Salon";
+
+/* Class = "UILabel"; text = "Notifications"; ObjectID = "78y-VL-lLX"; */
+"78y-VL-lLX.text" = "Notifiche";
+
+/* Class = "UILabel"; text = "Summary"; ObjectID = "79g-lF-3tk"; */
+"79g-lF-3tk.text" = "Riepilogo";
+
+/* Class = "UIButton"; normalTitle = "Salon"; ObjectID = "7Eu-K7-GLu"; */
+"7Eu-K7-GLu.normalTitle" = "negozio da parrucchiere";
+
+/* Class = "UILabel"; text = "Thursday"; ObjectID = "7F2-3k-tTC"; */
+"7F2-3k-tTC.text" = "Giovedì";
+
+/* Class = "UILabel"; text = "Curly Top Salon"; ObjectID = "7aZ-Qj-ppR"; */
+"7aZ-Qj-ppR.text" = "Curly Top Salon";
+
+/* Class = "UILabel"; text = "Curly Top Salon Curly Top SalonCurly Top SalonCurly Top SalonCurly Top Salon"; ObjectID = "7gt-yp-pGs"; */
+"7gt-yp-pGs.text" = "Curly Top Salon Curly Top SalonCurly Top SalonCurly Top SalonCurly Top Salon";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "8Qz-xK-THc"; */
+"8Qz-xK-THc.text" = "Label";
+
+/* Class = "UILabel"; text = "Pay at salon"; ObjectID = "8o2-xx-JtV"; */
+"8o2-xx-JtV.text" = "Paga dal barbiere";
+
+/* Class = "UILabel"; text = "Near By Stylists"; ObjectID = "8ud-Kf-53Z"; */
+"8ud-Kf-53Z.text" = "Barbieri nelle vicinanze";
+
+/* Class = "UILabel"; text = "Total Amount"; ObjectID = "9N9-eX-wmM"; */
+"9N9-eX-wmM.text" = "Importo totale";
+
+/* Class = "UILabel"; text = "Wednesday"; ObjectID = "9ai-G9-3jF"; */
+"9ai-G9-3jF.text" = "Mercoledì";
+
+/* Class = "UIButton"; normalTitle = "Edit Profile"; ObjectID = "9qh-qn-vZR"; */
+"9qh-qn-vZR.normalTitle" = "Modifica profilo";
+
+/* Class = "UILabel"; text = "sddsd\nddsds"; ObjectID = "9yH-Lx-7Vd"; */
+"9yH-Lx-7Vd.text" = "sddsd\nddsds";
+
+/* Class = "UILabel"; text = "Time"; ObjectID = "A1w-l1-N46"; */
+"A1w-l1-N46.text" = "Time";
+
+/* Class = "UILabel"; text = "€0.85"; ObjectID = "Ara-M8-nJH"; */
+"Ara-M8-nJH.text" = "€0.95";
+
+/* Class = "UILabel"; text = "  hjk j jk jkk  k lklk klkl k lk lk l lkl kl  lk k  hjk j jk jkk  k lklk klkl k lk lk l lkl kl  lk k"; ObjectID = "BUC-MR-QSU"; */
+"BUC-MR-QSU.text" = "  hjk j jk jkk  k lklk klkl k lk lk l lkl kl  lk k  hjk j jk jkk  k lklk klkl k lk lk l lkl kl  lk k";
+
+/* Class = "UILabel"; text = "Reschedule"; ObjectID = "Bbe-46-rIu"; */
+"Bbe-46-rIu.text" = "Riprogrammare";
+
+/* Class = "UITextField"; placeholder = "XXXX XXXX XXX XXXX"; ObjectID = "CNd-Nw-Z46"; */
+"CNd-Nw-Z46.placeholder" = "XXXX XXXX XXX XXXX";
+
+/* Class = "UILabel"; text = "2"; ObjectID = "D1C-3O-0mA"; */
+"D1C-3O-0mA.text" = "2";
+
+/* Class = "UILabel"; text = "10:00"; ObjectID = "DJK-mH-6sB"; */
+"DJK-mH-6sB.text" = "10:00";
+
+/* Class = "UILabel"; text = "Curly Top Salon"; ObjectID = "Dbp-QR-lad"; */
+"Dbp-QR-lad.text" = "Curly Top Salon";
+
+/* Class = "UILabel"; text = "Haircut & Beard"; ObjectID = "DeL-Ek-jPW"; */
+"DeL-Ek-jPW.text" = "Haircut & Beard";
+
+/* Class = "UILabel"; text = "Monday"; ObjectID = "Dlv-Pi-7Bf"; */
+"Dlv-Pi-7Bf.text" = "Lunedì";
+
+/* Class = "UILabel"; text = "5.0"; ObjectID = "E0c-Vx-aQf"; */
+"E0c-Vx-aQf.text" = "5.0";
+
+/* Class = "UILabel"; text = "Haircut & Beard"; ObjectID = "EAe-D0-YrN"; */
+"EAe-D0-YrN.text" = "Haircut & Beard";
+
+/* Class = "UILabel"; text = "Curly Top Salon Curly Top SalonCurly Top SalonCurly Top SalonCurly Top Salon"; ObjectID = "Ei6-mX-de8"; */
+"Ei6-mX-de8.text" = "Curly Top Salon Curly Top SalonCurly Top SalonCurly Top SalonCurly Top Salon";
+
+/* Class = "UIButton"; normalTitle = "Add Service"; ObjectID = "F3M-wX-rCg"; */
+"F3M-wX-rCg.normalTitle" = "Aggiungi servizio";
+
+/* Class = "UILabel"; text = "Saturday"; ObjectID = "FHq-S9-thn"; */
+"FHq-S9-thn.text" = "sabato";
+
+/* Class = "UILabel"; text = "Hi Jackson!"; ObjectID = "Fm5-qk-A6Y"; */
+"Fm5-qk-A6Y.text" = "Hi Jackson!";
+
+/* Class = "UILabel"; text = "Nearby Salon"; ObjectID = "GVg-ug-O6v"; */
+"GVg-ug-O6v.text" = "negozi di barbiere nelle vicinanze";
+
+/* Class = "UILabel"; text = "Tuesday"; ObjectID = "H7m-KT-IZN"; */
+"H7m-KT-IZN.text" = "Martedì";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "H8A-LD-ese"; */
+"H8A-LD-ese.text" = "Data";
+
+/* Class = "UILabel"; text = "24th july 2022"; ObjectID = "HRK-kG-ZUX"; */
+"HRK-kG-ZUX.text" = "24th july 2022";
+
+/* Class = "UILabel"; text = "2"; ObjectID = "Hkw-9K-fRX"; */
+"Hkw-9K-fRX.text" = "2";
+
+/* Class = "UIButton"; normalTitle = "Book an appointment"; ObjectID = "Hng-uc-cPc"; */
+"Hng-uc-cPc.normalTitle" = "Prenota un appuntamento";
+
+/* Class = "UILabel"; text = "Setting"; ObjectID = "I5i-NX-gJc"; */
+"I5i-NX-gJc.text" = "Impostazioni";
+
+/* Class = "UILabel"; text = "Appointments"; ObjectID = "IHk-5d-J7e"; */
+"IHk-5d-J7e.text" = "Appuntamenti";
+
+/* Class = "UILabel"; text = "5.0"; ObjectID = "Ii5-Jm-oi0"; */
+"Ii5-Jm-oi0.text" = "5.0";
+
+/* Class = "UIButton"; normalTitle = "Payment"; ObjectID = "JIE-Kj-1Fv"; */
+"JIE-Kj-1Fv.normalTitle" = "Pagamento";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "JbD-tn-oAB"; */
+"JbD-tn-oAB.text" = "Label";
+
+/* Class = "UILabel"; text = "Haircut"; ObjectID = "KK7-Eu-ycd"; */
+"KK7-Eu-ycd.text" = "Haircut";
+
+/* Class = "UILabel"; text = "Curly Top Salon"; ObjectID = "Kdw-Ke-IYg"; */
+"Kdw-Ke-IYg.text" = "Curly Top Salon";
+
+/* Class = "UILabel"; text = "You will get 20 reward point on paying online for booking appointments."; ObjectID = "MQV-YM-bUr"; */
+"MQV-YM-bUr.text" = "Otterrete 20 punti premio pagando online per la prenotazione di un appuntamento.";
+
+/* Class = "UILabel"; text = "Salon"; ObjectID = "NEp-YC-t5b"; */
+"NEp-YC-t5b.text" = "negozio da parrucchiere";
+
+/* Class = "UIButton"; normalTitle = "  Both"; ObjectID = "NZe-I9-Tmn"; */
+"NZe-I9-Tmn.normalTitle" = "  Both";
+
+/* Class = "UIButton"; selectedTitle = "  Both"; ObjectID = "NZe-I9-Tmn"; */
+"NZe-I9-Tmn.selectedTitle" = "  Both";
+
+/* Class = "UILabel"; text = "Saved card"; ObjectID = "OCj-fF-bdV"; */
+"OCj-fF-bdV.text" = "Carte salvate";
+
+/* Class = "UILabel"; text = "EARN REWARD POINTS BY PAYING VIA BLADE."; ObjectID = "OWI-gH-RrO"; */
+"OWI-gH-RrO.text" = "GUADAGNARE PUNTI PREMIO PAGANDO TRAMITE BLADE";
+
+/* Class = "UILabel"; text = "Near By Salons"; ObjectID = "PNw-j6-NG2"; */
+"PNw-j6-NG2.text" = "Nenegozi di barbiere nelle vicinanzeons";
+
+/* Class = "UILabel"; text = "Select Slots"; ObjectID = "PWw-63-zUc"; */
+"PWw-63-zUc.text" = "Seleziona Slot";
+
+/* Class = "UILabel"; text = "$300"; ObjectID = "Pfr-mm-B01"; */
+"Pfr-mm-B01.text" = "$300";
+
+/* Class = "UILabel"; text = "Barbers avoid extra fees, reduce expenses and have payment security."; ObjectID = "QQj-Lo-EFy"; */
+"QQj-Lo-EFy.text" = "I barbieri evitano commissioni extra, riducono le spese e hanno la sicurezza dei pagamenti.";
+
+/* Class = "UILabel"; text = "5.0"; ObjectID = "QbP-jl-IRn"; */
+"QbP-jl-IRn.text" = "5.0";
+
+/* Class = "UILabel"; text = "Curly Top Salon"; ObjectID = "Rnz-nR-xkN"; */
+"Rnz-nR-xkN.text" = "Curly Top Salon";
+
+/* Class = "UILabel"; text = "2"; ObjectID = "RrN-nO-NM3"; */
+"RrN-nO-NM3.text" = "2";
+
+/* Class = "UILabel"; text = "Curly Top Salon"; ObjectID = "Rw9-pT-ZLd"; */
+"Rw9-pT-ZLd.text" = "Curly Top Salon";
+
+/* Class = "UIButton"; normalTitle = "Pay With Card"; ObjectID = "TVv-6J-2RY"; */
+"TVv-6J-2RY.normalTitle" = "Paga con la carta";
+
+/* Class = "UILabel"; text = "Bookings"; ObjectID = "UKJ-Tf-1m5"; */
+"UKJ-Tf-1m5.text" = "Prenotazioni";
+
+/* Class = "UILabel"; text = "You will get 20 reward point on paying online for booking appointments."; ObjectID = "Uno-YW-juG"; */
+"Uno-YW-juG.text" = "Otterrete 20 punti premio pagando online per la prenotazione di un appuntamento.";
+
+/* Class = "UILabel"; text = "Monday"; ObjectID = "UqG-Ox-uaA"; */
+"UqG-Ox-uaA.text" = "Lunedì";
+
+/* Class = "UILabel"; text = "Monday"; ObjectID = "V8O-MR-CdD"; */
+"V8O-MR-CdD.text" = "Lunedì";
+
+/* Class = "UILabel"; text = "Sunday"; ObjectID = "V9T-wX-XD0"; */
+"V9T-wX-XD0.text" = "Domenica";
+
+/* Class = "UILabel"; text = "Monday"; ObjectID = "Vd9-v8-4Pq"; */
+"Vd9-v8-4Pq.text" = "Lunedì";
+
+/* Class = "UILabel"; text = "Information"; ObjectID = "Vkz-6z-uPe"; */
+"Vkz-6z-uPe.text" = "Informazioni";
+
+/* Class = "UILabel"; text = "Select Perferred Card"; ObjectID = "WPH-k7-vYe"; */
+"WPH-k7-vYe.text" = "Selezionare la carta preferita";
+
+/* Class = "UILabel"; text = "Curly Top Salon"; ObjectID = "WYH-w9-yra"; */
+"WYH-w9-yra.text" = "Curly Top Salon";
+
+/* Class = "UILabel"; text = "Curly Top Salon Curly Top SalonCurly Top SalonCurly Top SalonCurly Top Salon"; ObjectID = "Weu-6B-mci"; */
+"Weu-6B-mci.text" = "Curly Top Salon Curly Top SalonCurly Top SalonCurly Top SalonCurly Top Salon";
+
+/* Class = "UIButton"; normalTitle = "  Women"; ObjectID = "WoO-x6-pbS"; */
+"WoO-x6-pbS.normalTitle" = "  Donne";
+
+/* Class = "UIButton"; selectedTitle = "  Women"; ObjectID = "WoO-x6-pbS"; */
+"WoO-x6-pbS.selectedTitle" = "  Donne";
+
+/* Class = "UILabel"; text = "Haircut"; ObjectID = "Wp3-Iw-XQz"; */
+"Wp3-Iw-XQz.text" = "Haircut";
+
+/* Class = "UILabel"; text = "Haircut & Beard"; ObjectID = "Xjx-Dc-qn1"; */
+"Xjx-Dc-qn1.text" = "Haircut & Beard";
+
+/* Class = "UILabel"; text = "Would you like to use your wallet amount?"; ObjectID = "YI2-3n-eeW"; */
+"YI2-3n-eeW.text" = "Volete utilizzare l'importo del vostro portafoglio?";
+
+/* Class = "UILabel"; text = "5.0"; ObjectID = "ZXm-wX-6lM"; */
+"ZXm-wX-6lM.text" = "5.0";
+
+/* Class = "UIButton"; normalTitle = "Pay at Blade"; ObjectID = "aCI-e6-R4l"; */
+"aCI-e6-R4l.normalTitle" = "Pagamenti via Blade";
+
+/* Class = "UILabel"; text = "Monday"; ObjectID = "bif-QU-kIr"; */
+"bif-QU-kIr.text" = "Lunedì";
+
+/* Class = "UIButton"; normalTitle = "Stylist"; ObjectID = "bs3-nM-dSQ"; */
+"bs3-nM-dSQ.normalTitle" = "Barbiere";
+
+/* Class = "UILabel"; text = "10:00"; ObjectID = "bw8-hU-v7x"; */
+"bw8-hU-v7x.text" = "10:00";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "cHX-Jc-cbw"; */
+"cHX-Jc-cbw.text" = "Label";
+
+/* Class = "UILabel"; text = "yesterday"; ObjectID = "cXd-rr-bXs"; */
+"cXd-rr-bXs.text" = "yesterday";
+
+/* Class = "UILabel"; text = "Curly Top Salon Curly Top SalonCurly Top SalonCurly Top SalonCurly Top Salon"; ObjectID = "cnA-c5-jcW"; */
+"cnA-c5-jcW.text" = "Curly Top Salon Curly Top SalonCurly Top SalonCurly Top SalonCurly Top Salon";
+
+/* Class = "UILabel"; text = "Platform fees"; ObjectID = "cxj-Xo-2lH"; */
+"cxj-Xo-2lH.text" = "Costi della piattaforma";
+
+/* Class = "UILabel"; text = "CVV"; ObjectID = "dKU-6M-gmx"; */
+"dKU-6M-gmx.text" = "CVV";
+
+/* Class = "UILabel"; text = "Service"; ObjectID = "e2K-Ji-fOQ"; */
+"e2K-Ji-fOQ.text" = "Servizi";
+
+/* Class = "UILabel"; text = "Curly Top Salon Curly Top SalonCurly Top SalonCurly Top SalonCurly Top Salon"; ObjectID = "e6C-ZM-Usu"; */
+"e6C-ZM-Usu.text" = "Curly Top Salon Curly Top SalonCurly Top SalonCurly Top SalonCurly Top Salon";
+
+/* Class = "UILabel"; text = "Select Hair Sylist"; ObjectID = "fB0-HZ-mfI"; */
+"fB0-HZ-mfI.text" = "";
+
+/* Class = "UILabel"; text = "Opening Time"; ObjectID = "fM6-Jg-eEu"; */
+"fM6-Jg-eEu.text" = "Orario di apertura";
+
+/* Class = "UILabel"; text = "5.0"; ObjectID = "gdC-XG-bmc"; */
+"gdC-XG-bmc.text" = "5.0";
+
+/* Class = "UILabel"; text = "Expiry Date"; ObjectID = "geo-eB-Umi"; */
+"geo-eB-Umi.text" = "Data di scadenza";
+
+/* Class = "UILabel"; text = "Curly Top Salon Curly Top SalonCurly Top SalonCurly Top SalonCurly Top Salon"; ObjectID = "gym-qX-LMy"; */
+"gym-qX-LMy.text" = "Curly Top Salon Curly Top SalonCurly Top SalonCurly Top SalonCurly Top Salon";
+
+/* Class = "UILabel"; text = "Sunday"; ObjectID = "hOI-JR-JFZ"; */
+"hOI-JR-JFZ.text" = "Domenica";
+
+/* Class = "UILabel"; text = "Curly Top Salon Curly Top SalonCurly Top SalonCurly Top SalonCurly Top Salon"; ObjectID = "i0m-07-A90"; */
+"i0m-07-A90.text" = "Curly Top Salon Curly Top SalonCurly Top SalonCurly Top SalonCurly Top Salon";
+
+/* Class = "UILabel"; text = "Select Date"; ObjectID = "ikC-3t-arD"; */
+"ikC-3t-arD.text" = "Seleziona la data";
+
+/* Class = "UILabel"; text = "YOUR VARVER PREFERS TO GET PAID VIA BLADE APP"; ObjectID = "jGd-s8-djV"; */
+"jGd-s8-djV.text" = "IL VOSTRO BARBIERE PREFERISCE ESSERE PAGATO TRAMITE BLADE APP";
+
+/* Class = "UILabel"; text = "Card Number"; ObjectID = "kVw-1H-1ZI"; */
+"kVw-1H-1ZI.text" = "Numero carta";
+
+/* Class = "UILabel"; text = "Curly Top Salon"; ObjectID = "lSe-jt-wZu"; */
+"lSe-jt-wZu.text" = "Curly Top Salon";
+
+/* Class = "UILabel"; text = "Status"; ObjectID = "ljG-zM-yAZ"; */
+"ljG-zM-yAZ.text" = "Stato";
+
+/* Class = "UILabel"; text = "Curly Top Salon"; ObjectID = "mIo-Vy-8LH"; */
+"mIo-Vy-8LH.text" = "Curly Top Salon";
+
+/* Class = "UILabel"; text = "Haircut & Beard"; ObjectID = "ndM-6D-pX7"; */
+"ndM-6D-pX7.text" = "Haircut & Beard";
+
+/* Class = "UILabel"; text = "Top Rated Barbers"; ObjectID = "oZd-3A-keI"; */
+"oZd-3A-keI.text" = "I migliori barbieri";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "ojJ-fF-j9X"; */
+"ojJ-fF-j9X.normalTitle" = "Invia";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "or2-Ny-3sO"; */
+"or2-Ny-3sO.text" = "Label";
+
+/* Class = "UILabel"; text = "Monday"; ObjectID = "p0P-mJ-5rz"; */
+"p0P-mJ-5rz.text" = "Lunedì";
+
+/* Class = "UILabel"; text = "Salon"; ObjectID = "pEP-e2-tIH"; */
+"pEP-e2-tIH.text" = "negozio da parrucchiere";
+
+/* Class = "UIButton"; normalTitle = "Completed"; ObjectID = "pc7-IV-PQu"; */
+"pc7-IV-PQu.normalTitle" = "Completato";
+
+/* Class = "UILabel"; text = "• Customers get points for each transaction and can put them towards discounts.\n\n• A certain amount of purchases unlocks a new tier of reward points or discounts once the specified number of purchase hase been made."; ObjectID = "piX-kJ-IZR"; */
+"piX-kJ-IZR.text" = "- I clienti ottengono punti per ogni transazione e possono utilizzarli per ottenere sconti. \Una certa quantità di acquisti sblocca un nuovo livello di punti premio o di sconti una volta raggiunto il numero di acquisti specificato.";
+
+/* Class = "UILabel"; text = "40 customer rating"; ObjectID = "prq-Tl-rIM"; */
+"prq-Tl-rIM.text" = "40 customer rating";
+
+/* Class = "UILabel"; text = "Amount to be paid"; ObjectID = "q6k-3q-k6l"; */
+"q6k-3q-k6l.text" = "Importo da pagare";
+
+/* Class = "UILabel"; text = "Curly Top Salon Curly Top SalonCurly Top SalonCurly Top SalonCurly Top Salon"; ObjectID = "rLd-vj-pfP"; */
+"rLd-vj-pfP.text" = "Curly Top Salon Curly Top SalonCurly Top SalonCurly Top SalonCurly Top Salon";
+
+/* Class = "UIButton"; normalTitle = "Pay"; ObjectID = "reH-IR-SoD"; */
+"reH-IR-SoD.normalTitle" = "Paga";
+
+/* Class = "UILabel"; text = "5.0"; ObjectID = "roi-VB-7wI"; */
+"roi-VB-7wI.text" = "5.0";
+
+/* Class = "UILabel"; text = "Monday"; ObjectID = "rtw-fM-9x9"; */
+"rtw-fM-9x9.text" = "Lunedì";
+
+/* Class = "UILabel"; text = "Select Service"; ObjectID = "s4J-qB-pgz"; */
+"s4J-qB-pgz.text" = "Seleziona i servizi";
+
+/* Class = "UILabel"; text = "4 out of 5"; ObjectID = "shu-IN-946"; */
+"shu-IN-946.text" = "4 out of 5";
+
+/* Class = "UILabel"; text = "Curly Top Salon"; ObjectID = "tFL-4t-77G"; */
+"tFL-4t-77G.text" = "Curly Top Salon";
+
+/* Class = "UIButton"; normalTitle = "Reschedule"; ObjectID = "tPz-XE-wAT"; */
+"tPz-XE-wAT.normalTitle" = "Riprogrammare";
+
+/* Class = "UILabel"; text = "2"; ObjectID = "uMa-xj-89y"; */
+"uMa-xj-89y.text" = "2";
+
+/* Class = "UILabel"; text = "Curly Top Salon"; ObjectID = "ubR-Zv-8eH"; */
+"ubR-Zv-8eH.text" = "Curly Top Salon";
+
+/* Class = "UIButton"; normalTitle = "Add Gallery"; ObjectID = "ug2-PD-vgn"; */
+"ug2-PD-vgn.normalTitle" = "Aggiungi immagine";
+
+/* Class = "UILabel"; text = "Pay now"; ObjectID = "vgR-Ex-AEg"; */
+"vgR-Ex-AEg.text" = "Paga ora";
+
+/* Class = "UILabel"; text = "Label Label Label Label Label Label Label Label  Label Label Label "; ObjectID = "w11-OW-aSy"; */
+"w11-OW-aSy.text" = " ";
+
+/* Class = "UIButton"; normalTitle = "Confirm"; ObjectID = "w1N-8L-zXR"; */
+"w1N-8L-zXR.normalTitle" = "Confermare";
+
+/* Class = "UILabel"; text = "Haircut & Beard"; ObjectID = "wDn-EG-uHE"; */
+"wDn-EG-uHE.text" = "Haircut & Beard";
+
+/* Class = "UITextField"; placeholder = "Find a salon, barber..."; ObjectID = "wED-uA-cL7"; */
+"wED-uA-cL7.placeholder" = "Trova un barbiere o un barbiere…";
+
+/* Class = "UILabel"; text = "Favorites"; ObjectID = "wQc-TG-cTj"; */
+"wQc-TG-cTj.text" = "Preferiti";
+
+/* Class = "UILabel"; text = "Book Shop Owner"; ObjectID = "xTl-cJ-6Ti"; */
+"xTl-cJ-6Ti.text" = "Prenota Proprietario del negozio di barbiere";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "xW1-js-Y9H"; */
+"xW1-js-Y9H.text" = "Data";
+
+/* Class = "UILabel"; text = "Stylist"; ObjectID = "xeb-NO-IWZ"; */
+"xeb-NO-IWZ.text" = "Barbiere";
+
+/* Class = "UILabel"; text = "€0"; ObjectID = "ydx-FI-uZG"; */
+"ydx-FI-uZG.text" = "€0";
+
+/* Class = "UILabel"; text = "5.0"; ObjectID = "yf6-T4-6wY"; */
+"yf6-T4-6wY.text" = "5.0";
+
+/* Class = "UILabel"; text = "5.0"; ObjectID = "yyQ-rE-sSX"; */
+"yyQ-rE-sSX.text" = "5.0";
+
+/* Class = "UILabel"; text = "Monday"; ObjectID = "z4a-rw-Pzb"; */
+"z4a-rw-Pzb.text" = "Lunedì";
+
+/* Class = "UIButton"; normalTitle = "  Save Card"; ObjectID = "z4l-eA-rVg"; */
+"z4l-eA-rVg.normalTitle" = "  Salva Carta";
+
+/* Class = "UIButton"; selectedTitle = "  Save Card"; ObjectID = "z4l-eA-rVg"; */
+"z4l-eA-rVg.selectedTitle" = "  Salva Carta";
+
+/* Class = "UILabel"; text = "Select Time"; ObjectID = "zeB-C8-T6q"; */
+"zeB-C8-T6q.text" = "Seleziona l'ora";
+
+/* Class = "UILabel"; text = "Service"; ObjectID = "zpW-0L-nOH"; */
+"zpW-0L-nOH.text" = "Servizi";
+
+
+"ope-1D-Y3B.text" = "Numero di telefono del negozio - ";
+
+
+"3la-Rq-ox0.normalTitle" = "Mostra tutto";
+
+"xQ2-O4-uMM.normalTitle" = "Mostra tutto";

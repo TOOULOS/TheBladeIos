@@ -1,0 +1,298 @@
+
+/* Class = "UILabel"; text = "Haircut & Beard"; ObjectID = "100-gC-R9B"; */
+"100-gC-R9B.text" = "Haircut & Beard";
+
+/* Class = "UILabel"; text = "Haircut & Beard"; ObjectID = "36n-Ur-PCR"; */
+"36n-Ur-PCR.text" = "Haircut & Beard";
+
+/* Class = "UILabel"; text = "Haircut & Beard"; ObjectID = "3FB-b2-BuQ"; */
+"3FB-b2-BuQ.text" = "Haircut & Beard";
+
+/* Class = "UILabel"; text = "Notifications"; ObjectID = "3KT-xE-MhG"; */
+"3KT-xE-MhG.text" = "Ειδοποιήσεις";
+
+/* Class = "UILabel"; text = "Status"; ObjectID = "5IJ-Gh-7EN"; */
+"5IJ-Gh-7EN.text" = "Κατάσταση";
+
+/* Class = "UIButton"; normalTitle = "Terms & Condition"; ObjectID = "5ja-GW-rIn"; */
+"5ja-GW-rIn.normalTitle" = "Όρους & Προϋποθέσεις";
+
+/* Class = "UILabel"; text = "5.0"; ObjectID = "6LM-lZ-Azw"; */
+"6LM-lZ-Azw.text" = "5.0";
+
+/* Class = "UILabel"; text = "My Stylist"; ObjectID = "7F2-fL-xfx"; */
+"7F2-fL-xfx.text" = "Οι κουρείς μου";
+
+/* Class = "UILabel"; text = "Haircut & Beard"; ObjectID = "80V-m6-3v5"; */
+"80V-m6-3v5.text" = "Haircut & Beard";
+
+/* Class = "UILabel"; text = "Customer Name"; ObjectID = "9ER-Td-se5"; */
+"9ER-Td-se5.text" = "Όνομα πελάτη";
+
+/* Class = "UILabel"; text = "TRACK YOUR BUSINESS GROWTH PROGRESS"; ObjectID = "9LP-9B-JdK"; */
+"9LP-9B-JdK.text" = "ΠΑΡΑΚΟΛΟΥΘΗΣΤΕ ΤΗΝ ΠΡΟΟΔΟ ΑΝΑΠΤΥΞΗΣ ΤΗΣ ΕΠΙΧΕΙΡΗΣΗΣ ΣΑΣ";
+
+/* Class = "UIButton"; normalTitle = "Reschedule"; ObjectID = "9nN-Jf-9M1"; */
+"9nN-Jf-9M1.normalTitle" = "Επαναπρογραμματισμός";
+
+/* Class = "UILabel"; text = "Haircut & Beard"; ObjectID = "9oM-lh-DYG"; */
+"9oM-lh-DYG.text" = "Haircut & Beard";
+
+/* Class = "UILabel"; text = "Haircut & Beard"; ObjectID = "A8W-TL-CP7"; */
+"A8W-TL-CP7.text" = "Haircut & Beard";
+
+/* Class = "UILabel"; text = "Haircut & Beard"; ObjectID = "B9w-cL-IN6"; */
+"B9w-cL-IN6.text" = "Haircut & Beard";
+
+/* Class = "UILabel"; text = "Your payment will be charged to your iTunes Account after the 30 days trail period once you confirm your purchase.\n\nYour iTunes account will be charged again when your subscription automatically renews at the end of your current subscription period unless auto-renew is turned off at least 24 hours prior to end of the current period.\n\nYou can manage or turn off auto-renew in your Apple ID Account Settings any time after purchase."; ObjectID = "BVt-KX-add"; */
+"BVt-KX-add.text" = "Η πληρωμή σας θα χρεωθεί στον λογαριασμό σας iTunes μετά την 30ήμερη περίοδο μετά την επιβεβαίωση της αγοράς σας.\n\nΟ λογαριασμός σας iTunes θα χρεωθεί ξανά όταν η συνδρομή σας ανανεωθεί αυτόματα στο τέλος της τρέχουσας περιόδου συνδρομής σας, εκτός εάν ενεργοποιηθεί η αυτόματη ανανέωση απενεργοποιημένη τουλάχιστον 24 ώρες πριν από το τέλος της τρέχουσας περιόδου.\n\nΜπορείτε να διαχειριστείτε ή να απενεργοποιήσετε την αυτόματη ανανέωση στις Ρυθμίσεις λογαριασμού Apple ID σας οποιαδήποτε στιγμή μετά την αγορά.";
+
+/* Class = "UIButton"; normalTitle = "Completed"; ObjectID = "BeQ-CT-Hj2"; */
+"BeQ-CT-Hj2.normalTitle" = "Ολοκληρώθηκε";
+
+/* Class = "UILabel"; text = "Select Slots"; ObjectID = "DVj-Nq-eUb"; */
+"DVj-Nq-eUb.text" = "Επιλέξτε Κουλοχέρηδες";
+
+/* Class = "UILabel"; text = "Service"; ObjectID = "DXq-63-2eW"; */
+"DXq-63-2eW.text" = "Υπηρεσίες";
+
+/* Class = "UILabel"; text = "Time"; ObjectID = "FDx-rM-5H7"; */
+"FDx-rM-5H7.text" = "Ώρα έναρξης";
+
+/* Class = "UILabel"; text = "Haircut & Beard"; ObjectID = "FJC-VX-w27"; */
+"FJC-VX-w27.text" = "Haircut & Beard";
+
+/* Class = "UILabel"; text = "THE BLADE APP"; ObjectID = "GzP-4E-2MZ"; */
+"GzP-4E-2MZ.text" = "Η ΕΦΑΡΜΟΓΗ BLADE";
+
+/* Class = "UILabel"; text = "Manual Booking"; ObjectID = "H2Z-Sp-gBE"; */
+"H2Z-Sp-gBE.text" = "Χειροκίνητη Κράτηση";
+
+/* Class = "UILabel"; text = "Filter Stylist"; ObjectID = "I6N-ap-VxO"; */
+"I6N-ap-VxO.text" = "Φιλτράρετε ανά κουρέα ";
+
+/* Class = "UILabel"; text = "yesterday"; ObjectID = "Isp-R0-Mdm"; */
+"Isp-R0-Mdm.text" = "εχθές";
+
+/* Class = "UIButton"; normalTitle = "Choose"; ObjectID = "LeF-PF-6qZ"; */
+"LeF-PF-6qZ.normalTitle" = "Επιλέξτε";
+
+/* Class = "UILabel"; text = "Haircut & Beard"; ObjectID = "M4D-tY-hUU"; */
+"M4D-tY-hUU.text" = "Haircut & Beard";
+
+/* Class = "UIButton"; normalTitle = "Logout"; ObjectID = "Mhe-se-5U8"; */
+"Mhe-se-5U8.normalTitle" = "Αποσύνδεση";
+
+/* Class = "UILabel"; text = "Salon"; ObjectID = "NaR-xo-HSY"; */
+"NaR-xo-HSY.text" = "Κουρείο";
+
+/* Class = "UILabel"; text = "Your Balance"; ObjectID = "O2R-i4-uw0"; */
+"O2R-i4-uw0.text" = "Ποσό σε εκκρεμότητα για εκκαθάριση στο Stripe";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "PW8-GA-7oV"; */
+"PW8-GA-7oV.normalTitle" = "Υποβολή";
+
+/* Class = "UIButton"; normalTitle = "Add Manual Booking"; ObjectID = "Q0s-Ag-68U"; */
+"Q0s-Ag-68U.normalTitle" = "Προσθήκη χειροκίνητης κράτησης";
+
+/* Class = "UIButton"; normalTitle = "Upcoming"; ObjectID = "RTw-pS-mGS"; */
+"RTw-pS-mGS.normalTitle" = "Επερχόμενα";
+
+/* Class = "UILabel"; text = "Curly Top Salon"; ObjectID = "S4D-RY-yWT"; */
+"S4D-RY-yWT.text" = "Curly Top Barber Shop";
+
+/* Class = "UILabel"; text = "GROW YOUR BUSINESS AND YOUR CUSTOMER FLOW"; ObjectID = "SLd-qB-LAZ"; */
+"SLd-qB-LAZ.text" = "ΜΕΓΑΛΩΣΤΕ ΤΗΝ ΕΠΙΧΕΙΡΗΣΗ ΚΑΙ ΤΗ ΡΟΗ ΤΩΝ ΠΕΛΑΤΩΝ ΣΑΣ";
+
+/* Class = "UITextField"; text = "Yearly "; ObjectID = "SPP-FK-zMl"; */
+"SPP-FK-zMl.text" = "Ετήσια ";
+
+/* Class = "UILabel"; text = "Total Earning"; ObjectID = "TSC-5X-hOw"; */
+"TSC-5X-hOw.text" = "Συνολικά κέρδη από κατάστημα";
+
+/* Class = "UILabel"; text = "Time"; ObjectID = "UHC-U2-cgC"; */
+"UHC-U2-cgC.text" = "Ώρα έναρξης";
+
+/* Class = "UILabel"; text = "EUR 59.99/ month"; ObjectID = "Up4-w4-pH7"; */
+"Up4-w4-pH7.text" = "Μετά 19.99 ευρώ το μήνα";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "VMG-fw-HFq"; */
+"VMG-fw-HFq.normalTitle" = "Ακύρωση";
+
+/* Class = "UILabel"; text = "Add Reviews"; ObjectID = "VjA-Dz-vu5"; */
+"VjA-Dz-vu5.text" = "Προσθήκη αξιολόγησης";
+
+/* Class = "UILabel"; text = "Haircut & Beard"; ObjectID = "WVN-Dn-vWq"; */
+"WVN-Dn-vWq.text" = "Haircut & Beard";
+
+/* Class = "UILabel"; text = "Add Review"; ObjectID = "Whb-1S-IDY"; */
+"Whb-1S-IDY.text" = "Προσθήκη αξιολόγησης";
+
+/* Class = "UILabel"; text = "Wallet"; ObjectID = "Wii-8U-vJU"; */
+"Wii-8U-vJU.text" = "Πορτοφόλι";
+
+/* Class = "UILabel"; text = "Add Reviews"; ObjectID = "X8G-YV-II4"; */
+"X8G-YV-II4.text" = "Προσθήκη αξιολόγησης";
+
+/* Class = "UITextField"; placeholder = "Enter amount to withdraw"; ObjectID = "Xp9-G2-mUf"; */
+"Xp9-G2-mUf.placeholder" = "Πληκτρολογήστε το ποσό για ανάληψη";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "Y32-mG-acr"; */
+"Y32-mG-acr.text" = "Ημερομηνία";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "Zeb-Wv-oY6"; */
+"Zeb-Wv-oY6.text" = "Ημερομηνία";
+
+/* Class = "UILabel"; text = "Service"; ObjectID = "aat-ZB-1gV"; */
+"aat-ZB-1gV.text" = "Υπηρεσίες";
+
+/* Class = "UILabel"; text = "0.0"; ObjectID = "akc-e7-VuV"; */
+"akc-e7-VuV.text" = "0.0";
+
+/* Class = "UILabel"; text = "Post your review for Jackson"; ObjectID = "chR-Ay-LDw"; */
+"chR-Ay-LDw.text" = "Δημοσιεύστε την αξιολόγησή σας για Jackson";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "dLk-ee-42B"; */
+"dLk-ee-42B.text" = "Label";
+
+/* Class = "UILabel"; text = "EUR 599.99/ year"; ObjectID = "drR-mZ-dMH"; */
+"drR-mZ-dMH.text" = "Ετήσια πληρωμή €199.99";
+
+/* Class = "UILabel"; text = "Customer Name"; ObjectID = "eU9-5F-77U"; */
+"eU9-5F-77U.text" = "Όνομα πελάτη";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "eqH-4B-uiJ"; */
+"eqH-4B-uiJ.normalTitle" = "Ακύρωση";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "fDw-PX-9uS"; */
+"fDw-PX-9uS.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Conncet Stripe to withdraw"; ObjectID = "fMh-Ox-G94"; */
+"fMh-Ox-G94.normalTitle" = "Συνδέθητε με STRIPE για ανάληψη";
+
+/* Class = "UIButton"; normalTitle = "Request"; ObjectID = "fO1-Jo-WU3"; */
+"fO1-Jo-WU3.normalTitle" = "Αίτημα";
+
+/* Class = "UILabel"; text = "Setting"; ObjectID = "fjl-y9-8RF"; */
+"fjl-y9-8RF.text" = "Ρυθμίσεις";
+
+/* Class = "UIButton"; normalTitle = "Privacy Policy"; ObjectID = "gNu-cl-eDI"; */
+"gNu-cl-eDI.normalTitle" = "Πολιτική Απορρήτου";
+
+/* Class = "UILabel"; text = "Status"; ObjectID = "hqQ-Ns-nax"; */
+"hqQ-Ns-nax.text" = "Κατάσταση";
+
+/* Class = "UILabel"; text = "Appointments"; ObjectID = "hw5-kL-HJF"; */
+"hw5-kL-HJF.text" = "Ραντεβού";
+
+/* Class = "UILabel"; text = "Bookings"; ObjectID = "iSK-zZ-8Lw"; */
+"iSK-zZ-8Lw.text" = "Κρατήσεις";
+
+/* Class = "UIButton"; normalTitle = "Reschedule"; ObjectID = "icw-4D-BlL"; */
+"icw-4D-BlL.normalTitle" = "Επαναπρογραμματισμός";
+
+/* Class = "UILabel"; text = "Dashboard"; ObjectID = "jMr-lW-rEo"; */
+"jMr-lW-rEo.text" = "Πίνακας ελέγχου";
+
+/* Class = "UIButton"; normalTitle = "  Salon"; ObjectID = "jWx-3N-pAf"; */
+"jWx-3N-pAf.normalTitle" = "  κουρέας";
+
+/* Class = "UIButton"; selectedTitle = "  Salon"; ObjectID = "jWx-3N-pAf"; */
+"jWx-3N-pAf.selectedTitle" = "  Κουρείο";
+
+/* Class = "UILabel"; text = "Salon"; ObjectID = "kUn-Ol-5fW"; */
+"kUn-Ol-5fW.text" = "Κουρείο";
+
+/* Class = "UILabel"; text = "Wallet"; ObjectID = "lBF-wd-Az1"; */
+"lBF-wd-Az1.text" = "πορτοφόλι";
+
+/* Class = "UILabel"; text = "PROOVED EFFICIENCY"; ObjectID = "mGL-8C-L5b"; */
+"mGL-8C-L5b.text" = "ΑΠΟΔΕΔΕΙΓΜΕΝΗ ΑΠΟΤΕΛΕΣΜΑΤΙΚΟΤΗΤΑ";
+
+/* Class = "UILabel"; text = "Customer Detail"; ObjectID = "nVA-zX-9eV"; */
+"nVA-zX-9eV.text" = "Στοιχεία Πελάτη";
+
+/* Class = "UIButton"; normalTitle = "Restore Subscription"; ObjectID = "naw-yb-q41"; */
+"naw-yb-q41.normalTitle" = "Επαναφορά συνδρομής";
+
+/* Class = "UILabel"; text = "USE ADVANCED TECHNOLOGY AT LOW COST"; ObjectID = "nkz-YH-agL"; */
+"nkz-YH-agL.text" = "ΧΡΗΣΙΜΟΠΟΙΗΣΤΕ ΠΡΟΗΓΜΕΝΗ ΤΕΧΝΟΛΟΓΙΑ ΜΕ ΧΑΜΗΛΟ ΚΟΣΤΟΣ.";
+
+/* Class = "UILabel"; text = "10:00"; ObjectID = "nrJ-y7-X5V"; */
+"nrJ-y7-X5V.text" = "10:00";
+
+/* Class = "UILabel"; text = "Haircut & Beard"; ObjectID = "oLH-H9-kfv"; */
+"oLH-H9-kfv.text" = "Haircut & Beard";
+
+/* Class = "UILabel"; text = "Curly Top Salon Curly Top SalonCurly Top SalonCurly Top SalonCurly Top Salon"; ObjectID = "qj2-rp-OOM"; */
+"qj2-rp-OOM.text" = "Curly Top Salon Curly Top SalonCurly Top SalonCurly Top SalonCurly Top Salon";
+
+/* Class = "UILabel"; text = "Customer Detail"; ObjectID = "rPx-2w-sLM"; */
+"rPx-2w-sLM.text" = "Στοιχεία Πελάτη";
+
+/* Class = "UILabel"; text = "0.0"; ObjectID = "sqy-ez-aFw"; */
+"sqy-ez-aFw.text" = "0.0";
+
+/* Class = "UILabel"; text = "Haircut & Beard"; ObjectID = "tID-s6-V6r"; */
+"tID-s6-V6r.text" = "Haircut & Beard";
+
+/* Class = "UILabel"; text = "Haircut & Beard"; ObjectID = "u8Y-xO-Vwi"; */
+"u8Y-xO-Vwi.text" = "Haircut & Beard";
+
+/* Class = "UILabel"; text = "BRINGING THE BARBER COMMUNITY TOGETHER"; ObjectID = "uAp-A4-VYj"; */
+"uAp-A4-VYj.text" = "ΕΝΩΝΟΥΜΕ ΤΗΝ ΚΟΙΝΟΤΗΤΑ ΤΩΝ ΚΟΥΡΕΩΝ";
+
+/* Class = "UILabel"; text = "Booking Auto Accept"; ObjectID = "uEq-2R-7Wf"; */
+"uEq-2R-7Wf.text" = "Αυτόματη αποδοχή κράτησης";
+
+/* Class = "UILabel"; text = "TAKE YOUR BARBER SHOP TO THE NEXT LEVEL"; ObjectID = "xjx-Bm-njf"; */
+"xjx-Bm-njf.text" = "ΜΕΤΑΦΕΡΕΤΕ ΤΟ ΚΟΥΡΕΙΟ ΣΑΣ ΣΤΟ ΕΠΟΜΕΝΟ ΕΠΙΠΕΔΟ";
+
+/* Class = "UIButton"; normalTitle = "Save Manual Booking"; ObjectID = "yNL-bL-liE"; */
+"yNL-bL-liE.normalTitle" = "Αποκλεισμός χρόνου";
+"Hn1-xY-JHE.normalTitle" = "Προσθήκη χειροκίνητης κράτησης";
+
+//"Hn1-xY-JHE.normalTitle" = "Salva Prenotazione manuale";
+
+/* Class = "UILabel"; text = "Haircut & Beard"; ObjectID = "yR3-Dm-PIF"; */
+"yR3-Dm-PIF.text" = "Haircut & Beard";
+
+/* Class = "UIButton"; normalTitle = "Choose"; ObjectID = "zF2-o7-1mD"; */
+"zF2-o7-1mD.normalTitle" = "Επιλέξτε";
+
+/* Class = "UIButton"; normalTitle = "  Stylist"; ObjectID = "zJf-Js-ltB"; */
+"zJf-Js-ltB.normalTitle" = "  κουρείς";
+
+/* Class = "UIButton"; selectedTitle = "  Stylist"; ObjectID = "zJf-Js-ltB"; */
+"zJf-Js-ltB.selectedTitle" = "  κουρείς";
+
+/* Class = "UILabel"; text = "Wallet"; ObjectID = "zhd-fN-eRN"; */
+"zhd-fN-eRN.text" = "Ποσό διαθέσιμο προς ανάληψη";
+
+//"SLd-qB-LAZ.text" = "GROW YOUR BUSINESS AND YOUR CUSTOMER FLOW";
+
+"N3L-Wl-wHs.text" = "Ιστορικό Συναλλαγών";
+
+"JqI-My-AzB.text" = "Ιστορικό απόσυρσης";
+
+
+"67v-0d-5Jx.text" = "EUR 19.99";
+"OKg-nV-E56.text" = "EUR 199.99";
+"hNo-3e-6BC.text" = "Μηνιαίο";
+"xzK-ir-dJg.text" = "Ετήσιο";
+
+//Προσθήκη χειροκίνητης κράτησης
+"AaX-Q7-LAB.text" = "Όνομα πελάτη";
+"ebg-o2-EhT.text" = "Προσθήκη χειροκίνητης κράτησης";
+"pUf-YG-Rb7.placeholder" = "Εισαγάγετε όνομα πελάτη";
+"ZD3-yN-up2.text" = "Αριθμός τηλεφώνου πελάτη (όχι υποχρεωτικό)";
+"qvD-vb-so2.placeholder" = "Εισάγετε αριθμό";
+"5n2-UH-TX9.text" = "Υπηρεσίες";
+"gU7-Lo-uOK.text" = "Επιλέξτε Υπηρεσία";
+"PXW-dt-6ob.text" = "Επιλέξτε Ημερομηνία";
+"RzN-0x-FhX.text" = "Επιλέξτε Ώρα";
+"EFc-Gz-vUK.normalTitle" =  "Επιβεβαίωση χειροκίνητης κράτησης";
+"EeV-Ba-2zZ.text" = "*Προσθέτοντας μια μη αυτόματη κράτηση, επιβεβαιώνετε την εξουσιοδότηση χρήσης δεδομένων πελάτη.*";
+
+"DYM-yI-07W.normalTitle" = "Επαναπρογραμματισμός";
+"7pM-jq-FOF.normalTitle" = "Επαναπρογραμματισμός";

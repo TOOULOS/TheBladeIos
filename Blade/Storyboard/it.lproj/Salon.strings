@@ -1,0 +1,298 @@
+
+/* Class = "UILabel"; text = "Haircut & Beard"; ObjectID = "100-gC-R9B"; */
+"100-gC-R9B.text" = "Haircut & Beard";
+
+/* Class = "UILabel"; text = "Haircut & Beard"; ObjectID = "36n-Ur-PCR"; */
+"36n-Ur-PCR.text" = "Haircut & Beard";
+
+/* Class = "UILabel"; text = "Haircut & Beard"; ObjectID = "3FB-b2-BuQ"; */
+"3FB-b2-BuQ.text" = "Haircut & Beard";
+
+/* Class = "UILabel"; text = "Notifications"; ObjectID = "3KT-xE-MhG"; */
+"3KT-xE-MhG.text" = "Notifiche";
+
+/* Class = "UILabel"; text = "Status"; ObjectID = "5IJ-Gh-7EN"; */
+"5IJ-Gh-7EN.text" = "Stato";
+
+/* Class = "UIButton"; normalTitle = "Terms & Condition"; ObjectID = "5ja-GW-rIn"; */
+"5ja-GW-rIn.normalTitle" = "termini e le condizioni";
+
+/* Class = "UILabel"; text = "5.0"; ObjectID = "6LM-lZ-Azw"; */
+"6LM-lZ-Azw.text" = "5.0";
+
+/* Class = "UILabel"; text = "My Stylist"; ObjectID = "7F2-fL-xfx"; */
+"7F2-fL-xfx.text" = "I miei barbieri";
+
+/* Class = "UILabel"; text = "Haircut & Beard"; ObjectID = "80V-m6-3v5"; */
+"80V-m6-3v5.text" = "Haircut & Beard";
+
+/* Class = "UILabel"; text = "Customer Name"; ObjectID = "9ER-Td-se5"; */
+"9ER-Td-se5.text" = "Nome del cliente";
+
+/* Class = "UILabel"; text = "TRACK YOUR BUSINESS GROWTH PROGRESS"; ObjectID = "9LP-9B-JdK"; */
+"9LP-9B-JdK.text" = "TRACCIATE I PROGRESSI DELLA CRESCITA DELLA VOSTRA ATTIVITÀ";
+
+/* Class = "UIButton"; normalTitle = "Reschedule"; ObjectID = "9nN-Jf-9M1"; */
+"9nN-Jf-9M1.normalTitle" = "Riprogrammare";
+
+/* Class = "UILabel"; text = "Haircut & Beard"; ObjectID = "9oM-lh-DYG"; */
+"9oM-lh-DYG.text" = "Haircut & Beard";
+
+/* Class = "UILabel"; text = "Haircut & Beard"; ObjectID = "A8W-TL-CP7"; */
+"A8W-TL-CP7.text" = "Haircut & Beard";
+
+/* Class = "UILabel"; text = "Haircut & Beard"; ObjectID = "B9w-cL-IN6"; */
+"B9w-cL-IN6.text" = "Haircut & Beard";
+
+/* Class = "UILabel"; text = "Your payment will be charged to your iTunes Account after the 30 days trail period once you confirm your purchase.\n\nYour iTunes account will be charged again when your subscription automatically renews at the end of your current subscription period unless auto-renew is turned off at least 24 hours prior to end of the current period.\n\nYou can manage or turn off auto-renew in your Apple ID Account Settings any time after purchase."; ObjectID = "BVt-KX-add"; */
+"BVt-KX-add.text" = "Il pagamento verrà addebitato sul tuo account iTunes dopo il periodo di prova di 30 giorni una volta confermato l'acquisto.\n\nIl tuo account iTunes verrà nuovamente addebitato quando l'abbonamento si rinnoverà automaticamente alla fine del periodo di abbonamento corrente, a meno che il rinnovo automatico non sia disattivato disattivato almeno 24 ore prima della fine del periodo corrente.\n\nPuoi gestire o disattivare il rinnovo automatico nelle impostazioni del tuo account ID Apple in qualsiasi momento dopo l'acquisto.";
+
+/* Class = "UIButton"; normalTitle = "Completed"; ObjectID = "BeQ-CT-Hj2"; */
+"BeQ-CT-Hj2.normalTitle" = "Completato";
+
+/* Class = "UILabel"; text = "Select Slots"; ObjectID = "DVj-Nq-eUb"; */
+"DVj-Nq-eUb.text" = "Seleziona Slot";
+
+/* Class = "UILabel"; text = "Service"; ObjectID = "DXq-63-2eW"; */
+"DXq-63-2eW.text" = "Servizi";
+
+/* Class = "UILabel"; text = "Time"; ObjectID = "FDx-rM-5H7"; */
+"FDx-rM-5H7.text" = "Ora";
+
+/* Class = "UILabel"; text = "Haircut & Beard"; ObjectID = "FJC-VX-w27"; */
+"FJC-VX-w27.text" = "Haircut & Beard";
+
+/* Class = "UILabel"; text = "THE BLADE APP"; ObjectID = "GzP-4E-2MZ"; */
+"GzP-4E-2MZ.text" = "L'APP DELLA LAMA";
+
+/* Class = "UILabel"; text = "Manual Booking"; ObjectID = "H2Z-Sp-gBE"; */
+"H2Z-Sp-gBE.text" = "Prenotazione manuale";
+
+/* Class = "UILabel"; text = "Filter Stylist"; ObjectID = "I6N-ap-VxO"; */
+"I6N-ap-VxO.text" = "Barbiere filtro";
+
+/* Class = "UILabel"; text = "yesterday"; ObjectID = "Isp-R0-Mdm"; */
+"Isp-R0-Mdm.text" = "ieri";
+
+/* Class = "UIButton"; normalTitle = "Choose"; ObjectID = "LeF-PF-6qZ"; */
+"LeF-PF-6qZ.normalTitle" = "Scegliere";
+
+/* Class = "UILabel"; text = "Haircut & Beard"; ObjectID = "M4D-tY-hUU"; */
+"M4D-tY-hUU.text" = "Haircut & Beard";
+
+/* Class = "UIButton"; normalTitle = "Logout"; ObjectID = "Mhe-se-5U8"; */
+"Mhe-se-5U8.normalTitle" = "Disconnettersi";
+
+/* Class = "UILabel"; text = "Salon"; ObjectID = "NaR-xo-HSY"; */
+"NaR-xo-HSY.text" = "negozio da parrucchiere";
+
+/* Class = "UILabel"; text = "Your Balance"; ObjectID = "O2R-i4-uw0"; */
+"O2R-i4-uw0.text" = "Montant en attente de compensation sur Stripe";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "PW8-GA-7oV"; */
+"PW8-GA-7oV.normalTitle" = "Invia";
+
+/* Class = "UIButton"; normalTitle = "Add Manual Booking"; ObjectID = "Q0s-Ag-68U"; */
+"Q0s-Ag-68U.normalTitle" = "Aggiungi una prenotazione manuale";
+
+/* Class = "UIButton"; normalTitle = "Upcoming"; ObjectID = "RTw-pS-mGS"; */
+"RTw-pS-mGS.normalTitle" = "Prossimamente";
+
+/* Class = "UILabel"; text = "Curly Top Salon"; ObjectID = "S4D-RY-yWT"; */
+"S4D-RY-yWT.text" = "Curly Top Barber Shop";
+
+/* Class = "UILabel"; text = "GROW YOUR BUSINESS AND YOUR CUSTOMER FLOW"; ObjectID = "SLd-qB-LAZ"; */
+"SLd-qB-LAZ.text" = "FATE CRESCERE LA VOSTRA ATTIVITÀ E IL VOSTRO FLUSSO DI CLIENTI";
+
+/* Class = "UITextField"; text = "Yearly "; ObjectID = "SPP-FK-zMl"; */
+"SPP-FK-zMl.text" = "annuale ";
+
+/* Class = "UILabel"; text = "Total Earning"; ObjectID = "TSC-5X-hOw"; */
+"TSC-5X-hOw.text" = "Guadagno totale del negozio";
+
+/* Class = "UILabel"; text = "Time"; ObjectID = "UHC-U2-cgC"; */
+"UHC-U2-cgC.text" = "Ora";
+
+/* Class = "UILabel"; text = "EUR 59.99/ month"; ObjectID = "Up4-w4-pH7"; */
+"Up4-w4-pH7.text" = "Quindi 19.99 euro al mese";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "VMG-fw-HFq"; */
+"VMG-fw-HFq.normalTitle" = "Annullamento";
+
+/* Class = "UILabel"; text = "Add Reviews"; ObjectID = "VjA-Dz-vu5"; */
+"VjA-Dz-vu5.text" = "Aggiungi recensioni";
+
+/* Class = "UILabel"; text = "Haircut & Beard"; ObjectID = "WVN-Dn-vWq"; */
+"WVN-Dn-vWq.text" = "Haircut & Beard";
+
+/* Class = "UILabel"; text = "Add Review"; ObjectID = "Whb-1S-IDY"; */
+"Whb-1S-IDY.text" = "Aggiungi recensioni";
+
+/* Class = "UILabel"; text = "Wallet"; ObjectID = "Wii-8U-vJU"; */
+"Wii-8U-vJU.text" = "Portafoglio";
+
+/* Class = "UILabel"; text = "Add Reviews"; ObjectID = "X8G-YV-II4"; */
+"X8G-YV-II4.text" = "Aggiungi recensioni";
+
+/* Class = "UITextField"; placeholder = "Enter amount to withdraw"; ObjectID = "Xp9-G2-mUf"; */
+"Xp9-G2-mUf.placeholder" = "Inserite l'importo da prelevare";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "Y32-mG-acr"; */
+"Y32-mG-acr.text" = "Data";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "Zeb-Wv-oY6"; */
+"Zeb-Wv-oY6.text" = "Data";
+
+/* Class = "UILabel"; text = "Service"; ObjectID = "aat-ZB-1gV"; */
+"aat-ZB-1gV.text" = "Servizi";
+
+/* Class = "UILabel"; text = "0.0"; ObjectID = "akc-e7-VuV"; */
+"akc-e7-VuV.text" = "0.0";
+
+/* Class = "UILabel"; text = "Post your review for Jackson"; ObjectID = "chR-Ay-LDw"; */
+"chR-Ay-LDw.text" = "Pubblica il tuo commento per Jackson";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "dLk-ee-42B"; */
+"dLk-ee-42B.text" = "Label";
+
+/* Class = "UILabel"; text = "EUR 599.99/ year"; ObjectID = "drR-mZ-dMH"; */
+"drR-mZ-dMH.text" = "Pagamento annuale €199.99";
+
+/* Class = "UILabel"; text = "Customer Name"; ObjectID = "eU9-5F-77U"; */
+"eU9-5F-77U.text" = "Nome del cliente";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "eqH-4B-uiJ"; */
+"eqH-4B-uiJ.normalTitle" = "Annullamento";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "fDw-PX-9uS"; */
+"fDw-PX-9uS.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Conncet Stripe to withdraw"; ObjectID = "fMh-Ox-G94"; */
+"fMh-Ox-G94.normalTitle" = "Conncet Stripe di ritirarsi";
+
+/* Class = "UIButton"; normalTitle = "Request"; ObjectID = "fO1-Jo-WU3"; */
+"fO1-Jo-WU3.normalTitle" = "Richiesta";
+
+/* Class = "UILabel"; text = "Setting"; ObjectID = "fjl-y9-8RF"; */
+"fjl-y9-8RF.text" = "Impostazioni";
+
+/* Class = "UIButton"; normalTitle = "Privacy Policy"; ObjectID = "gNu-cl-eDI"; */
+"gNu-cl-eDI.normalTitle" = "Informativa sulla privacy";
+
+/* Class = "UILabel"; text = "Status"; ObjectID = "hqQ-Ns-nax"; */
+"hqQ-Ns-nax.text" = "Stato";
+
+/* Class = "UILabel"; text = "Appointments"; ObjectID = "hw5-kL-HJF"; */
+"hw5-kL-HJF.text" = "Appuntamenti";
+
+/* Class = "UILabel"; text = "Bookings"; ObjectID = "iSK-zZ-8Lw"; */
+"iSK-zZ-8Lw.text" = "Prenotazioni";
+
+/* Class = "UIButton"; normalTitle = "Reschedule"; ObjectID = "icw-4D-BlL"; */
+"icw-4D-BlL.normalTitle" = "Riprogrammare";
+
+/* Class = "UILabel"; text = "Dashboard"; ObjectID = "jMr-lW-rEo"; */
+"jMr-lW-rEo.text" = "Cruscotto";
+
+/* Class = "UIButton"; normalTitle = "  Salon"; ObjectID = "jWx-3N-pAf"; */
+"jWx-3N-pAf.normalTitle" = "  Salone";
+
+/* Class = "UIButton"; selectedTitle = "  Salon"; ObjectID = "jWx-3N-pAf"; */
+"jWx-3N-pAf.selectedTitle" = "  negozio da parrucchiere";
+
+/* Class = "UILabel"; text = "Salon"; ObjectID = "kUn-Ol-5fW"; */
+"kUn-Ol-5fW.text" = "negozio da parrucchiere";
+
+/* Class = "UILabel"; text = "Wallet"; ObjectID = "lBF-wd-Az1"; */
+"lBF-wd-Az1.text" = "portafoglio";
+
+/* Class = "UILabel"; text = "PROOVED EFFICIENCY"; ObjectID = "mGL-8C-L5b"; */
+"mGL-8C-L5b.text" = "EFFICIENZA DIMOSTRATA";
+
+/* Class = "UILabel"; text = "Customer Detail"; ObjectID = "nVA-zX-9eV"; */
+"nVA-zX-9eV.text" = "Dettaglio cliente";
+
+/* Class = "UIButton"; normalTitle = "Restore Subscription"; ObjectID = "naw-yb-q41"; */
+"naw-yb-q41.normalTitle" = "Ripristina abbonamento";
+
+/* Class = "UILabel"; text = "USE ADVANCED TECHNOLOGY AT LOW COST"; ObjectID = "nkz-YH-agL"; */
+"nkz-YH-agL.text" = "UTILIZZARE UNA TECNOLOGIA AVANZATA A BASSO COSTO";
+
+/* Class = "UILabel"; text = "10:00"; ObjectID = "nrJ-y7-X5V"; */
+"nrJ-y7-X5V.text" = "10:00";
+
+/* Class = "UILabel"; text = "Haircut & Beard"; ObjectID = "oLH-H9-kfv"; */
+"oLH-H9-kfv.text" = "Haircut & Beard";
+
+/* Class = "UILabel"; text = "Curly Top Salon Curly Top SalonCurly Top SalonCurly Top SalonCurly Top Salon"; ObjectID = "qj2-rp-OOM"; */
+"qj2-rp-OOM.text" = "Curly Top Salon Curly Top SalonCurly Top SalonCurly Top SalonCurly Top Salon";
+
+/* Class = "UILabel"; text = "Customer Detail"; ObjectID = "rPx-2w-sLM"; */
+"rPx-2w-sLM.text" = "Dettaglio cliente";
+
+/* Class = "UILabel"; text = "0.0"; ObjectID = "sqy-ez-aFw"; */
+"sqy-ez-aFw.text" = "0.0";
+
+/* Class = "UILabel"; text = "Haircut & Beard"; ObjectID = "tID-s6-V6r"; */
+"tID-s6-V6r.text" = "Haircut & Beard";
+
+/* Class = "UILabel"; text = "Haircut & Beard"; ObjectID = "u8Y-xO-Vwi"; */
+"u8Y-xO-Vwi.text" = "Haircut & Beard";
+
+/* Class = "UILabel"; text = "BRINGING THE BARBER COMMUNITY TOGETHER"; ObjectID = "uAp-A4-VYj"; */
+"uAp-A4-VYj.text" = "UNIRE LA COMUNITÀ DEI BARBIERI";
+
+/* Class = "UILabel"; text = "Booking Auto Accept"; ObjectID = "uEq-2R-7Wf"; */
+"uEq-2R-7Wf.text" = "Prenotazione Accettazione automatica";
+
+/* Class = "UILabel"; text = "TAKE YOUR BARBER SHOP TO THE NEXT LEVEL"; ObjectID = "xjx-Bm-njf"; */
+"xjx-Bm-njf.text" = "PORTARE IL VOSTRO NEGOZIO DI BARBIERE AL LIVELLO SUCCESSIVO";
+
+/* Class = "UIButton"; normalTitle = "Save Manual Booking"; ObjectID = "yNL-bL-liE"; */
+"yNL-bL-liE.normalTitle" = "Blocca l'orario di spegnimento";
+"Hn1-xY-JHE.normalTitle" = "Aggiungi una prenotazione manuale";
+
+
+
+/* Class = "UILabel"; text = "Haircut & Beard"; ObjectID = "yR3-Dm-PIF"; */
+"yR3-Dm-PIF.text" = "Haircut & Beard";
+
+/* Class = "UIButton"; normalTitle = "Choose"; ObjectID = "zF2-o7-1mD"; */
+"zF2-o7-1mD.normalTitle" = "Scegliere";
+
+/* Class = "UIButton"; normalTitle = "  Stylist"; ObjectID = "zJf-Js-ltB"; */
+"zJf-Js-ltB.normalTitle" = "  Barbiere";
+
+/* Class = "UIButton"; selectedTitle = "  Stylist"; ObjectID = "zJf-Js-ltB"; */
+"zJf-Js-ltB.selectedTitle" = "  Barbiere";
+
+/* Class = "UILabel"; text = "Wallet"; ObjectID = "zhd-fN-eRN"; */
+"zhd-fN-eRN.text" = "Montant disponible pour retrait";
+
+//"SLd-qB-LAZ.text" = "GROW YOUR BUSINESS AND YOUR CUSTOMER FLOW";
+
+"N3L-Wl-wHs.text" = "Historique des transactions";
+
+"JqI-My-AzB.text" = "Cronologia dei prelievi";
+
+
+"67v-0d-5Jx.text" = "EUR 19.99";
+"OKg-nV-E56.text" = "EUR 199.99";
+"hNo-3e-6BC.text" = "Mensile";
+"xzK-ir-dJg.text" = "Annuale";
+//
+
+"AaX-Q7-LAB.text" = "Nome del cliente";
+"ebg-o2-EhT.text" = "Aggiungi una prenotazione manuale";
+"pUf-YG-Rb7.placeholder" = "Inserisci il nome del cliente";
+"ZD3-yN-up2.text" = "Numero di telefono del cliente (non obbligatorio)";
+"qvD-vb-so2.placeholder" = "Inserisci numero";
+"5n2-UH-TX9.text" = "Servizi";
+"gU7-Lo-uOK.text" = "Seleziona Servizi";
+"PXW-dt-6ob.text" = "Seleziona Data";
+"RzN-0x-FhX.text" = "Seleziona Ora";
+"EFc-Gz-vUK.normalTitle" =  "Conferma la prenotazione manuale";
+"EeV-Ba-2zZ.text" = "*Aggiungendo una prenotazione manuale, confermi l'autorizzazione all'utilizzo dei dati del cliente.*";
+
+"DYM-yI-07W.normalTitle" = "Riprogrammare";
+"7pM-jq-FOF.normalTitle" = "Riprogrammare";

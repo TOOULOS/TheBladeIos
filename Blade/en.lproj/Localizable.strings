@@ -1,0 +1,197 @@
+/* 
+  Localizable.strings
+  Blade
+
+  Created by cqlsys on 13/12/22.
+  
+*/
+
+"Paid Online" = "Paid Online";
+"Paid at Salon" = "Paid at Barber Shop";
+"Rate" = "Rate";
+"Customer Name" = "Customer Name";
+"Completed" = "Completed";
+"Cancelled" = "Cancelled";
+"Cancel" = "Cancel";
+"Complete" = "Complete";
+"Accepted" = "Accepted";
+"Reject" = "Reject";
+"Accept" = "Accept";
+"Pending" = "Pending";
+"card ending with" = "card ending with";
+"No appointments available" = "No appointments available";
+"Remove Manual Booking" = "Remove Manual Booking";
+"Slot is not available for this booking" = "Slot is not available for this booking";
+"Save Manual Booking" = "Save Manual Booking";
+"Weekly" = "Weekly";
+"Monthly" = "Monthly";
+"Yearly" = "Yearly";
+"Jan" = "Jan";
+"Feb" = "Feb";
+"Mar" = "Mar";
+"Apr" = "Apr";
+"May" = "May";
+"Jun" = "Jun";
+"Jul" = "Jul";
+"Aug" = "Aug";
+"Sep" = "Sep";
+"Oct" = "Oct";
+"Nov" = "Nov";
+"Dec" = "Dec";
+"Profile" = "Profile";
+"Wallet" = "Wallet";
+"Salon Hours" = "Barber Shop Hours";
+"My Stylist" = "My Barber";
+"Change Password" = "Change Password";
+"Privacy Policy" = "Privacy Policy";
+"About Us" = "About Us";
+"Delete Account" = "Delete Account";
+"Contact Us" = "Contact Us";
+"Are you sure, you want to logout?" = "Are you sure, you want to logout?";
+"Are you sure, you want to cancel your booking?" = "Are you sure, you want to cancel your booking?";
+"Are you sure, you want to delete this account?" = "Are you sure, you want to delete this account?";
+"Withdraw" = "Withdraw";
+"Conncet Stripe to withdraw" = "Conncet Stripe to withdraw";
+"Enter amount to withdraw." = "Enter amount to withdraw.";
+"Requried entered amount to withdraw should be greater than €1." = "Requried entered amount to withdraw should be greater than €1.";
+"Booking start date/time is" = "Booking start date/time is";
+". Before booking date and time you cann't complete this." = ". Before booking date and time you cann't complete this.";
+"No data found" = "No data found";
+"Post your review for" = "Post your review for";
+"Add your review" = "Add your review";
+"Please enter name" = "Please enter name";
+"Please enter phone number" = "Please enter phone number";
+"Please enter location" = "Please enter location";
+"Please enter description" = "Please enter description";
+"Update Salon Timings" = "Update Barber Shop Hours";
+"Closed" = "Closed";
+"Please enter monday timing" = "Please enter monday timing";
+"Please enter tuesday timing" = "Please enter tuesday timing";
+"Please enter wednesday timing" = "Please enter wednesday timing";
+"Please enter thursday timing" = "Please enter thursday timing";
+"Please enter friday timing" = "Please enter friday timing";
+"Please enter saturday timing" = "Please enter saturday timing";
+"Please enter sunday timing" = "Please enter sunday timing";
+"
+" = "Minutes";
+"10 minutes" = "10 minutes";
+"20 minutes" = "20 minutes";
+"30 minutes" = "30 minutes";
+"40 minutes" = "40 minutes";
+"50 minutes" = "50 minutes";
+"60 minutes" = "60 minutes";
+"70 minutes" = "70 minutes";
+"80 minutes" = "80 minutes";
+"90 minutes" = "90 minutes";
+"100 minutes" = "100 minutes";
+"110 minutes" = "110 minutes";
+"120 minutes" = "120 minutes";
+"130 minutes" = "130 minutes";
+"140 minutes" = "140 minutes";
+"150 minutes" = "150 minutes";
+"160 minutes" = "160 minutes";
+"170 minutes" = "170 minutes";
+"180 minutes" = "180 minutes";
+"Edit Salon Services" = "Edit Barber Shop Services";
+"Please enter service name" = "Please enter service name";
+"Please enter price" = "Please enter price";
+"Please select time" = "Please select time";
+"Please select image" = "Please select image";
+"Please enter saloon name" = "Please enter saloon name";
+"Please enter email" = "Please enter email";
+"Please enter valid email address" = "Please enter valid email address";
+"Please select saloon service" = "Please select saloon service";
+"Please enter valid phone number" = "Please enter valid phone number";
+"Please enter bio" = "Please enter bio";
+"Please select any service" = "Please select any service";
+"Sunday" = "Sunday";
+"Monday" = "Monday";
+"Tuesday" = "Tuesday";
+"Wednesday" = "Wednesday";
+"Thursday" = "Thursday";
+"Friday" = "Friday";
+"Saturday" = "Saturday";
+"Please enter accurate date" = "Enter valid working hours";
+"Reschedule" = "Reschedule";
+"Cancelled by you" = "Cancelled by you";
+"Cancelled by salon" = "Cancelled by Barber Shop";
+"Cancelled by stylist" = "Cancelled by barber";
+"Rate & Review" = "Rate & Review";
+"Reviewd" = "Reviewed";
+"About" = "About";
+"Contact" = "Contact";
+"customer rating" = "customer rating";
+"Select Service" = "Select Service";
+"Please select service first" = "Please select service first";
+"Please select slot" = "Please select slot";
+"Stylist Name" = "Barber Name";
+"Salon Owner Name" = "Shop Owner Name";
+"You have" = "You have";
+"balance in your wallet. You can use €5 in one online paid booking only when you have balance" = "balance in your wallet. You can use €5 in one online paid booking only when you have balance";
+"Are you sure you want to delete this card" = "Are you sure you want to delete this card";
+"Please enter card" = "Please enter card";
+"Please enter valid card" = "Please enter valid card";
+"Please enter expiry date" = "Please enter expiry date";
+"Please enter cvv" = "Please enter cvv";
+"Services" = "Services";
+"Service" = "Service";
+"Gallery" = "Gallery";
+"Reviews" = "Reviews";
+"Rewards" = "Rewards";
+"My Reviews" = "My Reviews";
+"Term of use" = "Term of use";
+"Please enter password" = "Please enter password";
+"Please select location" = "Please select location";
+"Terms & Conditions" = "Terms & Conditions";
+"Please enter old password" = "Please enter old password";
+"Please enter new password" = "Please enter new password";
+"Please enter confirm password" = "Please enter confirm password";
+"New and confirm password not match" = "New and confirm password not match";
+"Change Language" = "Change Language";
+"Rate & Review Blade App" = "Rate & Review Blade App";
+"All Barbers Earnings" = "All Barbers Earnings";
+"Shop Owner Earnings" = "Shop Owner Earnings";
+"Duration" = "Duration";
+"Ok" = "Ok";
+"Hi" = "Hi";
+"Barbers" = "Barbers";
+"Booking sent" = "Booking sent";
+"Are you sure you want to cancel your booking?\nYour appointment is in less than 24hrs.\n\nIf you wish to cancel your appointment you will receive 50% of your payment back.\n( Do you wish to cancel your appointment or reschedule?)" = "Are you sure you want to cancel your booking?\nYour appointment is in less than 24hrs.\n\nIf you wish to cancel your appointment you will receive 50% of your payment back.\n( Do you wish to cancel your appointment or reschedule?)";
+"Are you sure you want to cancel your booking?\nYour appointment is in less than 12hrs.\n\nIf you wish to cancel your appointment you will not receive a refund.\n\n( Do you wish to cancel your appointment or reschedule?)" = "Are you sure you want to cancel your booking?\nYour appointment is in less than 12hrs.\n\nIf you wish to cancel your appointment you will not receive a refund.\n\n( Do you wish to cancel your appointment or reschedule?)";
+"Booking Completed" = "Booking Completed";
+"Booking accepted" = "Booking accepted";
+"Add barber" = "Add your employees";
+"Add your employees" = "Add your employees";
+"Earnings" = "Earnings";
+"Please select terms" = "Please select terms";
+
+"TEST" = "Money that you receive through the TheBladeApp will be automatically transfer in your STRIPE connected Bank account.\n\nYour Stripe funds will be available in your bank account within 7-14 days from the day that the payments were received.\n\nThe Blade App and Stripe uses a high secured protocol and encryption to safeguard all transactions.\n\nFor any inquiries contact Us Support@thebladeapp.com";
+
+"Transactions History" = "Transactions History";
+
+"Amount" = "Amount";
+"Status : Available" = "Status : Available";
+"Completed On" = "Completed On";
+"Status : Pending" = "Status : Pending";
+"Available On" = "Available On";
+
+"Withdrawal History" = "Withdrawal History";
+"Withdraw Created on" = "Withdraw Created on";
+
+"Change wallet card" = "Change wallet card";
+"Break" = "Break";
+"Manual Booking" = "Manual Booking";
+"Block Off Time" = "Block Off Time";
+"Remove Block Off Time" = "Remove Block Off Time";
+
+"Notification permission was previously denied, go to settings & privacy to re-enable" = "Notification permission was previously denied, go to settings & privacy to re-enable";
+
+"Please complete signup process to make your shop visible." = "Please complete signup process to make your shop visible.";
+"Location Address" = "Location Address";
+"Employees will receive  their login details and they must login as clients." = "Your employees will receive their login details through email to access the app. Please ask them to check their email to receive the login details.";
+"No notifications are available currently for you."=  "No notifications are available currently for you.";
+
+"Link copied successfully." = "Link copied successfully.";
+
+"Sticker downloaded successfully." = "Sticker downloaded successfully.";
+"Please enable the E-mail." = "Please enable the E-mail.";

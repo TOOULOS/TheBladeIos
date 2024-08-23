@@ -1,0 +1,504 @@
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "0fi-aT-DnU"; */
+"0fi-aT-DnU.text" = "Email";
+
+/* Class = "UITextField"; placeholder = "10:00 am - 8:00 pm"; ObjectID = "1Io-N5-hd2"; */
+"1Io-N5-hd2.placeholder" = "00:00 - 00:00";
+
+/* Class = "UIButton"; normalTitle = "Update"; ObjectID = "1aY-lg-Xd5"; */
+"1aY-lg-Xd5.normalTitle" = "Ενημέρωση";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "2hK-xn-Y62"; */
+"2hK-xn-Y62.text" = "Email";
+
+/* Class = "UILabel"; text = "Saturday"; ObjectID = "2sZ-HV-l0g"; */
+"2sZ-HV-l0g.text" = "Σάββατο";
+
+/* Class = "UIButton"; normalTitle = "Get Started"; ObjectID = "3Rl-oO-Peb"; */
+"3Rl-oO-Peb.normalTitle" = "Ας ξεκινήσουμε";
+
+/* Class = "UILabel"; text = "Add Service Service"; ObjectID = "3d3-2c-dAm"; */
+"3d3-2c-dAm.text" = "Προσθήκη υπηρεσίας";
+
+/* Class = "UILabel"; text = "Already a user?"; ObjectID = "4At-HL-K7y"; */
+"4At-HL-K7y.text" = "Υπάρχων χρήστης?";
+
+/* Class = "UITextField"; placeholder = "Enter Number"; ObjectID = "4IT-fC-Kcw"; */
+"4IT-fC-Kcw.placeholder" = "Εισάγετε αριθμό";
+
+/* Class = "UITextField"; text = "+91"; ObjectID = "4IT-fC-Kcw"; */
+"4IT-fC-Kcw.text" = "+91";
+
+/* Class = "UITextField"; placeholder = "10:00 am - 8:00 pm"; ObjectID = "5d7-ey-DJL"; */
+"5d7-ey-DJL.placeholder" = "00:00 - 00:00";
+
+/* Class = "UILabel"; text = "Let’s Get Started"; ObjectID = "6CW-MM-54m"; */
+"6CW-MM-54m.text" = "Συνδεθείτε για να συνεχίσετε";
+
+/* Class = "UILabel"; text = "Monday"; ObjectID = "6cn-zv-1oM"; */
+"6cn-zv-1oM.text" = "Δευτέρα";
+
+/* Class = "UILabel"; text = "Select End Time"; ObjectID = "6gp-Pz-GU2"; */
+"6gp-Pz-GU2.text" = "Επιλέξτε ώρα λήξης";
+
+/* Class = "UILabel"; text = "Thursday"; ObjectID = "7AU-gl-bGb"; */
+"7AU-gl-bGb.text" = "Πέμπτη ";
+
+"CUU-r1-E9x.text" = "Αριθμός τηλεφώνου καταστήματος";
+
+/* Class = "UITextField"; placeholder = "Enter name"; ObjectID = "7sD-zr-P83"; */
+"7sD-zr-P83.placeholder" = "Συμπληρώστε το Ονοματεπώνυμό σας";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "8PC-wM-fob"; */
+"8PC-wM-fob.normalTitle" = "Υποβολή";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "8Sp-kp-ggc"; */
+"8Sp-kp-ggc.normalTitle" = "Σύνδεση";
+
+
+
+/* Class = "UITextField"; placeholder = "Enter name"; ObjectID = "8k0-Th-366"; */
+"8k0-Th-366.placeholder" = "Όνομα κουρέα";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "8qE-GY-wkK"; */
+"8qE-GY-wkK.text" = "Όνομα";
+
+/* Class = "UITextField"; placeholder = "Select Service"; ObjectID = "9Zb-af-gLG"; */
+"9Zb-af-gLG.placeholder" = "Επιλέξτε Υπηρεσίες";
+
+/* Class = "UILabel"; text = "Forgot Password"; ObjectID = "9bV-Br-M39"; */
+"9bV-Br-M39.text" = "Ξέχασα τον κωδικό πρόσβασης";
+
+/* Class = "UILabel"; text = "New Password"; ObjectID = "9cD-CW-8DE"; */
+"9cD-CW-8DE.text" = "Νέος Κωδικός Πρόσβασης";
+
+/* Class = "UITextField"; placeholder = "Enter Number"; ObjectID = "9dG-gU-guY"; */
+"9dG-gU-guY.placeholder" = "Εισάγετε αριθμό";
+
+/* Class = "UITextField"; text = "+91"; ObjectID = "9dG-gU-guY"; */
+"9dG-gU-guY.text" = "+91";
+
+/* Class = "UILabel"; text = "Working"; ObjectID = "ANi-XJ-j0P"; */
+"ANi-XJ-j0P.text" = "Λειτουργία";
+
+/* Class = "UITextField"; placeholder = "Enter Email"; ObjectID = "ARJ-cC-SHU"; */
+"ARJ-cC-SHU.placeholder" = "Εισάγετε Email";
+
+/* Class = "UITextField"; placeholder = "10:00 am - 8:00 pm"; ObjectID = "AbT-xT-B2r"; */
+"AbT-xT-B2r.placeholder" = "00:00 - 00:00";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "AeX-Wc-94I"; */
+"AeX-Wc-94I.normalTitle" = "Υποβολή";
+
+/* Class = "UITextField"; placeholder = "Enter email"; ObjectID = "BTF-HO-AaV"; */
+"BTF-HO-AaV.placeholder" = "Εισάγετε Email";
+
+/* Class = "UILabel"; text = "Let’s Get Started"; ObjectID = "ESS-6Z-yV4"; */
+"ESS-6Z-yV4.text" = "Ας ξεκινήσουμε";
+
+/* Class = "UILabel"; text = "Add Name"; ObjectID = "Ec6-YQ-b3C"; */
+"Ec6-YQ-b3C.text" = "Εισαγωγή ονόματος";
+
+/* Class = "UILabel"; text = "Add Salon Timings"; ObjectID = "FWb-OF-FQC"; */
+"FWb-OF-FQC.text" = "Προσθέστε ώρες κουρείου";
+
+/* Class = "UILabel"; text = "Time"; ObjectID = "FgF-vD-0He"; */
+"FgF-vD-0He.text" = "Ώρα έναρξης";
+"22c-8p-Pwr.text" = "Ώρα έναρξης";
+"pOc-Jy-kY3.text" = "Ώρα έναρξης";
+"41d-jQ-cGX.text" = "Ώρα έναρξης";
+"Nbe-2x-2WP.text" = "Ώρα έναρξης";
+
+/* Class = "UITextField"; placeholder = "Enter Email"; ObjectID = "Fmu-Pf-5hK"; */
+"Fmu-Pf-5hK.placeholder" = "Εισάγετε Email";
+
+/* Class = "UITextField"; placeholder = "Enter Number"; ObjectID = "GPQ-iD-v5q"; */
+"GPQ-iD-v5q.placeholder" = "Εισάγετε αριθμό";
+
+/* Class = "UILabel"; text = "Find a Barber shop near you"; ObjectID = "GVE-Gn-SCe"; */
+"GVE-Gn-SCe.text" = "Βρείτε ένα κουρείο κοντά σας";
+
+/* Class = "UILabel"; text = "Select Services"; ObjectID = "He9-qi-aPh"; */
+"He9-qi-aPh.text" = "Επιλέξτε Υπηρεσίες";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "HiJ-rB-Gyr"; */
+"HiJ-rB-Gyr.normalTitle" = "Επόμενο";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "I9g-eF-EmP"; */
+"I9g-eF-EmP.text" = "Κωδικός Πρόσβασης";
+
+/* Class = "UILabel"; text = "Phone"; ObjectID = "IEu-LX-ywu"; */
+"IEu-LX-ywu.text" = "Τηλέφωνο";
+
+/* Class = "UILabel"; text = "Add Salon Services"; ObjectID = "Iq2-AV-eLa"; */
+"Iq2-AV-eLa.text" = "Προσθέστε υπηρεσίες του κουρείου σας.";
+
+/* Class = "UILabel"; text = "Select Services"; ObjectID = "J0K-P8-k0C"; */
+"J0K-P8-k0C.text" = "Επιλέξτε Υπηρεσίες";
+
+/* Class = "UILabel"; text = "Change Password"; ObjectID = "JMj-5T-SHb"; */
+"JMj-5T-SHb.text" = "Αλλαγή Κωδικού Πρόσβασης";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "JXp-vj-WIj"; */
+"JXp-vj-WIj.text" = "Τοποθεσία";
+
+/* Class = "UILabel"; text = "Select Start  Time"; ObjectID = "JnU-eJ-pqJ"; */
+"JnU-eJ-pqJ.text" = "Επιλέξτε ώρα έναρξης";
+
+/* Class = "UITextField"; placeholder = "10:00 am - 8:00 pm"; ObjectID = "JvT-eG-7Is"; */
+"JvT-eG-7Is.placeholder" = "00:00 - 00:00";
+
+/* Class = "UITextField"; placeholder = "10:00 am - 8:00 pm"; ObjectID = "KPm-eQ-8ZD"; */
+"KPm-eQ-8ZD.placeholder" = "00:00 - 00:00";
+
+/* Class = "UILabel"; text = "Friday"; ObjectID = "L7S-EQ-7ce"; */
+"L7S-EQ-7ce.text" = "Παρασκευή";
+
+/* Class = "UITextField"; placeholder = "Enter Number"; ObjectID = "LD6-IX-TYf"; */
+"LD6-IX-TYf.placeholder" = "Εισάγετε αριθμό";
+
+/* Class = "UITextField"; placeholder = "10:00 am - 8:00 pm"; ObjectID = "LqS-hj-VCA"; */
+"LqS-hj-VCA.placeholder" = "00:00 - 00:00";
+
+/* Class = "UITextField"; placeholder = "Please enter name"; ObjectID = "MVQ-K7-Zrs"; */
+"MVQ-K7-Zrs.placeholder" = "Όνομα καταστήματος";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "Mml-IO-Hty"; */
+"Mml-IO-Hty.text" = "Όνομα";
+
+/* Class = "UILabel"; text = "Add Salon Timings"; ObjectID = "MpJ-Nf-vmN"; */
+"MpJ-Nf-vmN.text" = "Προσθέστε ώρες κουρείου";
+
+/* Class = "UIButton"; normalTitle = "Add Service"; ObjectID = "NHE-BX-8CZ"; */
+"NHE-BX-8CZ.normalTitle" = "Προσθήκη υπηρεσίας";
+
+/* Class = "UITextField"; placeholder = "10:00 am - 8:00 pm"; ObjectID = "OAU-v9-nOI"; */
+"OAU-v9-nOI.placeholder" = "00:00 - 00:00";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "OIE-pC-Y6F"; */
+"OIE-pC-Y6F.text" = "Τοποθεσία";
+
+/* Class = "UILabel"; text = "Add your salon details"; ObjectID = "OQq-UU-w5Q"; */
+"OQq-UU-w5Q.text" = "Προσθέστε τα στοιχεία του κουρείου σας";
+
+/* Class = "UILabel"; text = "Add Salon Photo"; ObjectID = "Ozi-HH-MWW"; */
+"Ozi-HH-MWW.text" = "Προσθήκη φωτογραφίας κουρείου ";
+
+/* Class = "UILabel"; text = "5.0"; ObjectID = "Pwc-q2-HfD"; */
+"Pwc-q2-HfD.text" = "5.0";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "Q1U-9Z-b2e"; */
+"Q1U-9Z-b2e.normalTitle" = "Αποθήκευση";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "Ql2-EO-6uv"; */
+"Ql2-EO-6uv.normalTitle" = "Κάντε Εγγραφή";
+
+"9Jz-JO-9ld.normalTitle" = "πρόσθεσε περισσότερα";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "RCo-We-7uG"; */
+"RCo-We-7uG.text" = "Τοποθεσία";
+
+"snN-e8-xSA.text" = "Περιγραφή";
+
+/* Class = "UITextField"; placeholder = "*****"; ObjectID = "RR3-ps-Hhi"; */
+"RR3-ps-Hhi.placeholder" = "*****";
+
+/* Class = "UIButton"; normalTitle = "Facebook"; ObjectID = "ReO-Li-Fiu"; */
+"ReO-Li-Fiu.normalTitle" = "Facebook";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "RfV-se-kGo"; */
+"RfV-se-kGo.normalTitle" = "Κάντε Εγγραφή";
+
+/* Class = "UITextField"; placeholder = "Enter Number"; ObjectID = "Rfg-Cd-UBR"; */
+"Rfg-Cd-UBR.placeholder" = "Εισάγετε αριθμό";
+
+/* Class = "UITextField"; text = "+91"; ObjectID = "Rfg-Cd-UBR"; */
+"Rfg-Cd-UBR.text" = "+91";
+
+"JNT-IW-kfs.text" = "Επιλέξτε γλώσσα";
+
+
+/* Class = "UITextField"; placeholder = "Select Time"; ObjectID = "Rjq-sK-Eba"; */
+"Rjq-sK-Eba.placeholder" = "Επιλέξτε ώρα";
+
+/* Class = "UITextField"; placeholder = "Please enter location"; ObjectID = "Ro4-aq-xE5"; */
+"Ro4-aq-xE5.placeholder" = "Επιλέξτε Τοποθεσία";
+
+/* Class = "UITextField"; placeholder = "Enter email"; ObjectID = "SLI-Jx-M0A"; */
+"SLI-Jx-M0A.placeholder" = "Εισάγετε Email";
+
+/* Class = "UITextField"; placeholder = "Enter Number"; ObjectID = "SWo-xQ-6xv"; */
+"SWo-xQ-6xv.placeholder" = "Εισάγετε αριθμό";
+
+/* Class = "UILabel"; text = "Phone"; ObjectID = "TIB-T0-tDK"; */
+"TIB-T0-tDK.text" = "Τηλέφωνο";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "VHA-p8-PhO"; */
+"VHA-p8-PhO.text" = "Email";
+
+/* Class = "UILabel"; text = "Phone"; ObjectID = "VkJ-vW-sGJ"; */
+"VkJ-vW-sGJ.text" = "Τηλέφωνο";
+
+/* Class = "UILabel"; text = "Old Password"; ObjectID = "W0o-cf-u0y"; */
+"W0o-cf-u0y.text" = "Παλιός Κωδικός Πρόσβασης";
+
+/* Class = "UITextField"; placeholder = "*****"; ObjectID = "XHi-T0-hju"; */
+"XHi-T0-hju.placeholder" = "*****";
+
+/* Class = "UITextField"; placeholder = "******"; ObjectID = "XzR-WC-vVE"; */
+"XzR-WC-vVE.placeholder" = "******";
+
+/* Class = "UILabel"; text = "Explore services by creating account!"; ObjectID = "YIh-ig-ETw"; */
+"YIh-ig-ETw.text" = "Εξερευνήστε υπηρεσίες με τη δημιουργία λογαριασμού!";
+
+/* Class = "UILabel"; text = "Monday"; ObjectID = "Zxz-4u-Qy4"; */
+"Zxz-4u-Qy4.text" = "Δευτέρα";
+
+/* Class = "UILabel"; text = "Tuesday"; ObjectID = "a8u-X4-ygy"; */
+"a8u-X4-ygy.text" = "Τρίτη";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "b8H-R3-gfV"; */
+"b8H-R3-gfV.normalTitle" = "Σύνδεση";
+
+/* Class = "UILabel"; text = "Phone"; ObjectID = "bZe-u1-gDd"; */
+"bZe-u1-gDd.text" = "Τηλέφωνο";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "bnw-UT-R2D"; */
+"bnw-UT-R2D.normalTitle" = "Σύνδεση";
+
+/* Class = "UITextField"; placeholder = "*****"; ObjectID = "bqC-x5-d91"; */
+"bqC-x5-d91.placeholder" = "*****";
+
+/* Class = "UILabel"; text = "Profile"; ObjectID = "c2D-HE-JQv"; */
+"c2D-HE-JQv.text" = "Προφίλ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "eJG-5w-Wtk"; */
+"eJG-5w-Wtk.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "fPN-LM-qNI"; */
+"fPN-LM-qNI.normalTitle" = "Υποβολή";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "fUR-hv-CWl"; */
+"fUR-hv-CWl.text" = "Email";
+
+/* Class = "UILabel"; text = "Add Salon Timings"; ObjectID = "feE-i3-Rmi"; */
+"feE-i3-Rmi.text" = "Προσθέστε ώρες κουρείου";
+
+/* Class = "UILabel"; text = "Welcome to Blade "; ObjectID = "g98-Ad-RwO"; */
+"g98-Ad-RwO.text" = "Καλώς ήρθατε στο Bladeapp ";
+
+/* Class = "UILabel"; text = "Or login with"; ObjectID = "gSX-47-EnS"; */
+"gSX-47-EnS.text" = "ή Συνδεθείτε μέσω";
+
+/* Class = "UILabel"; text = "Active"; ObjectID = "hUE-cp-qol"; */
+"hUE-cp-qol.text" = "Ενεργό";
+"dxW-g4-IhM.text" = "Ενεργό";
+"pr4-1u-r2w.text" = "Ενεργό";
+"0Iw-Zf-dYf.text" = "Ενεργό";
+"mqi-rw-Ide.text" = "Ενεργό";
+
+/* Class = "UITextField"; placeholder = "Enter name"; ObjectID = "hUf-R8-ogs"; */
+"hUf-R8-ogs.placeholder" = "Συμπληρώστε το Ονοματεπώνυμό σας";
+
+/* Class = "UILabel"; text = "Welcome to Blade!"; ObjectID = "hqU-aU-g9r"; */
+"hqU-aU-g9r.text" = "Καλώς ήρθατε στο Bladeapp!";
+
+/* Class = "UILabel"; text = "Bio"; ObjectID = "iXh-n3-GQo"; */
+"iXh-n3-GQo.text" = "Βιογραφικό";
+
+/* Class = "UILabel"; text = "Update Stylist"; ObjectID = "jNm-dN-jBy"; */
+"jNm-dN-jBy.text" = "Ενημέρωση Barber";
+
+/* Class = "UILabel"; text = "Є Price"; ObjectID = "jP4-AS-788"; */
+"jP4-AS-788.text" = "Є Τιμή";
+"MWC-I0-Fbd.text" = "Є Τιμή";
+"gJa-pw-GfI.text" = "Є Τιμή";
+"hCw-xM-t1h.text" = "Є Τιμή";
+"6Zm-AY-Uyn.text" = "Є Τιμή";
+
+
+/* Class = "UILabel"; text = "Wednesday"; ObjectID = "jql-dq-64m"; */
+"jql-dq-64m.text" = "Τετάρτη";
+
+/* Class = "UIButton"; normalTitle = "  Shop Owner"; ObjectID = "kIV-zc-6sG"; */
+"kIV-zc-6sG.normalTitle" = "  Ιδιοκτήτης Καταστήματος";
+
+/* Class = "UIButton"; selectedTitle = "  Shop Owner"; ObjectID = "kIV-zc-6sG"; */
+"kIV-zc-6sG.selectedTitle" = "  Ιδιοκτήτης Καταστήματος";
+
+/* Class = "UILabel"; text = "Confirm Password"; ObjectID = "ka2-oS-TP3"; */
+"ka2-oS-TP3.text" = "Επιβεβαίωση Κωδικού ";
+
+/* Class = "UITextField"; placeholder = "Enter Number"; ObjectID = "lIb-ff-4rx"; */
+"lIb-ff-4rx.placeholder" = "Εισάγετε αριθμό";
+
+/* Class = "UITextField"; text = "+91"; ObjectID = "lIb-ff-4rx"; */
+"lIb-ff-4rx.text" = "+91";
+
+/* Class = "UITextField"; placeholder = "Description"; ObjectID = "m7D-b2-nOq"; */
+"m7D-b2-nOq.placeholder" = "Περιγραφή";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "mA8-QG-oSa"; */
+"mA8-QG-oSa.text" = "Περιγραφή";
+
+/* Class = "UILabel"; text = "Let’s Get Started"; ObjectID = "mvP-y0-R0V"; */
+"mvP-y0-R0V.text" = "Ας ξεκινήσουμε";
+
+/* Class = "UILabel"; text = "Add Name"; ObjectID = "n8o-iJ-hJI"; */
+"n8o-iJ-hJI.text" = "Εισαγωγή ονόματος";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "ncc-y7-aNC"; */
+"ncc-y7-aNC.normalTitle" = "Επόμενο";
+
+/* Class = "UILabel"; text = "Add Salon Timings"; ObjectID = "ojV-66-OsB"; */
+"ojV-66-OsB.text" = "Προσθέστε ώρες κουρείου";
+
+/* Class = "UILabel"; text = "New user?"; ObjectID = "pJN-BI-mRw"; */
+"pJN-BI-mRw.text" = "Νέος Χρήστης;";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "pa6-8D-R87"; */
+"pa6-8D-R87.text" = "Κωδικός Πρόσβασης";
+
+/* Class = "UIButton"; normalTitle = "  Customer"; ObjectID = "pgv-Lk-sh0"; */
+"pgv-Lk-sh0.normalTitle" = "  Πελάτης";
+
+/* Class = "UIButton"; selectedTitle = "  Customer"; ObjectID = "pgv-Lk-sh0"; */
+"pgv-Lk-sh0.selectedTitle" = "  Πελάτης";
+
+/* Class = "UITextField"; placeholder = "Price"; ObjectID = "rUO-SF-iga"; */
+"rUO-SF-iga.placeholder" = "Τιμή";
+
+/* Class = "UITextField"; placeholder = "Select Location"; ObjectID = "rw4-se-cLV"; */
+"rw4-se-cLV.placeholder" = "Επιλέξτε Τοποθεσία";
+
+/* Class = "UITextField"; placeholder = "Add Service Name"; ObjectID = "s3u-HC-ol1"; */
+"s3u-HC-ol1.placeholder" = "Προσθήκη ονόματος υπηρεσίας";
+
+/* Class = "UITextField"; placeholder = "Enter Email"; ObjectID = "sDE-fH-lk7"; */
+"sDE-fH-lk7.placeholder" = "Εισάγετε Email";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "sgV-8X-A7f"; */
+"sgV-8X-A7f.text" = "Email";
+
+/* Class = "UILabel"; text = "Privacy"; ObjectID = "tpy-8T-roq"; */
+"tpy-8T-roq.text" = "Πολιτική Απορρήτου";
+
+/* Class = "UILabel"; text = "Add Salon Timings"; ObjectID = "u97-bO-pDC"; */
+"u97-bO-pDC.text" = "Προσθέστε ώρες κουρείου";
+
+/* Class = "UIButton"; normalTitle = "Google"; ObjectID = "uKP-JQ-Yeh"; */
+"uKP-JQ-Yeh.normalTitle" = "Google";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "uho-c0-2nS"; */
+"uho-c0-2nS.text" = "Περιγραφή";
+
+/* Class = "UITextField"; placeholder = "Select Location"; ObjectID = "wsA-UB-8BS"; */
+"wsA-UB-8BS.placeholder" = "Επιλέξτε Τοποθεσία";
+
+/* Class = "UITextField"; placeholder = "Enter Number"; ObjectID = "x8Q-zI-yfz"; */
+"x8Q-zI-yfz.placeholder" = "Εισάγετε αριθμό";
+
+/* Class = "UILabel"; text = "Add Service Name"; ObjectID = "ySB-aF-zk0"; */
+"ySB-aF-zk0.text" = "Προσθήκη ονόματος υπηρεσίας";
+"IVG-AK-04d.text" = "Προσθήκη ονόματος υπηρεσίας";
+"3G8-fv-A4h.text" = "Προσθήκη ονόματος υπηρεσίας";
+"1Si-w0-wuS.text" = "Προσθήκη ονόματος υπηρεσίας";
+"6Cd-PC-3Pg.text" = "Προσθήκη ονόματος υπηρεσίας";
+
+"lOA-7b-Udp.placeholder" = "Επιλέξτε όνομα υπηρεσίας";
+"KTD-nI-e82.placeholder" = "Επιλέξτε όνομα υπηρεσίας";
+"8g8-Hd-Sod.placeholder" = "Επιλέξτε όνομα υπηρεσίας";
+"ekm-1b-ov1.placeholder" = "Επιλέξτε όνομα υπηρεσίας";
+
+"aIj-5H-lie.placeholder" = "τιμή";
+"YOX-6S-M1c.placeholder" = "τιμή";
+"zfX-uv-YdH.placeholder" = "τιμή";
+"taj-R6-wAU.placeholder" = "τιμή";
+
+
+"Gu3-Ts-wtH.placeholder" = "Επιλέξτε ώρα";
+"q1b-hy-dq3.placeholder" = "Επιλέξτε ώρα";
+"QS3-z9-3Y7.placeholder" = "Επιλέξτε ώρα";
+"JwB-QB-zLB.placeholder" = "Επιλέξτε ώρα";
+
+/* Class = "UITextField"; placeholder = "*****"; ObjectID = "ztu-Ny-RT0"; */
+"ztu-Ny-RT0.placeholder" = "*****";
+
+/* Class = "UILabel"; text = "Sunday"; ObjectID = "zwG-aw-Hpe"; */
+"zwG-aw-Hpe.text" = "Κυριακή ";
+
+
+/* Class = "UILabel"; text = "Sunday"; ObjectID = "zwG-aw-Hpe"; */
+"9b4-km-qtc.text" = "Avaliable Wallet Amount";
+
+/* Class = "UILabel"; text = "Sunday"; ObjectID = "zwG-aw-Hpe"; */
+"V9W-O7-ROp.text" = "Διαθέσιμοι πόντοι επιβράβευσης";
+
+/* Class = "UILabel"; text = "Sunday"; ObjectID = "zwG-aw-Hpe"; */
+"J0m-Sr-NF0.text" = "Ανταμοιβές";
+
+/* Class = "UIButton"; normalTitle = "Update"; ObjectID = "1aY-lg-Xd5"; */
+"lpT-mi-hR6.normalTitle" = "Μετατροπή πόντων σε χρήματα από το πορτοφόλι";
+
+"03b-72-Rv7.text" = "Όνομα κουρείου";
+
+/* Class = "UIButton"; normalTitle = "I Accept Terms & Conditions"; ObjectID = "NHE-BX-8CZ"; */
+"KeD-BJ-RaH.normalTitle" = "Αποδέχομαι Όρους & Προϋποθέσεις";
+
+"CbD-dm-sQx.normalTitle" = "Ξεχάσατε τον κωδικό;";
+
+"M3s-Su-aLV.text" = "Διαθέσιμο πόσο στο πορτοφόλι σας";
+
+"bbl-UY-1fP.text" = "Μετατροπή επιβραβεύσεων σε πορτοφόλι";
+"LpM-PO-v8E.text" = "Διαθέσιμοι πόντοι επιβράβευσης";
+"GiW-FF-nDA.text" = "Για να μετατρέψετε πόντους ανταμοιβής σε χρήματα στο πορτοφόλι σας, χρειάζεστε τουλάχιστον 100 πόντους ανταμοιβής στο πορτοφόλι σας.";
+"ide-oA-fru.normalTitle" = "Ακύρωση";
+"lX5-75-hpm.normalTitle" = "Μετατροπή";
+"N90-dl-kEk.placeholder" = "Εισάγετε τιμές επιβράβευσης για μετατροπή";
+
+"YzQ-Xg-sm6.normalTitle" = "Παραβλεψη";
+
+"LJN-Cg-zq5.normalTitle" = "ΕΝΕΡΓΟΠΟΙΗΣΤΕ ΤΗΝ ΔΩΡΕΑΝ ΔΟΚΙΜΗ 30 ΗΜΕΡΩΝ";
+
+"5bm-em-ccw.text" = "Ενεργοποιήστε τη δωρεάν δοκιμή 30 ημερών του Blade\nχωρίς να δώσετε τα στοιχεία της πιστωτικής σας κάρτας.";
+
+"dz4-Cb-fe5.text" = "Θα σας ειδοποιήσουμε όταν λήξει η δωρεάν δοκιμή σας.";
+
+"Jel-N6-QhL.text" = "Διάλειμμα 1";
+"TZa-M4-lhR.text" = "Διάλειμμα 2";
+
+"ITA-m8-VLY.text" = "Διάλειμμα 1";
+"ICk-zJ-hee.text" = "Διάλειμμα 2";
+
+"nT5-hY-9sN.text" = "Διάλειμμα 1";
+"xAc-0R-0Nd.text" = "Διάλειμμα 2";
+
+"k0w-QR-c2a.text" = "Διάλειμμα 1";
+"vdH-7A-g3d.text" = "Διάλειμμα 2";
+
+"sA4-m4-IMo.text" = "Διάλειμμα 1";
+"AvH-XG-zgu.text" = "Διάλειμμα 2";
+
+"hHu-MA-HXl.text" = "Διάλειμμα 1";
+"Z5D-mf-bK3.text" = "Διάλειμμα 2";
+
+"TC9-D4-Rss.text" = "Διάλειμμα 1";
+"CQl-oC-HsJ.text" = "Διάλειμμα 2";
+
+"rgO-Y6-E3s.text" = "Εγγραφείτε ως";
+
+"ZmN-FZ-bco.normalTitle" = "Κουρέας";
+"WjH-Ks-saN.normalTitle" = "Πελάτης";
+
+
+"2rL-8k-4nl.normalTitle" = "  Εφαρμόστε όλα";
+
+
+"IhK-MU-M3z.text" = "Προσθέστε αυτόν τον σύνδεσμο στα κοινωνικά σας δίκτυα και προσκαλέστε τους πελάτες σας να κατεβάσουν την εφαρμογή και να ξεκινήσουν τις κρατήσεις μαζί σας.";
+"7XV-JL-nXw.text" = "Aντιγραφή";
+"EL4-Fz-foO.text" = "Κατεβάστε τον κωδικό QR μας,
+ή ζητήστε ένα αυτοκόλλητο Qr δωρεάν";
+
+"FvG-RF-EMh.normalTitle" = "Κατεβάστε το";
+"wKA-FU-mhJ.normalTitle" = "Aυτοκόλλητο";
+"xB5-9q-c9z.normalTitle" = "Συνέχεια";
